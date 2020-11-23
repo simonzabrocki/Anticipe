@@ -1,0 +1,19 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "EQ1",
+            "params": {
+                "dimensions": "[{name:'Location',values:['ALLAREA']}]",
+                "seriesCode": "EN_ATM_PM25"
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "EQ1",
+            "params": {
+                "indicator": "EN.ATM.PM25.MC.M3"
+            }
+        }
+    ]
+}

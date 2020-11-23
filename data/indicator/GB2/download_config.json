@@ -1,0 +1,32 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "GB2.0",
+            "params": {
+                "dimensions": "[{name:'Sex',values:['FEMALE']}]",
+                "seriesCode": "FB_BNK_ACCSS"
+            }
+        },
+        {
+            "GGI_code": "GB2.1",
+            "params": {
+                "dimensions": "[{name:'Sex',values:['MALE']}]",
+                "seriesCode": "FB_BNK_ACCSS"
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "GB2.0",
+            "params": {
+                "indicator": "FX.OWN.TOTL.FE.ZS"
+            }
+        },
+        {
+            "GGI_code": "GB2.1",
+            "params": {
+                "indicator": "FX.OWN.TOTL.MA.ZS"
+            }
+        }
+    ]
+}

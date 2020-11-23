@@ -1,0 +1,11 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "SP1",
+            "params": {
+                "seriesCode": "SI_COV_PENSN",
+                "dimensions": "[{name:'Sex',values:['BOTHSEX']}]"
+            }
+        }
+    ]
+}

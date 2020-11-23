@@ -1,0 +1,27 @@
+{
+    "CW": [
+        {
+            "GGI_code": "GE2.0",
+            "params": {
+                "gas_ids[]": [
+                    270,
+                    271,
+                    272
+                ],
+                "sector_ids[]": [
+                    960,
+                    956
+                ],
+                "source_ids[]": 81
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "GE2.1",
+            "params": {
+                "indicator": "SP.POP.TOTL"
+            }
+        }
+    ]
+}

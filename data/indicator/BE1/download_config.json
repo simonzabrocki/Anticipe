@@ -1,0 +1,28 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "BE1.0",
+            "params": {
+                "seriesCode": "ER_PTD_MOTN"
+            }
+        },
+        {
+            "GGI_code": "BE1.1",
+            "params": {
+                "seriesCode": "ER_MRN_MPA"
+            }
+        },
+        {
+            "GGI_code": "BE1.2",
+            "params": {
+                "seriesCode": "ER_PTD_FRWRT"
+            }
+        },
+        {
+            "GGI_code": "BE1.3",
+            "params": {
+                "seriesCode": "ER_PTD_TERRS"
+            }
+        }
+    ]
+}

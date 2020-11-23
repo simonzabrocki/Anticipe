@@ -1,0 +1,22 @@
+{
+    "WB": [
+        {
+            "GGI_code": "SE1.0",
+            "params": {
+                "indicator": "SI.DST.10TH.10"
+            }
+        },
+        {
+            "GGI_code": "SE1.1",
+            "params": {
+                "indicator": "SI.DST.04TH.20"
+            }
+        },
+        {
+            "GGI_code": "SE1.2",
+            "params": {
+                "indicator": "SI.DST.FRST.20"
+            }
+        }
+    ]
+}

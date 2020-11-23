@@ -1,0 +1,31 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "AB2.0",
+            "params": {
+                "dimensions": "[{name:'Location',values:['ALLAREA']}]",
+                "seriesCode": "EG_ELC_ACCS"
+            }
+        },
+        {
+            "GGI_code": "AB2.1",
+            "params": {
+                "seriesCode": "EG_EGY_CLEAN"
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "AB2.0",
+            "params": {
+                "indicator": "EG.ELC.ACCS.ZS"
+            }
+        },
+        {
+            "GGI_code": "AB2.1",
+            "params": {
+                "indicator": "EG.CFT.ACCS.ZS"
+            }
+        }
+    ]
+}

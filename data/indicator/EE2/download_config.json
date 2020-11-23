@@ -1,0 +1,18 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "EE2",
+            "params": {
+                "seriesCode": "EG_FEC_RNEW"
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "EE2",
+            "params": {
+                "indicator": "EG.FEC.RNEW.ZS"
+            }
+        }
+    ]
+}

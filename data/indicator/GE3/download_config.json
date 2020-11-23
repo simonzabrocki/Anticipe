@@ -1,0 +1,39 @@
+{
+    "CW": [
+        {
+            "GGI_code": "GE3.1",
+            "params": {
+                "gas_ids[]": [
+                    270,
+                    271,
+                    272
+                ],
+                "sector_ids[]": [
+                    960,
+                    962
+                ],
+                "source_ids[]": 81
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "GE3.1.a",
+            "params": {
+                "indicator": "EN.ATM.METH.AG.KT.CE"
+            }
+        },
+        {
+            "GGI_code": "GE3.1.b",
+            "params": {
+                "indicator": "EN.ATM.NOXE.AG.KT.CE"
+            }
+        },
+        {
+            "GGI_code": "GE3.0",
+            "params": {
+                "indicator": "SP.POP.TOTL"
+            }
+        }
+    ]
+}

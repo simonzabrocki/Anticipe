@@ -1,0 +1,12 @@
+{
+    "CW": [
+        {
+            "GGI_code": "GE1.0",
+            "params": {
+                "gas_ids[]": 269,
+                "sector_ids[]": 957,
+                "source_ids[]": 81
+            }
+        }
+    ]
+}

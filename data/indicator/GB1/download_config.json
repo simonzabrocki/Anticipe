@@ -1,0 +1,18 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "GB1",
+            "params": {
+                "seriesCode": "SG_GEN_PARL"
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "GB1",
+            "params": {
+                "indicator": "SG.GEN.PARL.ZS"
+            }
+        }
+    ]
+}

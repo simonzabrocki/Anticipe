@@ -1,0 +1,32 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "AB1.0",
+            "params": {
+                "dimensions": "[{name:'Location',values:['ALLAREA']}]",
+                "seriesCode": "SH_H2O_SAFE"
+            }
+        },
+        {
+            "GGI_code": "AB1.1",
+            "params": {
+                "dimensions": "[{name:'Location',values:['ALLAREA']}]",
+                "seriesCode": "SH_SAN_SAFE"
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "AB1.0",
+            "params": {
+                "indicator": "SH.H2O.SMDW.ZS"
+            }
+        },
+        {
+            "GGI_code": "AB1.1",
+            "params": {
+                "indicator": "SH.STA.SMSS.ZS"
+            }
+        }
+    ]
+}

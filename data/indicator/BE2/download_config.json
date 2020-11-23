@@ -1,0 +1,18 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "BE2",
+            "params": {
+                "seriesCode": "AG_LND_FRST"
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "BE2",
+            "params": {
+                "indicator": "AG.LND.FRST.ZS"
+            }
+        }
+    ]
+}

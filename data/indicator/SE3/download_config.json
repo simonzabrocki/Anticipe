@@ -1,0 +1,11 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "SE3",
+            "params": {
+                "seriesCode": "SL_TLF_NEET",
+                "dimensions": "[{name:'Sex',values:['BOTHSEX']},{name:'Age',values:['15-24']}]"
+            }
+        }
+    ]
+}
