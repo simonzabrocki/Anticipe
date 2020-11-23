@@ -147,7 +147,8 @@ def preprocess_raw_file_from_MANUAL(config):
     if 'Country' in df.columns:
         df = df[~df.Country.isin(exceptions_countries)]
         df = df.drop(columns='Country')
-    return df
+    df['From'] = 'MANUAL'
+    return df.dropna(subset=['ISO', 'Value', 'Year'])
 
 
 def preprocess_MANUAL_files():

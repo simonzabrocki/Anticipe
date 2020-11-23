@@ -2,6 +2,7 @@ import download.downloaders as dd
 import os
 import json
 
+
 def download_data_from_config(API_name, config, path, fresh_start):
     existing_files = os.listdir(path)
     file_name = config['GGI_code'] + "_" + API_name + '.json'

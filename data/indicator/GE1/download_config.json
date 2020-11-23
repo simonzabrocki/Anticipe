@@ -3,9 +3,17 @@
         {
             "GGI_code": "GE1.0",
             "params": {
-                "gas_ids[]": 269,
-                "sector_ids[]": 957,
-                "source_ids[]": 81
+              "gas_ids[]": 269,
+              "sector_ids[]": 957,
+              "source_ids[]": 81
+            }
+        }
+    ],
+    "WB": [
+        {
+            "GGI_code": "GE1.1",
+            "params": {
+                "indicator": "SP.POP.TOTL"
             }
         }
     ]

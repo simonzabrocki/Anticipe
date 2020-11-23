@@ -4,6 +4,11 @@ from processing.utils import add_ISO
 import json
 import numpy as np
 
+from data.indicator.GE1.preprocess import process_GE1_0
+from data.indicator.GE2.preprocess import process_GE2_0
+from data.indicator.GE3.preprocess import process_GE3_1
+
+
 class Preprocessor(metaclass=abc.ABCMeta):
     '''
     Abstract processor class used to preprocess data coming from API
@@ -112,6 +117,7 @@ class SDG_Preprocessor(Preprocessor):
     '''
     Processor class used to preprocess data coming from SDG API
     '''
+
     def json_to_pandas(self, json):
         df = pd.json_normalize(json)
         columns = df.columns
@@ -148,7 +154,14 @@ class SDG_Preprocessor(Preprocessor):
         return df
 
     def handle_exceptions(self, df):
+        excluded = [
+            "Northern Africa (exc. Sudan)",
+            "Micronesia",
+            "Southern Africa",
+            "Sudan [former]"
+        ]
 
+        df = df[~df.geoAreaName.isin(excluded)]
         if self.variable == 'AB2.1':
             df = df.copy()
             df.loc[df['value'] == '>95', 'value'] = 95
@@ -162,6 +175,7 @@ class WB_Preprocessor(Preprocessor):
     '''
     Processor class used to preprocess data coming from WB API
     '''
+
     def json_to_pandas(self, data_json):
         df = pd.json_normalize(data_json[1])
         df['Source'] = data_json[0]['Source']
@@ -190,6 +204,7 @@ class CW_Preprocessor(Preprocessor):
     '''
     Processor class used to preprocess data coming from CW API
     '''
+
     def dict_to_df(self, dictionnary):
         '''
         Convert a dict to a dataframe
@@ -214,8 +229,18 @@ class CW_Preprocessor(Preprocessor):
         return df
 
     def format_pandas(self, df):
-        df = df.rename(columns={'year': 'Year', 'value': 'Value', 'iso_code3': 'ISO', 'data_source': 'Source', 'country': 'Country'})
-        return df.drop(columns=['id'], errors='ignore')
+        df = df.rename(columns={'year': 'Year', 'value': 'Value',
+                                'iso_code3': 'ISO', 'data_source': 'Source', 'country': 'Country'})
+
+        if self.variable == 'GE1.0':
+            df = process_GE1_0(df)
+        if self.variable == 'GE2.0':
+            df = process_GE2_0(df)
+        if self.variable == 'GE3.1':
+            df = process_GE3_1(df)
+        df = df.drop(columns=['id'], errors='ignore')
+
+        return df
 
     def convert_dtypes(self, df):
         return df
