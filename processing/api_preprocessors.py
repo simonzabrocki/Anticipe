@@ -2,7 +2,7 @@ import abc
 import pandas as pd
 from processing.utils import add_ISO
 import json
-
+import numpy as np
 
 class Preprocessor(metaclass=abc.ABCMeta):
     '''
@@ -105,7 +105,6 @@ class Preprocessor(metaclass=abc.ABCMeta):
 
         final_df = self.add_information_pandas(df, metadata_json)
         final_df = final_df.rename(columns={'GGI_code': 'Variable', 'API_name': 'From'})
-
         return final_df.dropna()
 
 
@@ -177,6 +176,7 @@ class WB_Preprocessor(Preprocessor):
                                 'country.value': 'Country'})
 
         df = df.drop(columns=['obs_status', 'unit', 'decimal', 'indicator.id', 'country.id'])
+        df = df.replace(r'^\s*$', np.nan, regex=True)
         return df
 
     def convert_dtypes(self, df):
@@ -254,7 +254,7 @@ def preprocess_file_from_api(raw_file_path, preprocess_path, PROCESSING_CONFIGS=
     print(f'PreProcessing {raw_file_path}', end=': ')
     try:
         df = preprocess_raw_dict(data, preprocessor)
-        df.to_csv(file_path, index=False)
+        df.dropna(subset=['ISO']).to_csv(file_path, index=False)
         print('DONE')
 
     except Exception as e:
