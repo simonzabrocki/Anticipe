@@ -64,7 +64,7 @@ manual_configs = [
         'function': process_GJ1,
         'Description': 'Share of green manufacturing employment in total manufacturing employment',
         'Source': 'Valentin Todorov',
-        'URL': ''
+        'URL': 'Not online'
     },
     {
         'Variable': 'EQ2',

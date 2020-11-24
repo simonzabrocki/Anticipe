@@ -24,3 +24,15 @@ def add_ISO(df):
 
     df = pd.merge(keys, df, on='Country')
     return df.dropna(subset=['ISO'])
+
+
+def add_Country_from_ISO(df):
+    ISOs = df.ISO.unique()
+
+    ref = coco.CountryConverter().data.set_index('ISO3')
+    good_isos = ref.index.intersection(ISOs)
+
+    countries = ref.loc[good_isos]['name_short']
+    df = df.set_index('ISO')
+    df['Country'] = countries
+    return df.dropna(subset=['Country']).reset_index('ISO')

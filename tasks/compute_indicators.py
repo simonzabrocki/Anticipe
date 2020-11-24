@@ -1,3 +1,5 @@
+
+import os
 from processing.indicator_computation import compute_from_path
 
 from data.indicator.GE3.process import GE3_computation_config
@@ -32,7 +34,8 @@ def compute_indicators():
             print(f'Computing {indicator} for {file}: ', end='')
             try:
                 df = compute_from_path(computation, f'data/indicator/{indicator}/preprocessed')
-                df.to_csv(f'data/indicator/{indicator}/processed/computed_{file}', index=False)
+                os.makedirs(f'data/indicator/{indicator}/computed', exist_ok=True)
+                df.to_csv(f'data/indicator/{indicator}/computed/{file}', index=False)
                 print('DONE')
             except Exception as e:
                 print(e)
