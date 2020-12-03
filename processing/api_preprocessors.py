@@ -266,22 +266,33 @@ def preprocess_raw_dict(dictionnary, preprocessor):
     return df
 
 
-def preprocess_file_from_api(raw_file_path, preprocess_path, PROCESSING_CONFIGS=PROCESSING_CONFIGS):
+def preprocess_file_from_api(raw_file_path, PROCESSING_CONFIGS=PROCESSING_CONFIGS):
+
     with open(f'{raw_file_path}', 'r') as outfile:
         data = json.load(outfile)
 
     API = data['metadata']['API_name']
-    GGI_code = data['metadata']['GGI_code']
-
     preprocessor = PROCESSING_CONFIGS[API]['preprocessor']
-    file_path = f"{preprocess_path}{GGI_code}_{API.split(' ')[0]}.csv"
+    df = preprocess_raw_dict(data, preprocessor)
 
-    print(f'PreProcessing {raw_file_path}', end=': ')
-    try:
-        df = preprocess_raw_dict(data, preprocessor)
-        df.dropna(subset=['ISO']).to_csv(file_path, index=False)
-        print('DONE')
-
-    except Exception as e:
-        print('Error occured ', e)
     return df
+
+# def preprocess_file_from_api(raw_file_path, preprocess_path, PROCESSING_CONFIGS=PROCESSING_CONFIGS):
+#     with open(f'{raw_file_path}', 'r') as outfile:
+#         data = json.load(outfile)
+#
+#     API = data['metadata']['API_name']
+#     GGI_code = data['metadata']['GGI_code']
+#
+#     preprocessor = PROCESSING_CONFIGS[API]['preprocessor']
+#     file_path = f"{preprocess_path}{GGI_code}_{API.split(' ')[0]}.csv"
+#
+#     print(f'PreProcessing {raw_file_path}', end=': ')
+#     try:
+#         df = preprocess_raw_dict(data, preprocessor)
+#         df.dropna(subset=['ISO']).to_csv(file_path, index=False)
+#         print('DONE')
+#
+#     except Exception as e:
+#         print('Error occured ', e)
+#     return df

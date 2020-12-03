@@ -4,7 +4,7 @@ SE1_computation_config = {
     'From': ['WB API'],
     'function': lambda df, var: df[var[0]] / (df[var[1]] + df[var[2]]),
     'sub_variables': ['Income share held by highest 10%',
-                      'Income share held by fourth 20%',
+                      'Income share held by second 20%',
                       'Income share held by lowest 20%',
                       ],
     'Description': lambda var: f"({var[0]}) / [({var[1]}) + ({var[2]})]"

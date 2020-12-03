@@ -34,12 +34,16 @@ def impute_data_using_rule(df, interpolation_rule):
     imputed_values = imputed_values.reset_index().melt(
         id_vars=['ISO']).sort_values(by=['ISO', 'Year'])
     imputed_values = imputed_values.rename(columns={'value': 'Imputed_Value'})
-    return pd.merge(df.reset_index(), imputed_values, on=['ISO', 'Year'])
+
+    result = pd.merge(df.reset_index(), imputed_values, on=['ISO', 'Year'])
+    result = result.drop(columns=['Value']).rename(columns={'Imputed_Value': 'Value'})
+    result['Year'] = result['Year'].dt.year
+    return result
 
 
 def interpolate_linear(df):
     def step_1(x):
-        return x.interpolate(method='linear', limit=4, limit_direction='both')
+        return x.interpolate(method='linear', limit=5, limit_direction='both')
 
     def step_2(x):
         return x  # .interpolate(method='bfill', limit=1)
