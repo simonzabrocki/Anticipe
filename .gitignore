@@ -131,3 +131,4 @@ dmypy.json
 
 # Data
 data/full_data/*
+data/results/*

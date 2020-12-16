@@ -43,7 +43,8 @@ files = {'AB1': 'AB1_SDG.csv',
          'SL1': 'SL1_origin.M.csv',
          'SL2': 'SL2_origin.M.csv',
          'SP1': 'SP1_SDG.csv',
-         'SP2': 'SP2_origin.M.csv',
+         #'SP2': 'SP2_origin.M.csv',
+         'SP2': 'SP2_SDG.csv',
          'SP3': 'SP3_SDG.csv'
          }
 
@@ -64,12 +65,16 @@ def format_df_for_computation(df):
     return df
 
 
-def compute_index_from_df(df):
+def compute_index_from_df(df, save):
     GGIs = []
     for year in range(2005, 2021):
         indicators = df.loc[year].reset_index(drop=True).set_index('ISO')
         indicators.columns.name = None
         GGI = GreenGrowthIndex(indicators=indicators, sustainability_targets=ST)
+        if save:
+            print(f"Saving {year}'s results")
+            GGI.to_excel(f'data/results/result_{year}.xlsx')
+
         GGI = GGI.to_long()
         GGI['Year'] = year
         GGIs.append(GGI)
@@ -81,8 +86,8 @@ def compute_index_from_df(df):
     return data
 
 
-def compute_index():
-    print('Computing Index:', end='')
+def compute_index(save=False):
+    print('Computing Index:')
 
     print('Collecting data:', end='')
     try:
@@ -96,7 +101,7 @@ def compute_index():
     try:
         path = 'data/full_data/result.csv'
         df = format_df_for_computation(df)
-        data = compute_index_from_df(df)
+        data = compute_index_from_df(df, save)
         data.to_csv(path, index=False)
 
         print(f'saving at {path}')

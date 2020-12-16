@@ -1,5 +1,5 @@
 from processing.indicator_computation import indicators_computations, compute_from_df
-from processing.imputation import impute_data_using_rule, interpolation_rule_SL1, interpolate_linear
+from processing.imputation import impute_data_using_rule, interpolate_linear
 from processing.utils import add_Country_from_ISO
 from processing.outliers_filtering import filter_outliers
 import os
@@ -34,10 +34,11 @@ def process_dataframe(df, indicator):
 
     print('\t Imputation:', end='')
     try:
-        if indicator == 'SL1':
-            df = impute_data_using_rule(df, interpolation_rule_SL1)
-        else:
-            df = impute_data_using_rule(df, interpolate_linear)
+        # if indicator == 'SL1':
+        #     #df = impute_data_using_rule(df, interpolation_rule_SL1)
+        #     df = impute_data_using_rule(df, interpolate_linear)
+        # else:
+        df = impute_data_using_rule(df, interpolate_linear)
         print('DONE')
     except Exception as e:
         print(e)
@@ -107,6 +108,7 @@ def process_files():
                     print('DONE')
                 except Exception as e:
                     print(e)
+
                 df = process_dataframe(df, indicator)
                 df = format_dataframe(df)
 

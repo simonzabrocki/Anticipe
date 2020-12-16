@@ -8,7 +8,7 @@ def process_GE2_0(df):
     LUCF = res[res.sector == 'Total excluding LUCF'].set_index(['ISO', 'Year', 'Country', 'Source']).drop(columns='sector')
     res = (LUCF - Agri).reset_index()
 
-    description = ' '.join(df.gas.unique()) + ' ' + ' and excluding '.join(df.sector.unique()) + ' Tons'
+    description = ' '.join(df.gas.unique()) + ' ' + ' and excluding '.join(df.sector.unique()) +  ' Tons' #+ ' MtCO2eq'#
     res['Value'] = res['Value'] * 1e6
     res['Description'] = description
     return res

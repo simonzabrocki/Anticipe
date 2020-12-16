@@ -25,9 +25,9 @@ manual_configs = [
     {
         'Variable': 'SL1',
         'function': process_SL1,
-        'Description': 'Average soil organic carbon content',
+        'Description': 'Nutrient balance per unit area',
         'Source': 'FAO',
-        'URL': 'http://54.229.242.119/GSOCmap/'
+        'URL': 'http://fenix.fao.org/faostat/internal/en/#data/ESB'
     },
     {
         'Variable': 'SL2',
