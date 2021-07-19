@@ -3,9 +3,9 @@
         {
             "GGI_code": "GE1.0",
             "params": {
-              "gas_ids[]": 269,
-              "sector_ids[]": 957,
-              "source_ids[]": 81
+              "gas_ids[]": 326,
+              "sector_ids[]": [1298, 1302],
+              "source_ids[]": 111
             }
         }
     ],

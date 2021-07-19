@@ -3,7 +3,7 @@
         {
             "GGI_code": "BE1.0",
             "params": {
-                "seriesCode": "ER_PTD_MOTN"
+                "seriesCode": "ER_PTD_MTN"
             }
         },
         {
@@ -15,13 +15,13 @@
         {
             "GGI_code": "BE1.2",
             "params": {
-                "seriesCode": "ER_PTD_FRWRT"
+                "seriesCode": "ER_PTD_FRHWTR"
             }
         },
         {
             "GGI_code": "BE1.3",
             "params": {
-                "seriesCode": "ER_PTD_TERRS"
+                "seriesCode": "ER_PTD_TERR"
             }
         }
     ]

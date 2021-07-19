@@ -126,7 +126,7 @@ ALB,1964,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 ALB,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,34.9947,False,Albania
 ALB,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,31.9927,False,Albania
 ALB,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,37.715,False,Albania
-ALB,1968,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,55.43600000000001,False,Albania
+ALB,1968,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,55.436,False,Albania
 ALB,1969,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,47.788,False,Albania
 ALB,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,57.6414,False,Albania
 ALB,1971,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,69.1842,False,Albania
@@ -386,8 +386,8 @@ ATG,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 ATG,1985,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,58.3497,False,Antigua and Barbuda
 ATG,1986,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,59.2662,False,Antigua and Barbuda
 ATG,1987,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,58.9122,False,Antigua and Barbuda
-ATG,1988,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,59.18600000000001,False,Antigua and Barbuda
-ATG,1989,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,59.0491,True,Antigua and Barbuda
+ATG,1988,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,59.186,False,Antigua and Barbuda
+ATG,1989,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,59.049099999999996,True,Antigua and Barbuda
 ATG,1990,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,54.272,False,Antigua and Barbuda
 ATG,1991,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,75.94,False,Antigua and Barbuda
 ATG,1992,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,76.3568,False,Antigua and Barbuda
@@ -479,10 +479,10 @@ AUS,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 AUS,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,26.7701,False,Australia
 AUS,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,26.7701,False,Australia
 AUS,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,26.7701,False,Australia
-AUT,1961,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.68564999999998,True,Austria
+AUT,1961,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.68565000000001,True,Austria
 AUT,1962,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,83.5394,False,Austria
 AUT,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,86.0283,False,Austria
-AUT,1964,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.34299999999998,False,Austria
+AUT,1964,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.343,False,Austria
 AUT,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,90.90575,True,Austria
 AUT,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,95.7832,False,Austria
 AUT,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,101.2329,False,Austria
@@ -823,8 +823,8 @@ BFA,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 BFA,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.582800000000001,True,Burkina Faso
 BFA,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.9989,False,Burkina Faso
 BFA,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.6432,False,Burkina Faso
-BFA,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.5870000000000015,False,Burkina Faso
-BFA,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.615100000000001,True,Burkina Faso
+BFA,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.587,False,Burkina Faso
+BFA,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.6151,True,Burkina Faso
 BFA,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.3559,False,Burkina Faso
 BFA,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.559,False,Burkina Faso
 BFA,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,9.4237,False,Burkina Faso
@@ -1007,8 +1007,8 @@ BHR,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 BHR,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,628.6714,False,Bahrain
 BHR,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,596.8779,True,Bahrain
 BHR,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,573.1519,False,Bahrain
-BHR,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,577.1804500000001,True,Bahrain
-BHR,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,581.2090000000002,False,Bahrain
+BHR,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,577.18045,True,Bahrain
+BHR,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,581.209,False,Bahrain
 BHR,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,770.7725,False,Bahrain
 BHR,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,748.255,False,Bahrain
 BHR,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,792.0399,False,Bahrain
@@ -1212,12 +1212,12 @@ BLZ,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 BLZ,1971,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,13.46085,False,Belize
 BLZ,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.0894,False,Belize
 BLZ,1973,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.017,False,Belize
-BLZ,1974,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,3.5270000000000006,False,Belize
-BLZ,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.037000000000001,False,Belize
+BLZ,1974,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,3.5269999999999997,False,Belize
+BLZ,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.037,False,Belize
 BLZ,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,5.641866666666667,False,Belize
-BLZ,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,5.246733333333334,False,Belize
-BLZ,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,4.8516,False,Belize
-BLZ,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,4.4564666666666675,False,Belize
+BLZ,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,5.246733333333333,False,Belize
+BLZ,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,4.8515999999999995,False,Belize
+BLZ,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,4.456466666666667,False,Belize
 BLZ,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,4.061333333333334,False,Belize
 BLZ,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,3.6662,False,Belize
 BLZ,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,3.2710666666666666,False,Belize
@@ -1323,7 +1323,7 @@ BRA,1961,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 BRA,1962,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.8419,False,Brazil
 BRA,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,13.6949,False,Brazil
 BRA,1964,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,13.3584,False,Brazil
-BRA,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.859000000000002,False,Brazil
+BRA,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.859,False,Brazil
 BRA,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,15.0449,False,Brazil
 BRA,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.4471,False,Brazil
 BRA,1968,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,15.2439,False,Brazil
@@ -1387,7 +1387,7 @@ BRB,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 BRB,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,131.2555,False,Barbados
 BRB,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,127.9144,False,Barbados
 BRB,1968,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,98.2183,False,Barbados
-BRB,1969,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,73.08800000000002,False,Barbados
+BRB,1969,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,73.088,False,Barbados
 BRB,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,98.1337,False,Barbados
 BRB,1971,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,98.176,True,Barbados
 BRB,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,105.6385,False,Barbados
@@ -1454,7 +1454,7 @@ BRN,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 BRN,1973,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,27.7656,False,Brunei Darussalam
 BRN,1974,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,29.2107,True,Brunei Darussalam
 BRN,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,27.8003,False,Brunei Darussalam
-BRN,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,33.751999999999995,False,Brunei Darussalam
+BRN,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,33.752,False,Brunei Darussalam
 BRN,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,47.3076,False,Brunei Darussalam
 BRN,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,44.3789,False,Brunei Darussalam
 BRN,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,47.7164,False,Brunei Darussalam
@@ -1544,10 +1544,10 @@ BTN,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 BTN,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,26.6572,False,Bhutan
 BTN,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,21.9524,False,Bhutan
 BTN,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,18.8941,False,Bhutan
-BTN,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.522000000000002,False,Bhutan
+BTN,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.522,False,Bhutan
 BTN,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.0693,False,Bhutan
 BTN,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,19.0034,False,Bhutan
-BTN,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,18.262700000000002,True,Bhutan
+BTN,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,18.2627,True,Bhutan
 BTN,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,22.1897,False,Bhutan
 BTN,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,21.416849999999997,True,Bhutan
 BTN,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,20.644,False,Bhutan
@@ -1591,7 +1591,7 @@ BWA,1989,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 BWA,1990,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,13.1418,False,Botswana
 BWA,1991,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.54005,True,Botswana
 BWA,1992,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.59835,True,Botswana
-BWA,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,11.880999999999998,False,Botswana
+BWA,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,11.881,False,Botswana
 BWA,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.0835,True,Botswana
 BWA,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,20.0303,False,Botswana
 BWA,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,20.2606,False,Botswana
@@ -1801,7 +1801,7 @@ CHE,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 CHE,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,241.4001,False,Switzerland
 CHL,1961,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.1488,True,Chile
 CHL,1962,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.549,False,Chile
-CHL,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.4270000000000005,False,Chile
+CHL,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.427,False,Chile
 CHL,1964,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.7486,False,Chile
 CHL,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.8158,False,Chile
 CHL,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.3197,False,Chile
@@ -2122,7 +2122,7 @@ COG,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 COG,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.9665,False,Congo Republic
 COG,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.8128,False,Congo Republic
 COG,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.1185,False,Congo Republic
-COG,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.212999999999999,False,Congo Republic
+COG,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.213,False,Congo Republic
 COG,1985,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.12005,True,Congo Republic
 COG,1986,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.1216,False,Congo Republic
 COG,1987,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.9691,True,Congo Republic
@@ -2386,7 +2386,7 @@ CRI,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 CRI,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,151.6943,False,Costa Rica
 CRI,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,154.4121,False,Costa Rica
 CRI,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,165.3958,False,Costa Rica
-CRI,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,175.47799999999995,False,Costa Rica
+CRI,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,175.478,False,Costa Rica
 CRI,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,159.90395,True,Costa Rica
 CRI,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,167.2339,True,Costa Rica
 CRI,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,172.11775,True,Costa Rica
@@ -2557,7 +2557,7 @@ CZE,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 CZE,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,66.1798,True,Czech Republic
 CZE,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,63.4887,False,Czech Republic
 CZE,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,61.6894,False,Czech Republic
-CZE,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,69.49634999999999,True,Czech Republic
+CZE,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,69.49635,True,Czech Republic
 CZE,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,62.58905,True,Czech Republic
 CZE,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,63.47265,True,Czech Republic
 CZE,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,52.4246,False,Czech Republic
@@ -2675,9 +2675,9 @@ DJI,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 DJI,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,490.9843,False,Djibouti
 DJI,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,513.9818,False,Djibouti
 DJI,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,530.9052,False,Djibouti
-DJI,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,544.2719999999998,False,Djibouti
+DJI,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,544.272,False,Djibouti
 DJI,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,543.7921,False,Djibouti
-DJI,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,551.2121499999998,True,Djibouti
+DJI,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,551.2121500000001,True,Djibouti
 DJI,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,558.1523,False,Djibouti
 DJI,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,564.7845,False,Djibouti
 DJI,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,561.8742,False,Djibouti
@@ -2688,7 +2688,7 @@ DJI,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 DJI,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,461.26545,True,Djibouti
 DJI,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,479.6954,False,Djibouti
 DJI,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,442.8355,False,Djibouti
-DJI,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,363.93300000000005,False,Djibouti
+DJI,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,363.933,False,Djibouti
 DJI,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,290.863,False,Djibouti
 DJI,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,287.3864,False,Djibouti
 DJI,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,289.9582,True,Djibouti
@@ -3007,7 +3007,7 @@ EGY,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 EGY,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,34.8401,False,Egypt
 EGY,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,42.549099999999996,True,Egypt
 EGY,1968,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,42.8439,False,Egypt
-EGY,1969,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,48.38800000000001,False,Egypt
+EGY,1969,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,48.388,False,Egypt
 EGY,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,54.8808,False,Egypt
 EGY,1971,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,50.3875,False,Egypt
 EGY,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,65.9411,False,Egypt
@@ -3166,9 +3166,9 @@ ESP,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 ESP,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,59.982749999999996,True,Spain
 ESP,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,60.2865,False,Spain
 ESP,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,56.385,False,Spain
-ESP,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,56.868,True,Spain
+ESP,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,56.867999999999995,True,Spain
 ESP,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,51.3217,False,Spain
-ESP,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,57.351000000000006,False,Spain
+ESP,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,57.351,False,Spain
 ESP,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,48.8143,False,Spain
 ESP,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,55.3954,False,Spain
 ESP,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,50.3926,False,Spain
@@ -3399,7 +3399,7 @@ FJI,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 FJI,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,34.7616,False,Fiji
 FJI,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,20.5264,False,Fiji
 FJI,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,27.229950000000002,True,Fiji
-FJI,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.910999999999998,False,Fiji
+FJI,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.911,False,Fiji
 FJI,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,18.7187,True,Fiji
 FJI,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,11.4344,False,Fiji
 FJI,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,27.7855,False,Fiji
@@ -3584,7 +3584,7 @@ FSM,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 FSM,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.4318,False,"Micronesia, Fed. Sts."
 FSM,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.0432,False,"Micronesia, Fed. Sts."
 FSM,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.8211,False,"Micronesia, Fed. Sts."
-FSM,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.4910000000000005,False,"Micronesia, Fed. Sts."
+FSM,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.491,False,"Micronesia, Fed. Sts."
 FSM,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.934,False,"Micronesia, Fed. Sts."
 FSM,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.9659,False,"Micronesia, Fed. Sts."
 FSM,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.4043,False,"Micronesia, Fed. Sts."
@@ -3800,7 +3800,7 @@ GHA,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 GHA,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.1838,False,Ghana
 GHA,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.4762,False,Ghana
 GHA,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.8934,False,Ghana
-GHA,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.6560000000000015,False,Ghana
+GHA,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.656,False,Ghana
 GHA,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.0439,False,Ghana
 GHA,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.5123,False,Ghana
 GHA,1985,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.7559,False,Ghana
@@ -3828,9 +3828,9 @@ GHA,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 GHA,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.10782,True,Ghana
 GHA,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,0.55332,False,Ghana
 GHA,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,0.83924,False,Ghana
-GHA,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.12516,False,Ghana
-GHA,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.41108,False,Ghana
-GHA,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.26812,True,Ghana
+GHA,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.1251600000000002,False,Ghana
+GHA,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.4110800000000001,False,Ghana
+GHA,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.2681200000000001,True,Ghana
 GHA,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.414,False,Ghana
 GHA,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,0.7925,False,Ghana
 GHA,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.171,False,Ghana
@@ -4241,7 +4241,7 @@ GRD,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 GRD,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.83975,True,Grenada
 GRD,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.8294,False,Grenada
 GRD,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.1661,False,Grenada
-GRD,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.2780000000000005,False,Grenada
+GRD,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.278,False,Grenada
 GRD,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.196,False,Grenada
 GRD,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,13.9672,False,Grenada
 GRD,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,15.201,False,Grenada
@@ -4496,9 +4496,9 @@ HKG,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 HKG,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1925.4545,False,Hong Kong
 HKG,2016,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2064.426,False,Hong Kong
 HKG,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2191.2087,False,Hong Kong
-HKG,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2743.734000000001,False,Hong Kong
-HKG,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,2743.734000000001,False,Hong Kong
-HKG,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,2743.734000000001,False,Hong Kong
+HKG,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2743.734,False,Hong Kong
+HKG,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,2743.734,False,Hong Kong
+HKG,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,2743.734,False,Hong Kong
 HND,1961,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.3491,False,Honduras
 HND,1962,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.7123,False,Honduras
 HND,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.5307,True,Honduras
@@ -4634,7 +4634,7 @@ HTI,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 HTI,1973,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.4575,False,Haiti
 HTI,1974,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,15.241,False,Haiti
 HTI,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.15645,True,Haiti
-HTI,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.249000000000002,False,Haiti
+HTI,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.249,False,Haiti
 HTI,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.4997,False,Haiti
 HTI,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,19.8811,False,Haiti
 HTI,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,19.9501,False,Haiti
@@ -5021,7 +5021,7 @@ IRQ,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 IRQ,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,59.5526,False,Iraq
 IRQ,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,55.36795,True,Iraq
 IRQ,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,92.9661,False,Iraq
-IRQ,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.7070000000000001,False,Iraq
+IRQ,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.707,False,Iraq
 IRQ,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.446,False,Iraq
 IRQ,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,21.1414,False,Iraq
 IRQ,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,25.3925,False,Iraq
@@ -5093,9 +5093,9 @@ ISL,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 ISL,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,119.5581,False,Iceland
 ISL,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,111.0247,False,Iceland
 ISL,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,131.2718,False,Iceland
-ISL,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,137.47899999999998,False,Iceland
+ISL,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,137.479,False,Iceland
 ISL,2016,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,132.3914,False,Iceland
-ISL,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,138.8935,True,Iceland
+ISL,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,138.89350000000002,True,Iceland
 ISL,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,140.308,False,Iceland
 ISL,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,140.308,False,Iceland
 ISL,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,140.308,False,Iceland
@@ -5189,9 +5189,9 @@ ITA,1987,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 ITA,1988,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,94.6047,False,Italy
 ITA,1989,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,94.1662,True,Italy
 ITA,1990,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,93.7277,False,Italy
-ITA,1991,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,87.95299999999997,False,Italy
+ITA,1991,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,87.953,False,Italy
 ITA,1992,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,88.2423,False,Italy
-ITA,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,88.09764999999999,True,Italy
+ITA,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,88.09765,True,Italy
 ITA,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,87.5872,False,Italy
 ITA,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,87.4506,False,Italy
 ITA,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,88.4395,False,Italy
@@ -5328,7 +5328,7 @@ JOR,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 JOR,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,72.5742,True,Jordan
 JOR,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,93.7368,False,Jordan
 JOR,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.3321,False,Jordan
-JOR,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,53.89100000000001,False,Jordan
+JOR,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,53.891,False,Jordan
 JOR,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,82.01975,True,Jordan
 JOR,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,94.4359,False,Jordan
 JOR,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,70.3027,False,Jordan
@@ -5449,8 +5449,8 @@ KAZ,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 KAZ,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.9521,False,Kazakhstan
 KAZ,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,2.80975,False,Kazakhstan
 KAZ,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.6674,False,Kazakhstan
-KAZ,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,5.354700000000001,False,Kazakhstan
-KAZ,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.042000000000002,False,Kazakhstan
+KAZ,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,5.354699999999999,False,Kazakhstan
+KAZ,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.042,False,Kazakhstan
 KAZ,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.41615,True,Kazakhstan
 KAZ,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.1649,False,Kazakhstan
 KAZ,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.0279,False,Kazakhstan
@@ -5570,7 +5570,7 @@ KGZ,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 KGZ,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,18.326,False,Kyrgyz Republic
 KGZ,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,20.09355,True,Kyrgyz Republic
 KGZ,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,20.4954,False,Kyrgyz Republic
-KGZ,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,28.633000000000006,False,Kyrgyz Republic
+KGZ,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,28.633,False,Kyrgyz Republic
 KGZ,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,26.0629,False,Kyrgyz Republic
 KGZ,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,23.27915,True,Kyrgyz Republic
 KGZ,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.4254,False,Kyrgyz Republic
@@ -5585,10 +5585,10 @@ KHM,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 KHM,1964,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.2615,True,Cambodia
 KHM,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.3175,False,Cambodia
 KHM,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.044,False,Cambodia
-KHM,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.917000000000002,False,Cambodia
+KHM,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.917,False,Cambodia
 KHM,1968,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.7825,False,Cambodia
 KHM,1969,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.84975,True,Cambodia
-KHM,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,9.0432,True,Cambodia
+KHM,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,9.043199999999999,True,Cambodia
 KHM,1971,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.1694,False,Cambodia
 KHM,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.4434,False,Cambodia
 KHM,1973,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,19.651,False,Cambodia
@@ -5633,7 +5633,7 @@ KHM,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 KHM,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.8213,False,Cambodia
 KHM,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.5716,False,Cambodia
 KHM,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.4158499999999998,True,Cambodia
-KHM,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.562649999999999,True,Cambodia
+KHM,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.56265,True,Cambodia
 KHM,2016,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.0104,False,Cambodia
 KHM,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,13.8422,False,Cambodia
 KHM,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.152,False,Cambodia
@@ -5675,7 +5675,7 @@ KNA,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 KNA,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,77.2021,False,St. Kitts and Nevis
 KNA,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,69.3364,False,St. Kitts and Nevis
 KNA,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,77.6863,False,St. Kitts and Nevis
-KNA,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,86.29299999999998,False,St. Kitts and Nevis
+KNA,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,86.293,False,St. Kitts and Nevis
 KNA,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,95.3914,False,St. Kitts and Nevis
 KNA,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,90.8889,False,St. Kitts and Nevis
 KNA,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,99.7653,False,St. Kitts and Nevis
@@ -5982,7 +5982,7 @@ LBR,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 LBR,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.7472,False,Liberia
 LBR,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.5001,False,Liberia
 LBR,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.6928,False,Liberia
-LBR,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.5610000000000004,False,Liberia
+LBR,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.561,False,Liberia
 LBR,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.3878500000000003,True,Liberia
 LBR,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.2756,False,Liberia
 LBR,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.91675,True,Liberia
@@ -6397,7 +6397,7 @@ LVA,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 LVA,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,23.7655,False,Latvia
 LVA,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,24.9591,False,Latvia
 LVA,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,38.1815,False,Latvia
-LVA,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,44.33600000000001,False,Latvia
+LVA,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,44.336,False,Latvia
 LVA,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,34.2603,False,Latvia
 LVA,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,46.5475,False,Latvia
 LVA,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,40.0951,False,Latvia
@@ -6440,7 +6440,7 @@ MAR,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 MAR,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.0628,False,Morocco
 MAR,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.3021,False,Morocco
 MAR,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.18245,True,Morocco
-MAR,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.5660000000000003,False,Morocco
+MAR,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.566,False,Morocco
 MAR,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,9.1616,False,Morocco
 MAR,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.3059,False,Morocco
 MAR,1985,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.1346,False,Morocco
@@ -6564,7 +6564,7 @@ MDG,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 MDG,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.4336,False,Madagascar
 MDG,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.287,False,Madagascar
 MDG,1985,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.9412,False,Madagascar
-MDG,1986,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.8109999999999999,False,Madagascar
+MDG,1986,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.811,False,Madagascar
 MDG,1987,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.78355,True,Madagascar
 MDG,1988,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.7561,False,Madagascar
 MDG,1989,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,0.5414333333333333,False,Madagascar
@@ -7053,7 +7053,7 @@ MNG,1991,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 MNG,1992,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,59.622150000000005,True,Mongolia
 MNG,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,57.5119,False,Mongolia
 MNG,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,60.795,False,Mongolia
-MNG,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,68.02600000000001,False,Mongolia
+MNG,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,68.026,False,Mongolia
 MNG,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,72.1021,False,Mongolia
 MNG,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,81.7187,False,Mongolia
 MNG,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,78.1793,False,Mongolia
@@ -7067,9 +7067,9 @@ MNG,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 MNG,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,77.8197,False,Mongolia
 MNG,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,87.0007,False,Mongolia
 MNG,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.4913,False,Mongolia
-MNG,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,84.56700000000002,False,Mongolia
-MNG,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,82.87965000000001,True,Mongolia
-MNG,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,82.87965000000001,True,Mongolia
+MNG,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,84.567,False,Mongolia
+MNG,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,82.87965,True,Mongolia
+MNG,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,82.87965,True,Mongolia
 MNG,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,81.1923,False,Mongolia
 MNG,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,98.7614,False,Mongolia
 MNG,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,101.7342,False,Mongolia
@@ -7376,9 +7376,9 @@ MWI,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 MWI,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,25.9844,False,Malawi
 MWI,2016,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.3781,False,Malawi
 MWI,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,21.9878,False,Malawi
-MWI,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,32.251999999999995,False,Malawi
-MWI,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,32.251999999999995,False,Malawi
-MWI,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,32.251999999999995,False,Malawi
+MWI,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,32.252,False,Malawi
+MWI,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,32.252,False,Malawi
+MWI,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,32.252,False,Malawi
 MYS,1961,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.4218,False,Malaysia
 MYS,1962,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.836,False,Malaysia
 MYS,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.3835,False,Malaysia
@@ -7581,9 +7581,9 @@ NER,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 NER,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.6489,False,Niger
 NER,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.9128,False,Niger
 NER,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.6993,False,Niger
-NER,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.6060000000000003,False,Niger
+NER,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.606,False,Niger
 NER,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,3.33,False,Niger
-NER,1985,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.6068000000000002,True,Niger
+NER,1985,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.6068,True,Niger
 NER,1986,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.9022,False,Niger
 NER,1987,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,2.6076,False,Niger
 NER,1988,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.44515,True,Niger
@@ -7665,9 +7665,9 @@ NGA,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 NGA,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.3746,True,Nigeria
 NGA,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.058,False,Nigeria
 NGA,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.6376,False,Nigeria
-NGA,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.697550000000001,True,Nigeria
+NGA,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.69755,True,Nigeria
 NGA,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.5418,True,Nigeria
-NGA,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.4460000000000015,False,Nigeria
+NGA,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.446,False,Nigeria
 NGA,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.1831,False,Nigeria
 NGA,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.3698,False,Nigeria
 NGA,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.3176,False,Nigeria
@@ -7787,7 +7787,7 @@ NIU,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 NIU,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.2278,False,Niue
 NIU,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.258,False,Niue
 NIU,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.3357,False,Niue
-NIU,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.4269999999999998,False,Niue
+NIU,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.427,False,Niue
 NIU,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.5528,False,Niue
 NIU,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.4631500000000002,True,Niue
 NIU,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.4493,False,Niue
@@ -7897,7 +7897,7 @@ NOR,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 NOR,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,137.2097,False,Norway
 NOR,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,152.643,False,Norway
 NOR,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,144.8894,False,Norway
-NOR,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,150.30100000000004,False,Norway
+NOR,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,150.301,False,Norway
 NOR,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,144.6337,False,Norway
 NOR,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,144.76155,True,Norway
 NOR,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,144.2354,False,Norway
@@ -7932,7 +7932,7 @@ NPL,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 NPL,1971,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.4315,False,Nepal
 NPL,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,15.7305,False,Nepal
 NPL,1973,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,13.5514,False,Nepal
-NPL,1974,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.199000000000002,False,Nepal
+NPL,1974,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.199,False,Nepal
 NPL,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.405,False,Nepal
 NPL,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,16.9211,False,Nepal
 NPL,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,20.3604,False,Nepal
@@ -8441,7 +8441,7 @@ PNG,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 PNG,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,2.7344,False,Papua New Guinea
 PNG,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.0058,False,Papua New Guinea
 PNG,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.3022,False,Papua New Guinea
-PNG,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.662000000000001,False,Papua New Guinea
+PNG,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.662,False,Papua New Guinea
 PNG,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.68125,True,Papua New Guinea
 PNG,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,13.7311,False,Papua New Guinea
 PNG,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.7005,False,Papua New Guinea
@@ -8609,17 +8609,17 @@ PRK,1987,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 PRK,1988,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,,False,North Korea
 PRK,1989,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,,False,North Korea
 PRK,1990,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,,False,North Korea
-PRK,1991,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,1992,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.5419999999999998,False,North Korea
-PRK,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
-PRK,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.5419999999999998,False,North Korea
+PRK,1991,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,1992,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,1.542,False,North Korea
+PRK,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
+PRK,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.542,False,North Korea
 PRK,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,,False,North Korea
 PRK,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,,False,North Korea
 PRK,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,,False,North Korea
@@ -8732,7 +8732,7 @@ PRY,1990,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 PRY,1991,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.6402,False,Paraguay
 PRY,1992,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,21.8502,False,Paraguay
 PRY,1993,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,28.2194,False,Paraguay
-PRY,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,28.633000000000006,False,Paraguay
+PRY,1994,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,28.633,False,Paraguay
 PRY,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,29.4876,False,Paraguay
 PRY,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,32.6968,False,Paraguay
 PRY,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,38.5543,False,Paraguay
@@ -8799,7 +8799,7 @@ PYF,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 PYF,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,19.3606,False,French Polynesia
 PYF,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,18.4193,True,French Polynesia
 PYF,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,22.1577,False,French Polynesia
-PYF,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.477999999999998,False,French Polynesia
+PYF,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.478,False,French Polynesia
 PYF,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.4344,False,French Polynesia
 PYF,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.005,False,French Polynesia
 PYF,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,13.9757,False,French Polynesia
@@ -8836,9 +8836,9 @@ QAT,1974,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 QAT,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,117.3492,False,Qatar
 QAT,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,169.3261,False,Qatar
 QAT,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,164.5246,False,Qatar
-QAT,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,171.18204999999998,True,Qatar
-QAT,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,171.18204999999998,True,Qatar
-QAT,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,173.03799999999995,False,Qatar
+QAT,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,171.18205,True,Qatar
+QAT,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,171.18205,True,Qatar
+QAT,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,173.038,False,Qatar
 QAT,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,151.8357,False,Qatar
 QAT,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,95.8488,False,Qatar
 QAT,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,94.8297,False,Qatar
@@ -8977,7 +8977,7 @@ RUS,1995,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 RUS,1996,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,15.876,False,Russia
 RUS,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,15.814499999999999,True,Russia
 RUS,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,15.753,False,Russia
-RUS,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.494000000000002,False,Russia
+RUS,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,14.494,False,Russia
 RUS,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,12.6745,False,Russia
 RUS,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.4123,False,Russia
 RUS,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.6522,False,Russia
@@ -9047,7 +9047,7 @@ RWA,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 RWA,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,0.7459142857142858,False,Rwanda
 RWA,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,0.5889571428571427,False,Rwanda
 RWA,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,0.7455654761904762,True,Rwanda
-RWA,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,0.7452166666666667,False,Rwanda
+RWA,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,0.7452166666666666,False,Rwanda
 RWA,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.0584333333333333,False,Rwanda
 RWA,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.37165,False,Rwanda
 RWA,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,1.6848666666666667,False,Rwanda
@@ -9655,10 +9655,10 @@ STP,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 STP,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.3708,True,Sao Tome and Principe
 STP,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.425549999999999,True,Sao Tome and Principe
 STP,2016,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.8327,False,Sao Tome and Principe
-STP,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.995849999999999,True,Sao Tome and Principe
-STP,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.158999999999999,False,Sao Tome and Principe
-STP,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,8.158999999999999,False,Sao Tome and Principe
-STP,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,8.158999999999999,False,Sao Tome and Principe
+STP,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.995850000000001,True,Sao Tome and Principe
+STP,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.159,False,Sao Tome and Principe
+STP,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,8.159,False,Sao Tome and Principe
+STP,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,8.159,False,Sao Tome and Principe
 SUR,1961,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,18.5461,False,Suriname
 SUR,1962,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,17.5412,False,Suriname
 SUR,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,19.9715,True,Suriname
@@ -9835,7 +9835,7 @@ SVN,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 SVN,2014,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,161.9406,False,Slovenia
 SVN,2015,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,163.4312,False,Slovenia
 SVN,2016,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,164.49964999999997,True,Slovenia
-SVN,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,166.67700000000005,False,Slovenia
+SVN,2017,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,166.677,False,Slovenia
 SVN,2018,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,165.5681,False,Slovenia
 SVN,2019,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,165.5681,False,Slovenia
 SVN,2020,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,True,165.5681,False,Slovenia
@@ -9857,8 +9857,8 @@ SWE,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 SWE,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.7762,False,Sweden
 SWE,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.9181,False,Sweden
 SWE,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.84715,True,Sweden
-SWE,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,84.71759999999999,True,Sweden
-SWE,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,83.65899999999998,False,Sweden
+SWE,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,84.7176,True,Sweden
+SWE,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,83.659,False,Sweden
 SWE,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,82.5788,False,Sweden
 SWE,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,82.0261,False,Sweden
 SWE,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,82.30245,True,Sweden
@@ -9888,7 +9888,7 @@ SWE,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 SWE,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,60.4404,False,Sweden
 SWE,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,66.7952,False,Sweden
 SWE,2009,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,64.9657,True,Sweden
-SWE,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,66.23100000000001,False,Sweden
+SWE,2010,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,66.231,False,Sweden
 SWE,2011,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,64.3425,False,Sweden
 SWE,2012,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,52.4159,False,Sweden
 SWE,2013,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,57.8311,False,Sweden
@@ -9965,13 +9965,13 @@ SYC,1963,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 SYC,1964,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,144.75065,True,Seychelles
 SYC,1965,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,145.5221,False,Seychelles
 SYC,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,143.9792,False,Seychelles
-SYC,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,140.57299999999998,False,Seychelles
+SYC,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,140.573,False,Seychelles
 SYC,1968,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,142.3082,False,Seychelles
 SYC,1969,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,155.0205,False,Seychelles
-SYC,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,159.05100000000004,False,Seychelles
+SYC,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,159.051,False,Seychelles
 SYC,1971,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,170.734,False,Seychelles
 SYC,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,176.7288,False,Seychelles
-SYC,1973,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,179.14700000000005,False,Seychelles
+SYC,1973,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,179.147,False,Seychelles
 SYC,1974,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,183.921,False,Seychelles
 SYC,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,188.5675,False,Seychelles
 SYC,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,187.3755,False,Seychelles
@@ -10003,7 +10003,7 @@ SYC,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 SYC,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,33.6482,False,Seychelles
 SYC,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,38.0018,False,Seychelles
 SYC,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,34.2257,False,Seychelles
-SYC,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,38.63800000000001,False,Seychelles
+SYC,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,38.638,False,Seychelles
 SYC,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,36.4495,False,Seychelles
 SYC,2007,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,40.8468,True,Seychelles
 SYC,2008,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,45.0887,False,Seychelles
@@ -10157,7 +10157,7 @@ TGO,1975,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 TGO,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.7198,False,Togo
 TGO,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.309,False,Togo
 TGO,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.53465,True,Togo
-TGO,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.042999999999998,False,Togo
+TGO,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.043,False,Togo
 TGO,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.2201,False,Togo
 TGO,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.5226,False,Togo
 TGO,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.3288,False,Togo
@@ -10448,7 +10448,7 @@ TLS,1966,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 TLS,1967,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,31.1834,False,Timor-Leste
 TLS,1968,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,32.188,False,Timor-Leste
 TLS,1969,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,32.3147,False,Timor-Leste
-TLS,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,31.988000000000003,False,Timor-Leste
+TLS,1970,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,31.988,False,Timor-Leste
 TLS,1971,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,32.66125,True,Timor-Leste
 TLS,1972,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,32.66125,True,Timor-Leste
 TLS,1973,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,33.0078,False,Timor-Leste
@@ -10578,7 +10578,7 @@ TTO,1976,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 TTO,1977,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,46.4041,False,Trinidad and Tobago
 TTO,1978,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,47.56505,True,Trinidad and Tobago
 TTO,1979,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,51.9623,False,Trinidad and Tobago
-TTO,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,48.726000000000006,False,Trinidad and Tobago
+TTO,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,48.726,False,Trinidad and Tobago
 TTO,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,45.8776,False,Trinidad and Tobago
 TTO,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,61.5298,False,Trinidad and Tobago
 TTO,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,85.7564,False,Trinidad and Tobago
@@ -10642,9 +10642,9 @@ TUN,1980,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 TUN,1981,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,4.4912,False,Tunisia
 TUN,1982,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.2045,False,Tunisia
 TUN,1983,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.5523,False,Tunisia
-TUN,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.3610000000000015,False,Tunisia
+TUN,1984,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,7.361,False,Tunisia
 TUN,1985,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,5.9443,True,Tunisia
-TUN,1986,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.522550000000001,True,Tunisia
+TUN,1986,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,6.52255,True,Tunisia
 TUN,1987,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.8787,True,Tunisia
 TUN,1988,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,11.2651,False,Tunisia
 TUN,1989,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.5795,False,Tunisia
@@ -10659,9 +10659,9 @@ TUN,1997,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/int
 TUN,1998,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.8771,False,Tunisia
 TUN,1999,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,8.4808,False,Tunisia
 TUN,2000,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,11.9457,False,Tunisia
-TUN,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.630999999999998,False,Tunisia
-TUN,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,9.9904,True,Tunisia
-TUN,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.2115,True,Tunisia
+TUN,2001,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.631,False,Tunisia
+TUN,2002,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,9.990400000000001,True,Tunisia
+TUN,2003,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,10.211500000000001,True,Tunisia
 TUN,2004,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,9.3498,False,Tunisia
 TUN,2005,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,9.792,False,Tunisia
 TUN,2006,SL1,Nutrient balance per unit area,FAO,http://fenix.fao.org/faostat/internal/en/#data/ESB,MANUAL,False,11.0702,False,Tunisia

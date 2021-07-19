@@ -18,14 +18,14 @@
             "GGI_code": "SE2.2",
             "params": {
                 "dimensions": "[{name:'Location',values:['RURAL']}]",
-                "seriesCode": "EG_ELC_ACCS"
+                "seriesCode": "EG_ACS_ELEC"
             }
         },
         {
             "GGI_code": "SE2.3",
             "params": {
                 "dimensions": "[{name:'Location',values:['URBAN']}]",
-                "seriesCode": "EG_ELC_ACCS"
+                "seriesCode": "EG_ACS_ELEC"
             }
         },
         {

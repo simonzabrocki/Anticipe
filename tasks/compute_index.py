@@ -35,7 +35,8 @@ files = {'AB1': 'AB1_SDG.csv',
          'GN1': 'GN1_origin.M.csv',
          'GT1': 'GT1_origin.M.csv',
          'GV1': 'GV1_WB.csv',
-         'ME1': 'ME1_origin.M.csv',
+         #'ME1': 'ME1_origin.M.csv',
+         'ME1': 'ME1_SDG.csv',
          'ME2': 'ME2_origin.M.csv',
          'SE1': 'SE1.csv',
          'SE2': 'SE2_SDG.csv',
@@ -67,7 +68,7 @@ def format_df_for_computation(df):
 
 def compute_index_from_df(df, save):
     GGIs = []
-    for year in range(2005, 2022):
+    for year in range(2005, 2021):
         indicators = df.loc[year].reset_index(drop=True).set_index('ISO')
         indicators.columns.name = None
         GGI = GreenGrowthIndex(indicators=indicators, sustainability_targets=ST)

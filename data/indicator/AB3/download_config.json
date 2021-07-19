@@ -4,7 +4,7 @@
             "GGI_code": "AB3.0",
             "params": {
                 "dimensions": "[{name:'Type of speed',values:['ANYS']}]",
-                "seriesCode": "IT_NET_BBP"
+                "seriesCode": "IT_NET_BBND"
             }
         }
     ],

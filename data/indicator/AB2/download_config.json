@@ -4,7 +4,7 @@
             "GGI_code": "AB2.0",
             "params": {
                 "dimensions": "[{name:'Location',values:['ALLAREA']}]",
-                "seriesCode": "EG_ELC_ACCS"
+                "seriesCode": "EG_ACS_ELEC"
             }
         },
         {

@@ -1,1 +1,11 @@
-{}
+{
+    "SDG": [
+        {
+            "GGI_code": "ME1",
+            "params": {
+                "dimensions": "[{name:'Type of product',values:['ALP']}]",
+                "seriesCode": "EN_MAT_DOMCMPG"
+            }
+        }
+    ]
+}
