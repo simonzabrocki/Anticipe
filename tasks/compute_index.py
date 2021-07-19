@@ -67,7 +67,7 @@ def format_df_for_computation(df):
 
 def compute_index_from_df(df, save):
     GGIs = []
-    for year in range(2005, 2021):
+    for year in range(2005, 2022):
         indicators = df.loc[year].reset_index(drop=True).set_index('ISO')
         indicators.columns.name = None
         GGI = GreenGrowthIndex(indicators=indicators, sustainability_targets=ST)

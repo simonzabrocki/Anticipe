@@ -110,7 +110,7 @@ class Preprocessor(metaclass=abc.ABCMeta):
 
         final_df = self.add_information_pandas(df, metadata_json)
         final_df = final_df.rename(columns={'GGI_code': 'Variable', 'API_name': 'From'})
-        return final_df.dropna()
+        return final_df.dropna().drop_duplicates()
 
 
 class SDG_Preprocessor(Preprocessor):
@@ -197,6 +197,7 @@ class WB_Preprocessor(Preprocessor):
         return df
 
     def handle_exceptions(self, df):
+        df = df.query("countryiso3code != 'AFE'")
         return df
 
 
