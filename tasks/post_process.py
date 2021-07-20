@@ -23,7 +23,7 @@ def make_timeseries_excel():
 
 def make_imputation_report():
     data = pd.read_csv('data/full_data/data.csv').set_index('ISO')
-    data = data[(data.Year >= 2005) & (data.Year <= 2019)]
+    data = data[(data.Year >= 2005) & (data.Year <= 2020)]
     data = ISO_to_Everything(data).reset_index()
     ind_cat_dim = GreenGrowthStuff().IND_CAT_DIM
     data = pd.merge(data, ind_cat_dim, on='Indicator')

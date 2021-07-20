@@ -3,23 +3,18 @@ import pandas as pd
 
 def process_GB3():
 
-    xls = pd.ExcelFile('data/indicator/GB3/raw/GB3_WB.M.xlsx')
-
-    dfs = {
-        sheet_name: xls.parse(sheet_name, header=1)
-        for sheet_name in xls.sheet_names
-    }
-
-    df = dfs['WBL1971-2020'][[
-        'Economy', 'Code', 'WBL Report Year', 'PAY'
-    ]]
+    df = (
+        pd.ExcelFile('data/indicator/GB3/raw/GB3_WB.M.xlsx')
+          .parse('1971-2021')
+    )
+    
+    df = df[['economy', 'wbcodev2', 'reportyr', 'PAY']]
 
     df = df.rename(
-        columns={
-            'Economy': 'Country',
-            'Code': 'ISO',
-            'WBL Report Year': 'Year',
-            'PAY': 'Value'
-        })
-
+         columns={
+             'economy': 'Country',
+             'wbcodev2': 'ISO',
+             'reportyr': 'Year',
+             'PAY': 'Value'
+         })
     return df
