@@ -325,7 +325,7 @@ class IndicatorsAggregation(GreenGrowthStuff):
         """
         categories = categories.copy()
 
-        missing_values = transposed_indicators.set_index('index').isnull().sum(level=0).T
+        missing_values = transposed_indicators.set_index('index').isnull().groupby(level=0).sum().T
         n_indicators_per_cat = self.IND_CAT_DIM.groupby('Category')['Indicator'].count()
 
         # Categories with more than 2 indicators (1 missing value allowed)
@@ -376,7 +376,7 @@ class CategoriesAggregation(GreenGrowthStuff):
         return dimensions
 
     def select_complete_dimensions(self, dimensions, transposed_categories):
-        missing_values = transposed_categories.set_index('Dimension').isnull().sum(level=0).T
+        missing_values = transposed_categories.set_index('Dimension').isnull().groupby(level=0).sum().T
 
         # Allow one or less missing value in a given category
         select = missing_values <= 1
@@ -447,7 +447,7 @@ class NewCategoriesAggregation(GreenGrowthStuff):
         return dimensions
 
     def select_complete_dimensions(self, dimensions, transposed_categories):
-        missing_values = transposed_categories.set_index('Dimension').isnull().sum(level=0).T
+        missing_values = transposed_categories.set_index('Dimension').isnull().groupby(level=0).sum().T
 
         # Allow one or less missing value in a given category
         select = missing_values <= 1
