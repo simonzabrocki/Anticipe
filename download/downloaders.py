@@ -89,6 +89,22 @@ class CW_Downloader(Downloader):
                 has_next = False
 
         return data
+    
+    
+
+    def get_CW_API_ids(self, query_param, API_URL='https://www.climatewatchdata.org/'):
+        """
+
+        """            
+        url     = f'{API_URL}/api/v1/data/historical_emissions/{query_param}'
+
+        response = requests.get(url, params=query_param, headers={"Accept": "application/json"})
+
+
+        data_json = response.json()
+        df = pd.json_normalize(data_json['data']) 
+
+        return df
 
 
 class SDG_Downloader(Downloader):
