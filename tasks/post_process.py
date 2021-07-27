@@ -1,4 +1,8 @@
 import pandas as pd
+import os
+import glob
+
+from tasks import compute_index
 from index.utils import ISO_to_Everything
 from index.GreenGrowthStuff import GreenGrowthStuff
 
@@ -49,3 +53,63 @@ def make_imputation_report():
             df['Total data points'] = data.groupby(agg).apply(lambda x: x.shape[0])
 
             df.to_excel(writer, sheet_name='_'.join(agg))
+            
+            
+def get_info_from_dataframe(df):
+    
+    n_points = df.shape[0]
+    n_imputed = df[df.Imputed].shape[0]
+    n_corrected = df[df.Corrected].shape[0]
+    
+    
+    earliest_year = df.Year.min()
+    latest_year_without_imputation = df[~df.Imputed].Year.max()
+    latest_year_with_imputation = df.Year.max()
+    
+    info = {
+            'n_points': n_points,
+            '%_imputed': round(n_imputed / n_points * 100, 2),
+            '%_outliers': round(n_corrected / n_points * 100, 2),
+            'earliest_year': earliest_year,
+            'latest_year_without_imputation': latest_year_without_imputation,
+            'latest_year_with_imputation': latest_year_with_imputation
+           }
+    
+    return info
+
+
+def get_info_dataframe():
+    """
+    This function searches for all the files in data/../processed,
+    and returns an excel file with fields of min year, max year, and
+    the number of points for every indicator.
+    """
+    
+    indicators = [file for file in os.listdir('data/indicator') if os.path.isdir(os.path.join('data/indicator', file))]
+    info_df = []
+    
+    for indicator in indicators:
+        
+        raw_path = f'data/indicator/{indicator}/processed/'
+        files = glob.glob(raw_path + "/*.csv")
+        
+        #files = [file for file in files if '.' not in file.split('_')[0]] # remove subindicators
+        
+        for filename in files:
+            
+            df = pd.read_csv(filename, index_col=None)
+            
+            info = get_info_from_dataframe(df)
+            info.update({'file': filename.split('/')[-1], 'indicator': indicator})
+
+            info_df.append(info)
+            
+    info_df = pd.DataFrame(info_df)
+            
+    info_df = info_df[info_df.file.isin(compute_index.files.values())] # filter only the one used for computation
+    return info_df.reset_index(drop=True)
+
+
+def make_data_report():
+    info_df = get_info_dataframe()
+    info_df.to_csv('data/results/data_report.csv', index=False)
