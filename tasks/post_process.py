@@ -113,3 +113,93 @@ def get_info_dataframe():
 def make_data_report():
     info_df = get_info_dataframe()
     info_df.to_csv('data/results/data_report.csv', index=False)
+
+
+
+def get_info_dataframe_2019():
+    data = pd.read_csv('data/2019_archive/data.csv').set_index('ISO')
+
+    # indicators
+    indicators = data['Indicator']
+    corrected = data['Corrected']
+    indicators_all = data['Indicator'].unique()    
+    min_years = {}
+    max_years = {}
+    freq = {}
+    outl = {}
+    imput = {}
+    source = {}
+
+    # n_points
+    for indicator in indicators:        
+        freq[indicator] = freq.get(indicator, 0) + 1 
+    
+    # min , max years
+    for indicator in indicators_all:
+        min_years[indicator] = data[data.Indicator.isin([indicator])].Year.min()
+        max_years[indicator] = data[data.Indicator.isin([indicator])].Year.max()
+
+    # outliers    
+    for indicator in indicators_all:
+        try:
+            outlier_Per = data[data.Indicator.isin([indicator])].Corrected
+            outlier_Perc = round((1 - (outlier_Per.value_counts()[0] / (outlier_Per.value_counts()[0] + outlier_Per.value_counts()[1])))* 100 , 2)
+            # outlier_Perc = round((outlier_Per.value_counts()[1] / outlier_Per.value_counts()[0]) * 100, 2) 
+            outl[indicator] = outlier_Perc
+        except:
+            outlier_Perc = 0
+            outl[indicator] = outlier_Perc
+
+    # imputation 
+
+    for indicator in indicators_all:
+        try:
+            imputat_Per = data[data.Indicator.isin([indicator])].Imputed 
+            imputat_Perc = round((1 - (imputat_Per.value_counts()[0] / (imputat_Per.value_counts()[0] + imputat_Per.value_counts()[1])))* 100 , 2)
+            imput[indicator] = imputat_Perc
+        except:
+            imputat_Perc = 0
+            imput[indicator] = imputat_Perc  
+
+    # source            
+    for indicator in indicators_all:
+        source[indicator] = data[data.Indicator.isin([indicator])].From.unique()
+
+    # indicator , n_points
+    data_INDIC_NPOINTS = pd.DataFrame(list(freq.items()) ,  columns = ['Indicator', 'n_points'])
+    data_INDIC_NPOINTS.reset_index(drop = True, inplace=True)
+
+    # latest year , earliest year
+    data_YEARS = pd.DataFrame(list(min_years.values()) , list(max_years.values()))
+    data_YEARS.reset_index(drop = False, inplace=True)
+    data_YEARS.columns = ['latest_year' , 'earliest_year']
+
+    # outliers
+    data_OUTLIERS = pd.DataFrame(list(outl.items()) ,  columns = ['Indicator', '%_outliers'])
+    data_OUTLIERS.reset_index(drop = True, inplace=True)
+    
+    # Imputation
+    data_Imputation = pd.DataFrame(list(imput.items()) ,  columns = ['Indicator', '%_imputed'])
+    data_Imputation.reset_index(drop = True, inplace=True)
+
+    # source
+    # Imputation
+    data_Source  = pd.DataFrame(list(source.items()) ,  columns = ['Indicator', 'Source'])
+    data_Source.reset_index(drop = True, inplace=True)
+
+    # Final
+    df = pd.DataFrame()
+    df['n_points'] = data_INDIC_NPOINTS['n_points']
+    df['%_imputed'] = data_Imputation['%_imputed']
+    df['%_outliers'] = data_OUTLIERS['%_outliers']
+    df['earliest_year'] = data_YEARS['earliest_year']
+    df['latest_year_with_imputation_2020'] = data_YEARS['latest_year']
+    df['Source'] = data_Source['Source']
+    df['Indicator'] = data_INDIC_NPOINTS['Indicator']
+    
+    return df
+
+
+def make_data_report_2019():
+    info_df = get_info_dataframe_2019()
+    info_df.to_csv('data/2019_archive/data_report.csv', index=False)
