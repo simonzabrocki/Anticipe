@@ -55,7 +55,7 @@ def make_imputation_report():
             df.to_excel(writer, sheet_name='_'.join(agg))
             
             
-def get_info_from_dataframe(df):
+def get_info_from_indictor_df(df):
     
     n_points = df.shape[0]
     n_imputed = df[df.Imputed].shape[0]
@@ -75,8 +75,44 @@ def get_info_from_dataframe(df):
             'latest_year_with_imputation': latest_year_with_imputation
            }
     
-    return info
+    return pd.DataFrame([info])
 
+
+def get_info_from_df(df):
+    info_df = df.groupby(['Indicator', 'From']).apply(lambda x: get_info_from_indictor_df(x)).droplevel(2).reset_index()
+    return info_df
+
+
+# def get_info_dataframe():
+#     """
+#     This function searches for all the files in data/../processed,
+#     and returns an excel file with fields of min year, max year, and
+#     the number of points for every indicator.
+#     """
+    
+#     indicators = [file for file in os.listdir('data/indicator') if os.path.isdir(os.path.join('data/indicator', file))]
+#     info_df = []
+    
+#     for indicator in indicators:
+        
+#         raw_path = f'data/indicator/{indicator}/processed/'
+#         files = glob.glob(raw_path + "/*.csv")
+        
+#         #files = [file for file in files if '.' not in file.split('_')[0]] # remove subindicators
+        
+#         for filename in files:
+            
+#             df = pd.read_csv(filename, index_col=None)
+            
+#             info = get_info_from_dataframe(df)
+#             info.update({'file': filename.split('/')[-1], 'indicator': indicator})
+
+#             info_df.append(info)
+            
+#     info_df = pd.DataFrame(info_df)
+            
+#     info_df = info_df[info_df.file.isin(compute_index.files.values())] # filter only the one used for computation
+#     return info_df.reset_index(drop=True)
 
 def get_info_dataframe():
     """
@@ -84,30 +120,28 @@ def get_info_dataframe():
     and returns an excel file with fields of min year, max year, and
     the number of points for every indicator.
     """
-    
-    indicators = [file for file in os.listdir('data/indicator') if os.path.isdir(os.path.join('data/indicator', file))]
-    info_df = []
-    
-    for indicator in indicators:
-        
-        raw_path = f'data/indicator/{indicator}/processed/'
-        files = glob.glob(raw_path + "/*.csv")
-        
-        #files = [file for file in files if '.' not in file.split('_')[0]] # remove subindicators
-        
-        for filename in files:
-            
-            df = pd.read_csv(filename, index_col=None)
-            
-            info = get_info_from_dataframe(df)
-            info.update({'file': filename.split('/')[-1], 'indicator': indicator})
+    data = pd.read_csv('data/full_data/data.csv')
+    info_df = get_info_from_df(data)
+    return info_df
 
-            info_df.append(info)
-            
-    info_df = pd.DataFrame(info_df)
-            
-    info_df = info_df[info_df.file.isin(compute_index.files.values())] # filter only the one used for computation
-    return info_df.reset_index(drop=True)
+
+def reorder_columns(df):
+    return df.reindex(sorted(df.columns), axis=1)
+
+
+def compare_2020_2019_data_report():
+    df_2020 = pd.read_csv('data/full_data/data.csv')
+    df_2019 = pd.read_csv('data/2019_archive/data.csv')
+    
+    info_2020 = get_info_from_df(df_2020)
+    info_2019 = get_info_from_df(df_2019)
+    
+    info_df = pd.merge(info_2020, info_2019, on='Indicator', suffixes=('_20', '_19')).set_index('Indicator')
+
+    info_df = reorder_columns(info_df)
+    
+    return info_df
+
 
 
 def make_data_report():
