@@ -113,3 +113,40 @@ def get_info_dataframe():
 def make_data_report():
     info_df = get_info_dataframe()
     info_df.to_csv('data/results/data_report.csv', index=False)
+
+
+#  Data report 2019
+
+# Read data
+def read_data(file_path):
+    data_csv = pd.read_csv(file_path).set_index('ISO')
+    return data_csv
+
+def group_data(df):
+    info_df = []
+    indicato = df.groupby('Indicator')
+    indicators = df['Indicator'].unique()
+        
+    for indicator in indicators:
+        each_indicator = indicato.get_group(indicator) 
+        earliest_year  = each_indicator.Year.min()
+        latest_year  = each_indicator.Year.max()
+        data_src = each_indicator.From[0]
+        n_points = each_indicator['Indicator'].count()
+        try: 
+            imputed = round ((( (each_indicator.Imputed.value_counts()[1]) / n_points) * 100), 2)
+        except:
+            imputed = 0
+        try:
+            outliers = round((( (each_indicator.Corrected.value_counts()[1]) / n_points) * 100), 2)
+        except:
+            outliers = 0
+        Dict = {"Indicator": indicator , "n_points": n_points, "earliest_year": earliest_year , "latest_year": latest_year , "%_imputed" : imputed , "%_outliers": outliers , "Source":data_src}
+        info_df.append(Dict)
+    all_data = pd.DataFrame(info_df)
+    return all_data
+    
+def make_data_report_2019():
+    info_df = read_data(file_path = 'data/2019_archive/data.csv')
+    data_report_2019 = group_data(info_df)
+    data_report_2019.to_csv('data/results/data_report_2019.csv', index=False)
