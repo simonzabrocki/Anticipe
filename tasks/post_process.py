@@ -1,6 +1,9 @@
 import pandas as pd
+import numpy as np
 import os
 import glob
+import warnings
+warnings.filterwarnings('ignore')
 
 from tasks import compute_index
 from index.utils import ISO_to_Everything
@@ -53,9 +56,9 @@ def make_imputation_report():
             df['Total data points'] = data.groupby(agg).apply(lambda x: x.shape[0])
 
             df.to_excel(writer, sheet_name='_'.join(agg))
-            
-            
-def get_info_from_dataframe(df):
+
+
+def get_info_from_indictor_df(df):
     
     n_points = df.shape[0]
     n_imputed = df[df.Imputed].shape[0]
@@ -75,8 +78,44 @@ def get_info_from_dataframe(df):
             'latest_year_with_imputation': latest_year_with_imputation
            }
     
-    return info
+    return pd.DataFrame([info])
 
+
+def get_info_from_df(df):
+    info_df = df.groupby(['Indicator', 'From']).apply(lambda x: get_info_from_indictor_df(x)).droplevel(2).reset_index()
+    return info_df
+
+
+# def get_info_dataframe():
+#     """
+#     This function searches for all the files in data/../processed,
+#     and returns an excel file with fields of min year, max year, and
+#     the number of points for every indicator.
+#     """
+
+#     indicators = [file for file in os.listdir('data/indicator') if os.path.isdir(os.path.join('data/indicator', file))]
+#     info_df = []
+
+#     for indicator in indicators:
+
+#         raw_path = f'data/indicator/{indicator}/processed/'
+#         files = glob.glob(raw_path + "/*.csv")
+
+#         #files = [file for file in files if '.' not in file.split('_')[0]] # remove subindicators
+
+#         for filename in files:
+
+#             df = pd.read_csv(filename, index_col=None)
+
+#             info = get_info_from_dataframe(df)
+#             info.update({'file': filename.split('/')[-1], 'indicator': indicator})
+
+#             info_df.append(info)
+
+#     info_df = pd.DataFrame(info_df)
+
+#     info_df = info_df[info_df.file.isin(compute_index.files.values())] # filter only the one used for computation
+#     return info_df.reset_index(drop=True)
 
 def get_info_dataframe():
     """
@@ -84,69 +123,53 @@ def get_info_dataframe():
     and returns an excel file with fields of min year, max year, and
     the number of points for every indicator.
     """
-    
-    indicators = [file for file in os.listdir('data/indicator') if os.path.isdir(os.path.join('data/indicator', file))]
-    info_df = []
-    
-    for indicator in indicators:
-        
-        raw_path = f'data/indicator/{indicator}/processed/'
-        files = glob.glob(raw_path + "/*.csv")
-        
-        #files = [file for file in files if '.' not in file.split('_')[0]] # remove subindicators
-        
-        for filename in files:
-            
-            df = pd.read_csv(filename, index_col=None)
-            
-            info = get_info_from_dataframe(df)
-            info.update({'file': filename.split('/')[-1], 'indicator': indicator})
+    data = pd.read_csv('data/full_data/data.csv')
+    info_df = get_info_from_df(data)
+    return info_df
 
-            info_df.append(info)
-            
-    info_df = pd.DataFrame(info_df)
-            
-    info_df = info_df[info_df.file.isin(compute_index.files.values())] # filter only the one used for computation
-    return info_df.reset_index(drop=True)
 
+def reorder_columns(df):
+    return df.reindex(sorted(df.columns), axis=1)
+
+
+def compare_2020_2019_data_report():
+    df_2020 = pd.read_csv('data/full_data/data.csv')
+    df_2019 = pd.read_csv('data/2019_archive/data.csv')
+    
+    info_2020 = get_info_from_df(df_2020)
+    info_2019 = get_info_from_df(df_2019)
+    
+    info_df = pd.merge(info_2020, info_2019, on='Indicator', suffixes=('_20', '_19')).set_index('Indicator')
+
+    info_df = reorder_columns(info_df)
+    
+    return info_df
+
+
+def correlation_2019_2020_result_report():
+    
+    data_2019 = pd.read_csv('data/2019_archive/result.csv').assign(version='2019')
+    data_2020 = pd.read_csv('data/full_data/result.csv').assign(version='2020')
+    data = pd.concat([data_2019, data_2020], axis=0).dropna(subset=['Value'])
+    
+    pivoted_data = data.pivot(index=['Variable', 'Aggregation', 'Country', 'ISO', 'Year',], columns=['version'], values='Value')
+    
+    
+    by_Variable = pivoted_data.groupby('Variable').apply(lambda x: np.corrcoef(x['2019'].fillna(0), x['2020'].fillna(0))[0, 1])
+    corr_by_Variable = pd.DataFrame(by_Variable , columns = {'corr_by_Variable'}).reset_index()
+    corr_by_Variable.to_csv('data/results/Correlation_by_variable.csv')
+    
+    by_Variable_and_Year = pivoted_data.groupby(['Variable', 'Year']).apply(lambda x: np.corrcoef(x['2019'].fillna(0), x['2020'].fillna(0))[0, 1])
+    corr_by_Variable_and_Year = pd.DataFrame(by_Variable_and_Year , columns = {'corr_by_Variable_and_Year'} ).reset_index()
+    corr_by_Variable_and_Year.to_csv('data/results/Correlation_by_variable_&_Year.csv')
+    
+    by_Variable_and_country = pivoted_data.groupby(['Variable', 'Country']).apply(lambda x: np.corrcoef(x['2019'].fillna(0), x['2020'].fillna(0))[0, 1])
+    corr_by_Variable_and_country = pd.DataFrame(by_Variable_and_country , columns = {'corr_by_Variable_and_country'} ).reset_index()
+    corr_by_Variable_and_country.to_csv('data/results/Correlation_by_variable_&_Country.csv')
+    
+    return corr_by_Variable , corr_by_Variable_and_Year, corr_by_Variable_and_country
+ 
 
 def make_data_report():
     info_df = get_info_dataframe()
     info_df.to_csv('data/results/data_report.csv', index=False)
-
-
-#  Data report 2019
-
-# Read data
-def read_data(file_path):
-    data_csv = pd.read_csv(file_path).set_index('ISO')
-    return data_csv
-
-def group_data(df):
-    info_df = []
-    indicato = df.groupby('Indicator')
-    indicators = df['Indicator'].unique()
-        
-    for indicator in indicators:
-        each_indicator = indicato.get_group(indicator) 
-        earliest_year  = each_indicator.Year.min()
-        latest_year  = each_indicator.Year.max()
-        data_src = each_indicator.From[0]
-        n_points = each_indicator['Indicator'].count()
-        try: 
-            imputed = round ((( (each_indicator.Imputed.value_counts()[1]) / n_points) * 100), 2)
-        except:
-            imputed = 0
-        try:
-            outliers = round((( (each_indicator.Corrected.value_counts()[1]) / n_points) * 100), 2)
-        except:
-            outliers = 0
-        Dict = {"Indicator": indicator , "n_points": n_points, "earliest_year": earliest_year , "latest_year": latest_year , "%_imputed" : imputed , "%_outliers": outliers , "Source":data_src}
-        info_df.append(Dict)
-    all_data = pd.DataFrame(info_df)
-    return all_data
-    
-def make_data_report_2019():
-    info_df = read_data(file_path = 'data/2019_archive/data.csv')
-    data_report_2019 = group_data(info_df)
-    data_report_2019.to_csv('data/results/data_report_2019.csv', index=False)
