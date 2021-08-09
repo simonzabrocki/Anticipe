@@ -83,37 +83,6 @@ def get_info_from_df(df):
     return info_df
 
 
-# def get_info_dataframe():
-#     """
-#     This function searches for all the files in data/../processed,
-#     and returns an excel file with fields of min year, max year, and
-#     the number of points for every indicator.
-#     """
-    
-#     indicators = [file for file in os.listdir('data/indicator') if os.path.isdir(os.path.join('data/indicator', file))]
-#     info_df = []
-    
-#     for indicator in indicators:
-        
-#         raw_path = f'data/indicator/{indicator}/processed/'
-#         files = glob.glob(raw_path + "/*.csv")
-        
-#         #files = [file for file in files if '.' not in file.split('_')[0]] # remove subindicators
-        
-#         for filename in files:
-            
-#             df = pd.read_csv(filename, index_col=None)
-            
-#             info = get_info_from_dataframe(df)
-#             info.update({'file': filename.split('/')[-1], 'indicator': indicator})
-
-#             info_df.append(info)
-            
-#     info_df = pd.DataFrame(info_df)
-            
-#     info_df = info_df[info_df.file.isin(compute_index.files.values())] # filter only the one used for computation
-#     return info_df.reset_index(drop=True)
-
 def get_info_dataframe():
     """
     This function searches for all the files in data/../processed,
@@ -142,6 +111,21 @@ def compare_2020_2019_data_report():
     
     return info_df
 
+
+def make_2019_2020_correlation_report():
+    
+    data_2019 = pd.read_csv('data/2019_archive/result.csv').assign(version='v_2019')
+    data_2020 = pd.read_csv('data/full_data/result.csv').assin(version='v_2020')
+    data = pd.concat([data_2019, data_2020], axis=0).dropna(subset=['Value'])
+    ISO_with_index = data.query("Aggregation == 'Index'").dropna().ISO.unique() # Select only ISOs where the full index is computed to remove some noise
+    data = data[data.ISO.isin(ISO_with_index)]
+    
+    pivoted_data = data.pivot(index=['Variable', 'Aggregation', 'ISO', 'Year'], columns=['version'], values='Value')
+    
+    corr_by_var = pivoted_data.groupby(['Variable', 'Aggregation']).apply(lambda x: x[['v_2019', 'v_2020']].dropna().corr().values[0, 1]).to_frame(name='corr')
+    corr_by_var_ISO = pivoted_data.groupby(['Variable', 'Aggregation', 'ISO']).apply(lambda x: x[['v_2019', 'v_2020']].dropna().corr().values[0, 1]).to_frame(name='corr')
+
+    return pivoted_data, corr_by_var.reset_index(), corr_by_var_ISO.reset_index()
 
 
 def make_data_report():
