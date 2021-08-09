@@ -28,7 +28,7 @@ def process_SL1():
     NB['Value'] = abs(NB['Value'])
 
     
-    NB[NB['Value'] < 0] = 5 - NB[NB['Value'] < 0]  # mirror
+    NB[NB['Value'] < 0] = 5 - NB[NB['Value'] < 0]  # mirror ???
     return NB
 
 
