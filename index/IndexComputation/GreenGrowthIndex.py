@@ -3,7 +3,7 @@ import numpy as np
 from index.utils import ISO_to_Everything, geometric_mean
 from index.GreenGrowthStuff import GreenGrowthStuff
 CAPPING_PRIOR_NORMALIZATION = ['EE1', 'EW2', 'ME2', 'EQ1', 'EQ2', 'EQ3', 'GE1',
-                               'GE2', 'GE3', 'GV1', 'SE2',
+                               'GE2', 'GE3', 'GV1', 'SE2', 'SL1'
                                ]
 
 
@@ -70,13 +70,13 @@ class GreenGrowthIndex(GreenGrowthStuff):
         # Aggregating dimensions into the green growth index
         Index = DimensionsAggregation().compute(dimensions)
 
-        self.indicators = indicators.round(2)
+        self.indicators = indicators#.round(2)
         self.statistics = statistics
-        self.indicators_normed = indicators_normed.round(2)
+        self.indicators_normed = indicators_normed#.round(2)
         self.sustainability_targets = sustainability_targets
-        self.categories = categories.round(2)
-        self.dimensions = dimensions.round(2)
-        self.Index = pd.DataFrame(Index, columns=['Index']).round(2)
+        self.categories = categories#.round(2)
+        self.dimensions = dimensions#.round(2)
+        self.Index = pd.DataFrame(Index, columns=['Index'])#.round(2)
 
         return self
 
