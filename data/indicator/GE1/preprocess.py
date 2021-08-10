@@ -11,7 +11,7 @@ def process_GE1_0(df):
     piv['Value'] = (piv['Total excluding LUCF'] - piv['Agriculture']) * 1e6
     piv = (
         piv['Value'].reset_index().assign(Description='C02 Total excluding LUCF and Agriculture Tons')
-                    .assign(Source='CAIT _and_ PIK')
+                    .assign(Source='CAIT _AND_ PIK')
     )
     
     
