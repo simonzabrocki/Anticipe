@@ -28,14 +28,18 @@ indicators_computations = {
 }
 
 
+def compute_indicator(indicator):
+    computations_list = indicators_computations.get(indicator)
+    for file, computation in computations_list:
+                print(f'Computing {indicator} for {file}: ', end='')
+                try:
+                    df = compute_from_path(computation, f'data/indicator/{indicator}/preprocessed')
+                    os.makedirs(f'data/indicator/{indicator}/computed', exist_ok=True)
+                    df.to_csv(f'data/indicator/{indicator}/computed/{file}', index=False)
+                    print('DONE')
+                except Exception as e:
+                    print(e)
+
 def compute_indicators():
-    for indicator, computations_list in indicators_computations.items():
-        for file, computation in computations_list:
-            print(f'Computing {indicator} for {file}: ', end='')
-            try:
-                df = compute_from_path(computation, f'data/indicator/{indicator}/preprocessed')
-                os.makedirs(f'data/indicator/{indicator}/computed', exist_ok=True)
-                df.to_csv(f'data/indicator/{indicator}/computed/{file}', index=False)
-                print('DONE')
-            except Exception as e:
-                print(e)
+    for indicator in indicators_computations.keys():
+        compute_indicator(indicator)

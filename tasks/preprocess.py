@@ -1,12 +1,10 @@
-
 from processing.api_preprocessors import preprocess_file_from_api
-from processing.manual_preprocessors import preprocess_raw_file_from_MANUAL, manual_configs
-
+from processing.manual_preprocessors import preprocess_raw_file_from_MANUAL, MANUAL_CONFIGS
 import os
 
 
 # APIs
-def process_APIs_data_in_indicator(indicator):
+def preprocess_APIs_data_in_indicator(indicator):
     path = f'data/indicator/{indicator}'
     API_files = [file for file in os.listdir(f'{path}/raw') if '.M.' not in file]
     for file in API_files:
@@ -24,21 +22,28 @@ def process_APIs_data_in_indicator(indicator):
             print('Error: ', e)
 
 
-def process_APIs_raw_data():
+def preprocess_API_files():
     excluded = ["__pycache__", '__init__.py']
     indicators = [file for file in os.listdir('data/indicator') if file not in excluded]
     for indicator in indicators:
-        process_APIs_data_in_indicator(indicator)
+        preprocess_APIs_data_in_indicator(indicator)
 
 
-# Manual
+# MANUALs        
+def preprocess_MANUAL_data_in_indicator(indicator):
+    config = MANUAL_CONFIGS.get(indicator, None)
+    print(f"PreProcessing {indicator} Manual files", end=': ')
+    try:
+        df = preprocess_raw_file_from_MANUAL(config)
+        preprocess_path = f'data/indicator/{indicator}/preprocessed/{indicator}_origin.M.csv'
+        print(f'Saving at {preprocess_path}')
+        df.to_csv(preprocess_path, index=False)
+        print('Done')
+    except Exception as e:
+        print('Error: ', e)
+    
+
 def preprocess_MANUAL_files():
-    for config in manual_configs:
-        indicator = config['Variable']
-        print(f"PreProcessing {indicator} Manual files", end=': ')
-        try:
-            df = preprocess_raw_file_from_MANUAL(config)
-            df.to_csv(f'data/indicator/{indicator}/preprocessed/{indicator}_origin.M.csv', index=False)
-            print('Done')
-        except Exception as e:
-            print('Error: ', e)
+    for indicator in MANUAL_CONFIGS.keys():
+        preprocess_MANUAL_data_in_indicator(indicator)
+
