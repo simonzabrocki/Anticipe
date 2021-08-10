@@ -23,6 +23,7 @@ data/indicator/AB1/ contains:
 Additionnaly, the folder contains:
 
 - download_config.json: a file containing the API parameters to download the indicator
+- process.py: If the indicator is composite, this file is used to define the computation
 - preprocess.py: If the file is added manually, this script contains a function to parse the data in raw/
 
 Once the files above are specificed, it is possible the run the pipeline in Pipeline.ipynb. This pipeline will:
@@ -33,7 +34,7 @@ Once the files above are specificed, it is possible the run the pipeline in Pipe
 - Produce reports on the index (missing values, imputation etc ...)
 
 
-To check that the pipeline does not contains obvious mistake (duplicates, empty tables etc), run pytest tests/
+To check that th e pipeline does not contains obvious mistake (duplicates, empty tables etc), run pytest tests/
 
 # Roadmap
 
