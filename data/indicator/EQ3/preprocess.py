@@ -23,3 +23,10 @@ def process_EQ3():
     })
 
     return df
+
+
+config_EQ3 = {'Variable': 'EQ3',
+              'function': process_EQ3,
+              'Description': 'Municipal solid waste (MSW) generation per capita tons per capita',
+              'Source': 'World Bank What a Waste database',
+              'URL': 'https://datacatalog.worldbank.org/dataset/what-waste-global-database'}

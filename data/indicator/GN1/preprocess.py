@@ -18,3 +18,10 @@ def process_GN1():
 
     return df
 
+
+
+config_GN1 = {'Variable': 'GN1',
+           'function': process_GN1,
+           'Description': 'Cumulative Share of patent publications in environmental technology to total patents',
+           'Source': 'World Intellectual Property Organization (WIPO) statistics database',
+           'URL': 'https://www3.wipo.int/ipstats/index.htm?tab=patent'}

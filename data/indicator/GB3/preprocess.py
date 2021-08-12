@@ -18,3 +18,10 @@ def process_GB3():
              'PAY': 'Value'
          })
     return df
+
+
+config_GB3 = {'Variable': 'GB3',
+          'function': process_GB3,
+          'Description': 'Getting paid, laws and regulations for equal gender pay score',
+          'Source': 'World Bank Women, Business and the Law',
+          'URL': 'http://wbl.worldbank.org/en/reports'}

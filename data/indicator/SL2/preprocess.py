@@ -13,3 +13,10 @@ def process_SL2():
     
     
     return df
+
+
+config_SL2 =  {'Variable': 'SL2',
+               'function': process_SL2,
+               'Description': 'Share agriculture organic to total agriculture land area (Percent)',
+               'Source': 'FAOSTAT',
+               'URL': 'http://www.fao.org/faostat/en/#data/EL'}

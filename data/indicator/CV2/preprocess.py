@@ -13,3 +13,9 @@ def process_CV2():
     })
 
     return df
+
+config_CV2 =  {'Variable': 'CV2',
+          'function': process_CV2,
+          'Description': 'Tourism and recreation in coastal and marine areas score',
+          'Source': 'Ocean Health Index',
+          'URL': 'http://ohi-science.org/ohi-global/download'}

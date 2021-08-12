@@ -32,6 +32,11 @@ def process_SL1():
     return NB
 
 
+config_SL1 = {'Variable': 'SL1',
+             'function': process_SL1,
+             'Description': 'Nutrient balance per unit area',
+             'Source': 'FAO',
+             'URL': 'http://fenix.fao.org/faostat/internal/en/#data/ESB'}
 
 # def process_SL1():
 

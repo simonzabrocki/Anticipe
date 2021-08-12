@@ -10,3 +10,10 @@ def process_SP2():
     df = df.rename(columns={'location_name': 'Country', 'year_id': 'Year', 'val': 'Value'})
 
     return df
+
+
+config_SP2 = {'Variable': 'SP2',
+          'function': process_SP2,
+          'Description': 'Health care Access and Quality Index',
+          'Source': 'Institute for Health Metrics and Evaluation, based on Global Burden of Disease Study 2015 (GBD 2015).',
+          'URL': 'http://ghdx.healthdata.org/record/global-burden-disease-study-2015-gbd-2015-healthcare-access-and-quality-index-based-amenable'}

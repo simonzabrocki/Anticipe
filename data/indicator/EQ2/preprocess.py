@@ -18,3 +18,10 @@ def process_EQ2():
           .rename(columns={'location': 'Country', 'year': 'Year', 'val': 'Value'})
     )
     return df
+
+
+config_EQ2 = {'Variable': 'EQ2',
+              'function': process_EQ2,
+              'Description': 'DALYs (Disability-Adjusted Life Years), Rate, Age-standardized, Unsafe water source',
+              'Source': 'GHD',
+              'URL': 'http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2017-permalink/b6989accc192c6a5f121a8204b88f819'}

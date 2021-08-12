@@ -9,3 +9,11 @@ def process_ME2():
           .dropna()
     )
     return df
+
+
+config_ME2 = {'Variable': 'ME2',
+              'function': process_ME2,
+              'Description': 'Total material footprint (MF) per capita',
+              'Source': 'U.N. Environment: Secretariat of the International Resource Panel',
+              'URL': 'https://www.resourcepanel.org/global-material-flows-database'
+             }
