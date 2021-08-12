@@ -15,7 +15,7 @@ def process_SL1():
     df = df.drop(columns=['Domain', 'Domain Code', 'Area Code (FAO)', 'Element Code',
                           'Item Code', 'Year Code', 'Flag', 'Flag Description', 'Unit', 'Element'])
     
-    pivoted = df.pivot(index=['Area', 'Year'], columns='Item', values='Value')
+    pivoted = df.pivot(index=['Area', 'Year'], columns='Item', values='Value')#.fillna(0)
 
     NB = pivoted['Synthetic Fertilizers'] \
         + pivoted['Manure applied to Soils'] \
