@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from index.utils import ISO_to_Everything, geometric_mean
 from index.GreenGrowthStuff import GreenGrowthStuff
+
 CAPPING_PRIOR_NORMALIZATION = ['EE1', 'EW2', 'ME2', 'EQ1', 'EQ2', 'EQ3', 'GE1',
                                'GE2', 'GE3', 'GV1', 'SE2', 'SL1'
                                ]
