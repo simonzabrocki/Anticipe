@@ -16,6 +16,8 @@ from data.indicator.SL1.preprocess import config_SL1
 from data.indicator.SL2.preprocess import config_SL2
 from data.indicator.SP2.preprocess import config_SP2
 
+from data.indicator.TMP.preprocess import config_TMP
+
 # MANUAL 
 
 MANUAL_CONFIGS = {
@@ -30,6 +32,8 @@ MANUAL_CONFIGS = {
     'SL1': config_SL1,
     'SL2': config_SL2,
     'SP2': config_SP2,
+    'TMP': config_TMP,
+
     
 }
 
