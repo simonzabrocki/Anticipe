@@ -19,6 +19,20 @@ def download_data_from_config_dict(download_config, path, fresh_start):
     for API_name, configs in download_config.items():
         for config in configs:
             download_data_from_config(API_name, config, path, fresh_start)
+            
+            
+def download_indicator(indicator, fresh_start):
+        config_path = f'data/indicator/{indicator}/download_config.json'
+        raw_path = f'data/indicator/{indicator}/raw/'
+
+        print(f"Downloading {indicator}'s data", end=': ')
+        try:
+            with open(config_path, 'r') as f:
+                download_config = json.load(f)
+            download_data_from_config_dict(download_config, raw_path, fresh_start)
+            print('DONE')
+        except Exception as e:
+            print(e)
 
 
 def download_data(fresh_start=False):

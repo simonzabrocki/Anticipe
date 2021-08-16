@@ -79,6 +79,18 @@ def process_non_computation_file(indicator, file, path, save_path):
 def processing_computation_files():
     pass
 
+def process_indicator(indicator):
+    print(f'Processing {indicator}: ')
+
+    preprocessed_files = get_preprocessed_files_from_indicator(indicator)
+    path, save_path = get_from_to_path(indicator)
+
+    if indicator in indicators_computations:
+        process_computation_files(indicator, path, save_path)
+
+    else:
+        for file in preprocessed_files:
+            process_non_computation_file(indicator, file, path, save_path)
 
 def process_files():
     '''Immondice à nettoyer'''

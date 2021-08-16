@@ -10,12 +10,14 @@ from data.indicator.ME2.preprocess import process_ME2
 from data.indicator.SL1.preprocess import process_SL1
 from data.indicator.SL2.preprocess import process_SL2
 from data.indicator.SP2.preprocess import process_SP2
-
+from data.indicator.EST.preprocess import config_EST
 from processing.utils import add_ISO
 
 # MANUAL
 manual_configs = [
     {
+        'EST': config_EST,
+        
         'Variable': 'ME2',
         'function': process_ME2,
         'Description': 'Total material footprint (MF) per capita',
