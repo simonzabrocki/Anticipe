@@ -1,7 +1,6 @@
 import pandas as pd
 
 
-
 def process_TMP():
     df = (
         pd.read_csv('data/indicator/TMP/raw/TMP_IEA.M.csv')
@@ -14,8 +13,7 @@ def process_TMP():
     )
     return df
     
-    
-config_TMP = {'Variable': 'TMP',
+config_GS2 = {'Variable': 'TMP',
              'function': process_TMP,
              'Description': 'Total passenger transport Passenger-kilometres energy intensity (MJ/pkm)',
              'Source': 'IEA',

@@ -1,0 +1,11 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "GS1",
+            "params": {
+                "dimensions": "[{name:'Age',values:['ALLAGE']}]",
+                "seriesCode": "AG_PRD_FIESS"
+            }
+        }
+    ]
+}
