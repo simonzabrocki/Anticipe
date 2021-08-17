@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def process_TMP():
+def preprocess():
     df = (
         pd.read_csv('data/indicator/TMP/raw/TMP_IEA.M.csv')
           .melt(id_vars=['Country', 'Mode/vehicle type', 'Indicator'], var_name=['Year'], value_name='Value')
@@ -13,8 +13,8 @@ def process_TMP():
     )
     return df
     
-config_GS2 = {'Variable': 'TMP',
-             'function': process_TMP,
+config = {'Variable': 'GS1',
+             'function': preprocess,
              'Description': 'Total passenger transport Passenger-kilometres energy intensity (MJ/pkm)',
              'Source': 'IEA',
              'URL': 'https://www.iea.org/data-and-statistics/data-product/energy-efficiency-indicators'}

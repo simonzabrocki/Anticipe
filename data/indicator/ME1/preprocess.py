@@ -6,7 +6,7 @@ import pandas as pd
 #     print(df.head)
 #     return df
 
-def process_ME1():
+def preprocess():
     ME1_DMC = (
         pd.read_csv("data/indicator/ME1/raw/ME1.0_OECD.M.csv")
           .drop(columns=['INDICATOR', 'SUBJECT', 'MEASURE', 'FREQUENCY','Flag Codes'])
@@ -23,8 +23,8 @@ def process_ME1():
 
 
 
-config_ME1 = {'Variable': 'ME1',
-              'function': process_ME1,
+config = {'Variable': 'ME1',
+              'function': preprocess,
               'Description': 'Total domestic material consumption (DMC) per unit of GDP',
               'Source': 'OECD _AND_ WorldBank',
               'URL': 'https://data.worldbank.org/indicator _AND_ https://www.oecd-ilibrary.org/environment/material-consumption/indicator/english_84971620-en#:~:text=Domestic%20material%20consumption%20(DMC)%20refers,minus%20material%20and%20products%20exported.'}

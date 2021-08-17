@@ -10,7 +10,7 @@ import pandas as pd
 
 
 
-def process_SL1():
+def preprocess():
     df = pd.read_csv('data/indicator/SL1/raw/SL1_FAO.M.csv').query("Element == 'Cropland nutrient flow per unit area'")
     df = df.drop(columns=['Domain', 'Domain Code', 'Area Code (FAO)', 'Element Code',
                           'Item Code', 'Year Code', 'Flag', 'Flag Description', 'Unit', 'Element'])
@@ -32,8 +32,8 @@ def process_SL1():
     return NB
 
 
-config_SL1 = {'Variable': 'SL1',
-             'function': process_SL1,
+config = {'Variable': 'SL1',
+             'function': preprocess,
              'Description': 'Nutrient balance per unit area',
              'Source': 'FAO',
              'URL': 'http://fenix.fao.org/faostat/internal/en/#data/ESB'}

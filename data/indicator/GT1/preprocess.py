@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def process_GT1():
+def preprocess():
 
     df = pd.read_csv('data/indicator/GT1/raw/GT1_COMTRADE.M.csv', index_col=0, dtype={'cmdCode': str})
     TOTAL = df[df.cmdCode == 'TOTAL']
@@ -18,8 +18,8 @@ def process_GT1():
     return df
 
 
-config_GT1 = {'Variable': 'GT1',
-              'function': process_GT1,
+config = {'Variable': 'GT1',
+              'function': preprocess,
               'Description': 'Share of export of environmental goods (OECD and APEC classifications) to total export (%)',
               'Source': 'UNCOMTRADE data and OECD and APEC classifications of environmental goods',
               'URL': 'https://comtrade.un.org/data/'}

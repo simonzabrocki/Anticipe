@@ -1,7 +1,7 @@
 import pandas as pd
 from processing.utils import add_ISO
 
-def process_GN1():
+def preprocess():
     df = (
         pd.read_csv('data/indicator/GN1/raw/GN1_WIPO.M.csv')
           .drop(columns=['Origin', 'Office (Code)']).rename(columns={'Office': 'Country'})
@@ -20,8 +20,8 @@ def process_GN1():
 
 
 
-config_GN1 = {'Variable': 'GN1',
-           'function': process_GN1,
+config = {'Variable': 'GN1',
+           'function': preprocess,
            'Description': 'Cumulative Share of patent publications in environmental technology to total patents',
            'Source': 'World Intellectual Property Organization (WIPO) statistics database',
            'URL': 'https://www3.wipo.int/ipstats/index.htm?tab=patent'}
