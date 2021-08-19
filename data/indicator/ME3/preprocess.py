@@ -3,7 +3,7 @@ import pandas as pd
 
 def preprocess():
     df = (
-        pd.read_csv('data/indicator/ME3/raw/ME3.2_FAO.M.csv')
+        pd.read_csv('data/indicator/ME3/raw/ME3.1_FAO.M.csv')
           .groupby(['Area', 'Year', 'Element'])['Value'].sum().reset_index()
           .pivot(index=['Area', 'Year'], columns='Element', values='Value')
     )
@@ -13,7 +13,7 @@ def preprocess():
 
 
 
-config =  {'Variable': 'ME3.2',
+config =  {'Variable': 'ME3.1',
               'function': preprocess,
               'Description': 'Share food loss to total food production (Percent)',
               'Source': 'FAO',

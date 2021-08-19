@@ -11,7 +11,7 @@ def preprocess():
     return df
 
 
-config = {'Variable': 'ME2',
+config = {'Variable': 'ME2.0',
               'function': preprocess,
               'Description': 'Total material footprint (MF) per capita',
               'Source': 'U.N. Environment: Secretariat of the International Resource Panel',

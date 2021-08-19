@@ -60,14 +60,18 @@ def get_info_from_indictor_df(df):
     n_points = df.shape[0]
     n_imputed = df[df.Imputed].shape[0]
     n_corrected = df[df.Corrected].shape[0]
+    description = df.Description.unique()[0]
     
+    n_ISO = df.ISO.unique().shape[0]
     
     earliest_year = df.Year.min()
     latest_year_without_imputation = df[~df.Imputed].Year.max()
     latest_year_with_imputation = df.Year.max()
     
     info = {
+            'Description': description,
             'n_points': n_points,
+            'n_ISO': n_ISO,
             '%_imputed': round(n_imputed / n_points * 100, 2),
             '%_outliers': round(n_corrected / n_points * 100, 2),
             'earliest_year': earliest_year,

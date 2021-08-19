@@ -1,1 +1,16 @@
-{}
+{
+    "SDG": [
+        {
+            "GGI_code": "ME2.1",
+            "params": {
+                "seriesCode": "EN_WWT_WWDS"
+            }
+        },
+        {
+            "GGI_code": "ME2.2",
+            "params": {
+                "seriesCode": "EN_MWT_RCYV"
+            }
+        }
+    ]
+}
