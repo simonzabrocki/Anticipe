@@ -1,1 +1,10 @@
-{}
+{
+    "SDG": [
+        {
+            "GGI_code": "GN3",
+            "params": {
+                "seriesCode": "EG_EGY_RNEW"
+            }
+        }
+    ]
+}
