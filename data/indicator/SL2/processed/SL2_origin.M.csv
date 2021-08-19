@@ -1,6 +1,4 @@
 ISO,Year,Indicator,Description,Source,URL,From,Imputed,Value,Corrected,Country
-AFG,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Afghanistan
-AFG,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Afghanistan
 AFG,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,5.2756528620416775e-05,False,Afghanistan
 AFG,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,5.2756528620416775e-05,False,Afghanistan
 AFG,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,5.2756528620416775e-05,False,Afghanistan
@@ -20,10 +18,6 @@ AFG,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 AFG,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0020728394736148,False,Afghanistan
 AFG,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0020728394736148,False,Afghanistan
 AFG,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0020728394736148,False,Afghanistan
-AGO,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Angola
-AGO,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Angola
-AGO,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Angola
-AGO,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Angola
 AGO,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.004811676838776,False,Angola
 AGO,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.004811676838776,False,Angola
 AGO,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.004811676838776,False,Angola
@@ -62,10 +56,6 @@ ALB,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 ALB,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0636242303554865,False,Albania
 ALB,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0636242303554865,False,Albania
 ALB,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0636242303554865,False,Albania
-AND,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Andorra
-AND,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Andorra
-AND,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Andorra
-AND,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Andorra
 AND,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0,False,Andorra
 AND,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0,False,Andorra
 AND,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0,False,Andorra
@@ -83,9 +73,6 @@ AND,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 AND,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0106213489113117,False,Andorra
 AND,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0106213489113117,False,Andorra
 AND,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0106213489113117,False,Andorra
-ARE,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United Arab Emirates
-ARE,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United Arab Emirates
-ARE,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United Arab Emirates
 ARE,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0555967383246849,False,United Arab Emirates
 ARE,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0555967383246849,False,United Arab Emirates
 ARE,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0555967383246849,False,United Arab Emirates
@@ -293,9 +280,6 @@ BFA,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 BFA,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.4682644628099173,False,Burkina Faso
 BFA,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4682644628099173,False,Burkina Faso
 BFA,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4682644628099173,False,Burkina Faso
-BGD,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bangladesh
-BGD,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bangladesh
-BGD,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bangladesh
 BGD,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0054036528693396,False,Bangladesh
 BGD,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0054036528693396,False,Bangladesh
 BGD,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0054036528693396,False,Bangladesh
@@ -335,14 +319,6 @@ BGR,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 BGR,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,2.5606361829025848,False,Bulgaria
 BGR,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,2.5606361829025848,False,Bulgaria
 BGR,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,2.5606361829025848,False,Bulgaria
-BHS,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bahamas
-BHS,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bahamas
-BHS,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bahamas
-BHS,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bahamas
-BHS,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bahamas
-BHS,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bahamas
-BHS,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bahamas
-BHS,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Bahamas
 BHS,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3571428571428571,False,Bahamas
 BHS,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3571428571428571,False,Bahamas
 BHS,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3571428571428571,False,Bahamas
@@ -377,19 +353,6 @@ BIH,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 BIH,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0405246494798733,False,Bosnia and Herzegovina
 BIH,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0405246494798733,False,Bosnia and Herzegovina
 BIH,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0405246494798733,False,Bosnia and Herzegovina
-BLR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
-BLR,2012,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Belarus
 BLR,2013,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0196379983437832,False,Belarus
 BLR,2014,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0196379983437832,False,Belarus
 BLR,2015,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0196379983437832,False,Belarus
@@ -566,7 +529,6 @@ CHN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 CHN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.5931560575613017,False,China
 CHN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5931560575613017,False,China
 CHN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5931560575613017,False,China
-CIV,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cote d'Ivoire
 CIV,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0655172413793103,False,Cote d'Ivoire
 CIV,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0655172413793103,False,Cote d'Ivoire
 CIV,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0655172413793103,False,Cote d'Ivoire
@@ -587,7 +549,6 @@ CIV,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 CIV,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.2385377358490566,False,Cote d'Ivoire
 CIV,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2385377358490566,False,Cote d'Ivoire
 CIV,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2385377358490566,False,Cote d'Ivoire
-CMR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cameroon
 CMR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0054271138608488,False,Cameroon
 CMR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0054271138608488,False,Cameroon
 CMR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0054271138608488,False,Cameroon
@@ -608,7 +569,6 @@ CMR,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 CMR,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0111794871794871,False,Cameroon
 CMR,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0111794871794871,False,Cameroon
 CMR,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0111794871794871,False,Cameroon
-COD,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,DR Congo
 COD,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0343938091143594,False,DR Congo
 COD,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0343938091143594,False,DR Congo
 COD,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0343938091143594,False,DR Congo
@@ -629,11 +589,6 @@ COD,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 COD,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.1924444444444444,False,DR Congo
 COD,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1924444444444444,False,DR Congo
 COD,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1924444444444444,False,DR Congo
-COK,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cook Islands
-COK,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cook Islands
-COK,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cook Islands
-COK,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cook Islands
-COK,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cook Islands
 COK,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.4925373134328357,False,Cook Islands
 COK,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.4925373134328357,False,Cook Islands
 COK,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.4925373134328357,False,Cook Islands
@@ -671,9 +626,6 @@ COL,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 COL,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0450779924028125,False,Colombia
 COL,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0450779924028125,False,Colombia
 COL,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0450779924028125,False,Colombia
-COM,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Comoros
-COM,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Comoros
-COM,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Comoros
 COM,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.8270676691729324,False,Comoros
 COM,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.8270676691729324,False,Comoros
 COM,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.8270676691729324,False,Comoros
@@ -692,16 +644,6 @@ COM,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 COM,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,1.633587786259542,False,Comoros
 COM,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.633587786259542,False,Comoros
 COM,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.633587786259542,False,Comoros
-CPV,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
-CPV,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Cabo Verde
 CPV,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.6329113924050633,False,Cabo Verde
 CPV,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.6329113924050633,False,Cabo Verde
 CPV,2012,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.6329113924050633,False,Cabo Verde
@@ -818,12 +760,6 @@ DEU,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 DEU,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,7.337338540102133,False,Germany
 DEU,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,7.337338540102133,False,Germany
 DEU,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,7.337338540102133,False,Germany
-DMA,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Dominica
-DMA,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Dominica
-DMA,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Dominica
-DMA,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Dominica
-DMA,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Dominica
-DMA,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Dominica
 DMA,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.96,False,Dominica
 DMA,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.96,False,Dominica
 DMA,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.96,False,Dominica
@@ -902,8 +838,6 @@ DZA,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 DZA,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0018617540281043,False,Algeria
 DZA,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0018617540281043,False,Algeria
 DZA,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0018617540281043,False,Algeria
-ECU,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Ecuador
-ECU,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Ecuador
 ECU,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.6637884511602806,False,Ecuador
 ECU,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.6637884511602806,False,Ecuador
 ECU,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.6637884511602806,False,Ecuador
@@ -986,7 +920,6 @@ EST,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 EST,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,20.577689243027887,False,Estonia
 EST,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,20.577689243027887,False,Estonia
 EST,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,20.577689243027887,False,Estonia
-ETH,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Ethiopia
 ETH,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3290569566615038,False,Ethiopia
 ETH,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3290569566615038,False,Ethiopia
 ETH,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3290569566615038,False,Ethiopia
@@ -1049,9 +982,6 @@ FJI,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 FJI,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,9.683317647058823,False,Fiji
 FJI,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,9.683317647058823,False,Fiji
 FJI,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,9.683317647058823,False,Fiji
-FLK,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Falkland Islands
-FLK,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Falkland Islands
-FLK,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Falkland Islands
 FLK,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,36.79865056818182,False,Falkland Islands
 FLK,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,36.79865056818182,False,Falkland Islands
 FLK,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,36.79865056818182,False,Falkland Islands
@@ -1091,10 +1021,6 @@ FRA,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 FRA,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,7.100463710873305,False,France
 FRA,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,7.100463710873305,False,France
 FRA,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,7.100463710873305,False,France
-FRO,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Faeroe Islands
-FRO,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Faeroe Islands
-FRO,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Faeroe Islands
-FRO,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Faeroe Islands
 FRO,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3333333333333333,False,Faeroe Islands
 FRO,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3333333333333333,False,Faeroe Islands
 FRO,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3333333333333333,False,Faeroe Islands
@@ -1175,19 +1101,6 @@ GHA,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 GHA,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.2006393943206739,False,Ghana
 GHA,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2006393943206739,False,Ghana
 GHA,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2006393943206739,False,Ghana
-GIN,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
-GIN,2012,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea
 GIN,2013,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.896551724137931e-05,False,Guinea
 GIN,2014,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.896551724137931e-05,False,Guinea
 GIN,2015,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.896551724137931e-05,False,Guinea
@@ -1196,9 +1109,6 @@ GIN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 GIN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,6.896551724137931e-05,False,Guinea
 GIN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.896551724137931e-05,False,Guinea
 GIN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.896551724137931e-05,False,Guinea
-GLP,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guadeloupe
-GLP,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guadeloupe
-GLP,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guadeloupe
 GLP,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1168614357262103,False,Guadeloupe
 GLP,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1168614357262103,False,Guadeloupe
 GLP,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1168614357262103,False,Guadeloupe
@@ -1217,7 +1127,6 @@ GLP,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 GLP,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.5234587049243894,False,Guadeloupe
 GLP,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5234587049243894,False,Guadeloupe
 GLP,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5234587049243894,False,Guadeloupe
-GMB,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Gambia
 GMB,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0181818181818181,False,Gambia
 GMB,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0181818181818181,False,Gambia
 GMB,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0181818181818181,False,Gambia
@@ -1238,8 +1147,6 @@ GMB,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 GMB,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0033057851239669,False,Gambia
 GMB,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0033057851239669,False,Gambia
 GMB,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0033057851239669,False,Gambia
-GNB,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea-Bissau
-GNB,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guinea-Bissau
 GNB,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.7753708972841249,False,Guinea-Bissau
 GNB,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.7753708972841249,False,Guinea-Bissau
 GNB,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.7753708972841249,False,Guinea-Bissau
@@ -1280,10 +1187,6 @@ GRC,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 GRC,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,8.070646831378204,False,Greece
 GRC,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,8.070646831378204,False,Greece
 GRC,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,8.070646831378204,False,Greece
-GRD,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Grenada
-GRD,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Grenada
-GRD,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Grenada
-GRD,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Grenada
 GRD,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5,False,Grenada
 GRD,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5,False,Grenada
 GRD,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5,False,Grenada
@@ -1340,9 +1243,6 @@ GUY,2014,SL2,Share agriculture organic to total agriculture land area (Percent),
 GUY,2015,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3533658093339055,False,Guyana
 GUY,2016,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3533658093339055,False,Guyana
 GUY,2017,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3533658093339055,False,Guyana
-GUY,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guyana
-GUY,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guyana
-GUY,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Guyana
 HND,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0571428571428571,False,Honduras
 HND,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0571428571428571,False,Honduras
 HND,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0571428571428571,False,Honduras
@@ -1385,10 +1285,6 @@ HRV,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 HRV,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,6.954177897574124,False,Croatia
 HRV,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.954177897574124,False,Croatia
 HRV,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.954177897574124,False,Croatia
-HTI,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Haiti
-HTI,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Haiti
-HTI,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Haiti
-HTI,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Haiti
 HTI,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0027834529290275,False,Haiti
 HTI,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0027834529290275,False,Haiti
 HTI,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0027834529290275,False,Haiti
@@ -1490,9 +1386,6 @@ IRL,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 IRL,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,2.628410097431355,False,Ireland
 IRL,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,2.628410097431355,False,Ireland
 IRL,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,2.628410097431355,False,Ireland
-IRN,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iran
-IRN,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iran
-IRN,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iran
 IRN,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0251686837313912,False,Iran
 IRN,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0251686837313912,False,Iran
 IRN,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0251686837313912,False,Iran
@@ -1511,14 +1404,6 @@ IRN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 IRN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0694520607564085,False,Iran
 IRN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0694520607564085,False,Iran
 IRN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0694520607564085,False,Iran
-IRQ,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iraq
-IRQ,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iraq
-IRQ,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iraq
-IRQ,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iraq
-IRQ,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iraq
-IRQ,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iraq
-IRQ,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iraq
-IRQ,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Iraq
 IRQ,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0004512762656889,False,Iraq
 IRQ,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0004512762656889,False,Iraq
 IRQ,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0004512762656889,False,Iraq
@@ -1553,8 +1438,6 @@ ISL,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 ISL,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.4914529914529914,False,Iceland
 ISL,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4914529914529914,False,Iceland
 ISL,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4914529914529914,False,Iceland
-ISR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Israel
-ISR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Israel
 ISR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.0982435823200154,False,Israel
 ISR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.0982435823200154,False,Israel
 ISR,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.0982435823200154,False,Israel
@@ -1637,8 +1520,6 @@ JOR,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 JOR,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.1419064396163633,False,Jordan
 JOR,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1419064396163633,False,Jordan
 JOR,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1419064396163633,False,Jordan
-JPN,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Japan
-JPN,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Japan
 JPN,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1425806451612903,False,Japan
 JPN,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1425806451612903,False,Japan
 JPN,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1425806451612903,False,Japan
@@ -1658,9 +1539,6 @@ JPN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 JPN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.2441628959276018,False,Japan
 JPN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2441628959276018,False,Japan
 JPN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2441628959276018,False,Japan
-KAZ,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kazakhstan
-KAZ,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kazakhstan
-KAZ,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kazakhstan
 KAZ,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0745548760880885,False,Kazakhstan
 KAZ,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0745548760880885,False,Kazakhstan
 KAZ,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0745548760880885,False,Kazakhstan
@@ -1742,15 +1620,6 @@ KHM,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 KHM,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.4949694574200503,False,Cambodia
 KHM,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4949694574200503,False,Cambodia
 KHM,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4949694574200503,False,Cambodia
-KIR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
-KIR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
-KIR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
-KIR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
-KIR,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
-KIR,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
-KIR,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
-KIR,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
-KIR,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kiribati
 KIR,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.705882352941177,False,Kiribati
 KIR,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.705882352941177,False,Kiribati
 KIR,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.705882352941177,False,Kiribati
@@ -1784,16 +1653,6 @@ KOR,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 KOR,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,1.4951573849878934,False,South Korea
 KOR,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.4951573849878934,False,South Korea
 KOR,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.4951573849878934,False,South Korea
-KWT,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
-KWT,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Kuwait
 KWT,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0133868808567603,False,Kuwait
 KWT,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0133868808567603,False,Kuwait
 KWT,2012,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0133868808567603,False,Kuwait
@@ -1805,9 +1664,6 @@ KWT,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 KWT,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0132100396301188,False,Kuwait
 KWT,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0132100396301188,False,Kuwait
 KWT,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0132100396301188,False,Kuwait
-LAO,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Laos
-LAO,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Laos
-LAO,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Laos
 LAO,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0855513307984791,False,Laos
 LAO,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0855513307984791,False,Laos
 LAO,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0855513307984791,False,Laos
@@ -1847,19 +1703,6 @@ LBN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 LBN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.1884498480243161,False,Lebanon
 LBN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1884498480243161,False,Lebanon
 LBN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1884498480243161,False,Lebanon
-LBR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
-LBR,2012,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Liberia
 LBR,2013,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0001023520501115,False,Liberia
 LBR,2014,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0001023520501115,False,Liberia
 LBR,2015,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0001023520501115,False,Liberia
@@ -1910,9 +1753,6 @@ LKA,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 LKA,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,2.744664959453692,False,Sri Lanka
 LKA,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,2.744664959453692,False,Sri Lanka
 LKA,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,2.744664959453692,False,Sri Lanka
-LSO,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Lesotho
-LSO,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Lesotho
-LSO,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Lesotho
 LSO,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.016934801016088,False,Lesotho
 LSO,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.016934801016088,False,Lesotho
 LSO,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.016934801016088,False,Lesotho
@@ -2015,10 +1855,6 @@ MAR,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 MAR,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.032990787854601,False,Morocco
 MAR,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.032990787854601,False,Morocco
 MAR,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.032990787854601,False,Morocco
-MDA,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Moldova
-MDA,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Moldova
-MDA,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Moldova
-MDA,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Moldova
 MDA,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.2989482200647249,False,Moldova
 MDA,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.2989482200647249,False,Moldova
 MDA,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.2989482200647249,False,Moldova
@@ -2141,10 +1977,6 @@ MLT,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 MLT,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.2890173410404624,False,Malta
 MLT,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2890173410404624,False,Malta
 MLT,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2890173410404624,False,Malta
-MMR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Myanmar
-MMR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Myanmar
-MMR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Myanmar
-MMR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Myanmar
 MMR,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.004420866489832,False,Myanmar
 MMR,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.004420866489832,False,Myanmar
 MMR,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.004420866489832,False,Myanmar
@@ -2162,9 +1994,6 @@ MMR,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 MMR,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0955077973465746,False,Myanmar
 MMR,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0955077973465746,False,Myanmar
 MMR,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0955077973465746,False,Myanmar
-MNE,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Montenegro
-MNE,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Montenegro
-MNE,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Montenegro
 MNE,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3703703703703703,False,Montenegro
 MNE,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3703703703703703,False,Montenegro
 MNE,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.3703703703703703,False,Montenegro
@@ -2183,14 +2012,6 @@ MNE,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 MNE,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,1.7348130841121496,False,Montenegro
 MNE,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.7348130841121496,False,Montenegro
 MNE,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.7348130841121496,False,Montenegro
-MNG,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mongolia
-MNG,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mongolia
-MNG,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mongolia
-MNG,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mongolia
-MNG,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mongolia
-MNG,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mongolia
-MNG,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mongolia
-MNG,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mongolia
 MNG,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.011312784639308,False,Mongolia
 MNG,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.011312784639308,False,Mongolia
 MNG,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.011312784639308,False,Mongolia
@@ -2225,9 +2046,6 @@ MOZ,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 MOZ,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0360507571479982,False,Mozambique
 MOZ,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0360507571479982,False,Mozambique
 MOZ,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0360507571479982,False,Mozambique
-MTQ,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Martinique
-MTQ,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Martinique
-MTQ,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Martinique
 MTQ,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5039787798408487,False,Martinique
 MTQ,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5039787798408487,False,Martinique
 MTQ,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5039787798408487,False,Martinique
@@ -2246,10 +2064,6 @@ MTQ,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 MTQ,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,1.2767315671879989,False,Martinique
 MTQ,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.2767315671879989,False,Martinique
 MTQ,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.2767315671879989,False,Martinique
-MUS,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mauritius
-MUS,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mauritius
-MUS,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mauritius
-MUS,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mauritius
 MUS,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0109890109890109,False,Mauritius
 MUS,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0109890109890109,False,Mauritius
 MUS,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0109890109890109,False,Mauritius
@@ -2309,14 +2123,6 @@ MYS,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 MYS,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.1117722552794306,False,Malaysia
 MYS,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1117722552794306,False,Malaysia
 MYS,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1117722552794306,False,Malaysia
-MYT,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mayotte
-MYT,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mayotte
-MYT,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mayotte
-MYT,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mayotte
-MYT,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mayotte
-MYT,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mayotte
-MYT,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mayotte
-MYT,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Mayotte
 MYT,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2497502497502497,False,Mayotte
 MYT,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2497502497502497,False,Mayotte
 MYT,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2497502497502497,False,Mayotte
@@ -2330,8 +2136,6 @@ MYT,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 MYT,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.2,False,Mayotte
 MYT,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2,False,Mayotte
 MYT,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2,False,Mayotte
-NAM,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Namibia
-NAM,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Namibia
 NAM,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0002576788291074,False,Namibia
 NAM,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0002576788291074,False,Namibia
 NAM,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0002576788291074,False,Namibia
@@ -2351,15 +2155,6 @@ NAM,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 NAM,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0001700592630765,False,Namibia
 NAM,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0001700592630765,False,Namibia
 NAM,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0001700592630765,False,Namibia
-NCL,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
-NCL,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
-NCL,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
-NCL,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
-NCL,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
-NCL,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
-NCL,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
-NCL,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
-NCL,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,New Caledonia
 NCL,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2177107712404071,False,New Caledonia
 NCL,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2177107712404071,False,New Caledonia
 NCL,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2177107712404071,False,New Caledonia
@@ -2393,7 +2188,6 @@ NER,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 NER,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0005364806866952,False,Niger
 NER,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0005364806866952,False,Niger
 NER,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0005364806866952,False,Niger
-NGA,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Nigeria
 NGA,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0044666921446786,False,Nigeria
 NGA,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0044666921446786,False,Nigeria
 NGA,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0044666921446786,False,Nigeria
@@ -2435,7 +2229,6 @@ NIC,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 NIC,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.6868706811451135,False,Nicaragua
 NIC,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.6868706811451135,False,Nicaragua
 NIC,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.6868706811451135,False,Nicaragua
-NIU,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Niue
 NIU,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.166666666666667,False,Niue
 NIU,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.166666666666667,False,Niue
 NIU,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.166666666666667,False,Niue
@@ -2540,9 +2333,6 @@ NZL,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 NZL,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.8490589471672876,False,New Zealand
 NZL,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.8490589471672876,False,New Zealand
 NZL,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.8490589471672876,False,New Zealand
-OMN,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Oman
-OMN,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Oman
-OMN,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Oman
 OMN,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0020587427944002,False,Oman
 OMN,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0020587427944002,False,Oman
 OMN,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0020587427944002,False,Oman
@@ -2603,7 +2393,6 @@ PAN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 PAN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.2611775121735281,False,Panama
 PAN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2611775121735281,False,Panama
 PAN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2611775121735281,False,Panama
-PER,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Peru
 PER,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5193917649068853,False,Peru
 PER,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5193917649068853,False,Peru
 PER,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5193917649068853,False,Peru
@@ -2624,10 +2413,6 @@ PER,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 PER,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,1.3193017828173514,False,Peru
 PER,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.3193017828173514,False,Peru
 PER,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.3193017828173514,False,Peru
-PHL,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Philippines
-PHL,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Philippines
-PHL,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Philippines
-PHL,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Philippines
 PHL,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4280991735537189,False,Philippines
 PHL,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4280991735537189,False,Philippines
 PHL,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4280991735537189,False,Philippines
@@ -2645,7 +2430,6 @@ PHL,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 PHL,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,1.7569935691318328,False,Philippines
 PHL,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.7569935691318328,False,Philippines
 PHL,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.7569935691318328,False,Philippines
-PNG,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Papua New Guinea
 PNG,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2403846153846154,False,Papua New Guinea
 PNG,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2403846153846154,False,Papua New Guinea
 PNG,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2403846153846154,False,Papua New Guinea
@@ -2687,15 +2471,6 @@ POL,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 POL,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,3.3399944873208383,False,Poland
 POL,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.3399944873208383,False,Poland
 POL,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.3399944873208383,False,Poland
-PRI,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
-PRI,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
-PRI,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
-PRI,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
-PRI,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
-PRI,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
-PRI,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
-PRI,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
-PRI,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Puerto Rico
 PRI,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0053304904051172,False,Puerto Rico
 PRI,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0053304904051172,False,Puerto Rico
 PRI,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0053304904051172,False,Puerto Rico
@@ -2729,8 +2504,6 @@ PRT,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 PRT,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,5.962523678018126,False,Portugal
 PRT,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,5.962523678018126,False,Portugal
 PRT,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,5.962523678018126,False,Portugal
-PRY,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Paraguay
-PRY,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Paraguay
 PRY,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2675954738316191,False,Paraguay
 PRY,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2675954738316191,False,Paraguay
 PRY,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.2675954738316191,False,Paraguay
@@ -2771,11 +2544,6 @@ PSE,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 PSE,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.144708423326134,False,Palestine
 PSE,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.144708423326134,False,Palestine
 PSE,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.144708423326134,False,Palestine
-PYF,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,French Polynesia
-PYF,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,French Polynesia
-PYF,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,French Polynesia
-PYF,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,French Polynesia
-PYF,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,French Polynesia
 PYF,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.8876404494382015,False,French Polynesia
 PYF,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.8876404494382015,False,French Polynesia
 PYF,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.8876404494382015,False,French Polynesia
@@ -2792,9 +2560,6 @@ PYF,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 PYF,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,3.472527472527473,False,French Polynesia
 PYF,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.472527472527473,False,French Polynesia
 PYF,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.472527472527473,False,French Polynesia
-REU,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Reunion
-REU,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Reunion
-REU,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Reunion
 REU,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4106776180698152,False,Reunion
 REU,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4106776180698152,False,Reunion
 REU,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4106776180698152,False,Reunion
@@ -2834,8 +2599,6 @@ ROU,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 ROU,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,2.4325331742955125,False,Romania
 ROU,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,2.4325331742955125,False,Romania
 ROU,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,2.4325331742955125,False,Romania
-RUS,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Russia
-RUS,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Russia
 RUS,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0156871481414442,False,Russia
 RUS,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0156871481414442,False,Russia
 RUS,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0156871481414442,False,Russia
@@ -2918,8 +2681,6 @@ SDN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SDN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.1128381478000814,False,Sudan
 SDN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1128381478000814,False,Sudan
 SDN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1128381478000814,False,Sudan
-SEN,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Senegal
-SEN,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Senegal
 SEN,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.018699282606139,False,Senegal
 SEN,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.018699282606139,False,Senegal
 SEN,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.018699282606139,False,Senegal
@@ -2939,19 +2700,6 @@ SEN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SEN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0899977472403694,False,Senegal
 SEN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0899977472403694,False,Senegal
 SEN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0899977472403694,False,Senegal
-SGP,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
-SGP,2012,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Singapore
 SGP,2013,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4545454545454545,False,Singapore
 SGP,2014,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4545454545454545,False,Singapore
 SGP,2015,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4545454545454545,False,Singapore
@@ -2960,7 +2708,6 @@ SGP,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SGP,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.4545454545454545,False,Singapore
 SGP,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4545454545454545,False,Singapore
 SGP,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4545454545454545,False,Singapore
-SLB,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Solomon Islands
 SLB,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.829787234042553,False,Solomon Islands
 SLB,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.829787234042553,False,Solomon Islands
 SLB,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,3.829787234042553,False,Solomon Islands
@@ -2981,10 +2728,6 @@ SLB,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SLB,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,4.029316239316239,False,Solomon Islands
 SLB,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.029316239316239,False,Solomon Islands
 SLB,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.029316239316239,False,Solomon Islands
-SLE,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Sierra Leone
-SLE,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Sierra Leone
-SLE,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Sierra Leone
-SLE,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Sierra Leone
 SLE,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.9074078458919697,False,Sierra Leone
 SLE,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.9074078458919697,False,Sierra Leone
 SLE,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.9074078458919697,False,Sierra Leone
@@ -3023,9 +2766,6 @@ SLV,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SLV,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.1135810481908161,False,El Salvador
 SLV,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1135810481908161,False,El Salvador
 SLV,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1135810481908161,False,El Salvador
-SOM,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SOM,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SOM,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
 SOM,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0006798404641044,False,Somalia
 SOM,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0006798404641044,False,Somalia
 SOM,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0006798404641044,False,Somalia
@@ -3037,14 +2777,6 @@ SOM,2010,SL2,Share agriculture organic to total agriculture land area (Percent),
 SOM,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0006798404641044,False,Somalia
 SOM,2012,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0006798404641044,False,Somalia
 SOM,2013,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0006798404641044,False,Somalia
-SOM,2014,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SOM,2015,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SOM,2016,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SOM,2017,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SOM,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SOM,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SOM,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Somalia
-SRB,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Serbia
 SRB,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0197907831495617,False,Serbia
 SRB,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0197907831495617,False,Serbia
 SRB,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0197907831495617,False,Serbia
@@ -3065,7 +2797,6 @@ SRB,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SRB,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.5560046189376444,False,Serbia
 SRB,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5560046189376444,False,Serbia
 SRB,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.5560046189376444,False,Serbia
-STP,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Sao Tome and Principe
 STP,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.083333333333333,False,Sao Tome and Principe
 STP,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.083333333333333,False,Sao Tome and Principe
 STP,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.083333333333333,False,Sao Tome and Principe
@@ -3086,15 +2817,6 @@ STP,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 STP,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,24.772727272727277,False,Sao Tome and Principe
 STP,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,24.772727272727277,False,Sao Tome and Principe
 STP,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,24.772727272727277,False,Sao Tome and Principe
-SUR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
-SUR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
-SUR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
-SUR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
-SUR,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
-SUR,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
-SUR,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
-SUR,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
-SUR,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Suriname
 SUR,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0453514739229024,False,Suriname
 SUR,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0453514739229024,False,Suriname
 SUR,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0453514739229024,False,Suriname
@@ -3107,8 +2829,6 @@ SUR,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SUR,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.1119047619047619,False,Suriname
 SUR,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1119047619047619,False,Suriname
 SUR,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1119047619047619,False,Suriname
-SVK,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Slovakia
-SVK,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Slovakia
 SVK,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.108808290155441,False,Slovakia
 SVK,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.108808290155441,False,Slovakia
 SVK,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,6.108808290155441,False,Slovakia
@@ -3170,9 +2890,6 @@ SWE,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SWE,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,20.242605516782987,False,Sweden
 SWE,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,20.242605516782987,False,Sweden
 SWE,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,20.242605516782987,False,Sweden
-SWZ,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Eswatini
-SWZ,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Eswatini
-SWZ,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Eswatini
 SWZ,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0016339869281045,False,Eswatini
 SWZ,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0016339869281045,False,Eswatini
 SWZ,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0016339869281045,False,Eswatini
@@ -3191,9 +2908,6 @@ SWZ,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 SWZ,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0155482815057283,False,Eswatini
 SWZ,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0155482815057283,False,Eswatini
 SWZ,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0155482815057283,False,Eswatini
-SYR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Syria
-SYR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Syria
-SYR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Syria
 SYR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1846308821413153,False,Syria
 SYR,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1846308821413153,False,Syria
 SYR,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.1846308821413153,False,Syria
@@ -3254,9 +2968,6 @@ THA,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 THA,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.4299683401175938,False,Thailand
 THA,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4299683401175938,False,Thailand
 THA,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4299683401175938,False,Thailand
-TJK,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tajikistan
-TJK,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tajikistan
-TJK,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tajikistan
 TJK,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0014808546646921,False,Tajikistan
 TJK,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0014808546646921,False,Tajikistan
 TJK,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0014808546646921,False,Tajikistan
@@ -3296,12 +3007,6 @@ TLS,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 TLS,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,15.73342105263158,False,Timor-Leste
 TLS,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,15.73342105263158,False,Timor-Leste
 TLS,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,15.73342105263158,False,Timor-Leste
-TON,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tonga
-TON,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tonga
-TON,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tonga
-TON,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tonga
-TON,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tonga
-TON,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Tonga
 TON,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.78125,False,Tonga
 TON,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.78125,False,Tonga
 TON,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.78125,False,Tonga
@@ -3464,8 +3169,6 @@ USA,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 USA,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.4986072881218833,False,United States
 USA,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4986072881218833,False,United States
 USA,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.4986072881218833,False,United States
-UZB,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Uzbekistan
-UZB,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Uzbekistan
 UZB,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0070770054703339,False,Uzbekistan
 UZB,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0070770054703339,False,Uzbekistan
 UZB,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0070770054703339,False,Uzbekistan
@@ -3485,8 +3188,6 @@ UZB,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 UZB,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0036868053030569,False,Uzbekistan
 UZB,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0036868053030569,False,Uzbekistan
 UZB,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0036868053030569,False,Uzbekistan
-VEN,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Venezuela
-VEN,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Venezuela
 VEN,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0111322417551834,False,Venezuela
 VEN,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0111322417551834,False,Venezuela
 VEN,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0111322417551834,False,Venezuela
@@ -3504,17 +3205,6 @@ VEN,2015,SL2,Share agriculture organic to total agriculture land area (Percent),
 VEN,2016,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0002325581395348,False,Venezuela
 VEN,2017,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0002325581395348,False,Venezuela
 VEN,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0002325581395348,False,Venezuela
-VEN,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Venezuela
-VEN,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Venezuela
-VIR,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
-VIR,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
-VIR,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
-VIR,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
-VIR,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
-VIR,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
-VIR,2006,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
-VIR,2007,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
-VIR,2008,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,United States Virgin Islands
 VIR,2009,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.75,False,United States Virgin Islands
 VIR,2010,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.75,False,United States Virgin Islands
 VIR,2011,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.75,False,United States Virgin Islands
@@ -3548,7 +3238,6 @@ VNM,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 VNM,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,1.953298599697588,False,Vietnam
 VNM,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.953298599697588,False,Vietnam
 VNM,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,1.953298599697588,False,Vietnam
-VUT,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Vanuatu
 VUT,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.864864864864865,False,Vanuatu
 VUT,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.864864864864865,False,Vanuatu
 VUT,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,4.864864864864865,False,Vanuatu
@@ -3569,7 +3258,6 @@ VUT,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 VUT,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,13.715614973262031,False,Vanuatu
 VUT,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,13.715614973262031,False,Vanuatu
 VUT,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,13.715614973262031,False,Vanuatu
-WSM,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Samoa
 WSM,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,17.91044776119403,False,Samoa
 WSM,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,17.91044776119403,False,Samoa
 WSM,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,17.91044776119403,False,Samoa
@@ -3632,9 +3320,6 @@ ZMB,2017,SL2,Share agriculture organic to total agriculture land area (Percent),
 ZMB,2018,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,False,0.0051602617888907,False,Zambia
 ZMB,2019,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0051602617888907,False,Zambia
 ZMB,2020,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0051602617888907,False,Zambia
-ZWE,2000,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Zimbabwe
-ZWE,2001,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Zimbabwe
-ZWE,2002,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,,False,Zimbabwe
 ZWE,2003,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0018237082066869,False,Zimbabwe
 ZWE,2004,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0018237082066869,False,Zimbabwe
 ZWE,2005,SL2,Share agriculture organic to total agriculture land area (Percent),FAOSTAT,http://www.fao.org/faostat/en/#data/EL,MANUAL,True,0.0018237082066869,False,Zimbabwe
