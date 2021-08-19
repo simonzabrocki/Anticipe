@@ -3,7 +3,7 @@ from processing.utils import add_ISO
 
 from data.indicator import (AB3, CV2, EE3, EQ2, EQ3, GB3,
                             GJ1, GJ2, GN1, GN2, GT1, ME1,
-                            ME2, ME3, SL1, SL2, SP2)
+                            ME2, ME3, SL1, SL2, SL3, SP2)
 
 
 # MANUAL 
@@ -25,6 +25,7 @@ MANUAL_CONFIGS = {
     'ME3': ME3.config,
     'SL1': SL1.config,
     'SL2': SL2.config,
+    'SL3': SL3.config,
     'SP2': SP2.config,    
 }
 
