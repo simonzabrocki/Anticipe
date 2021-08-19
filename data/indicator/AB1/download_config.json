@@ -13,19 +13,18 @@
                 "dimensions": "[{name:'Location',values:['ALLAREA']}]",
                 "seriesCode": "SH_SAN_SAFE"
             }
-        }
-    ],
-    "WB": [
+        },
         {
-            "GGI_code": "AB1.0",
+            "GGI_code": "AB1.2",
             "params": {
-                "indicator": "SH.H2O.SMDW.ZS"
+                "dimensions": "[{name:'Location',values:['ALLAREA']}]",
+                "seriesCode": "EG_ACS_ELEC"
             }
         },
         {
-            "GGI_code": "AB1.1",
+            "GGI_code": "AB1.3",
             "params": {
-                "indicator": "SH.STA.SMSS.ZS"
+                "seriesCode": "EG_EGY_CLEAN"
             }
         }
     ]

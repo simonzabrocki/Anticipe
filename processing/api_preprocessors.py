@@ -162,7 +162,7 @@ class SDG_Preprocessor(Preprocessor):
         ]
 
         df = df[~df.geoAreaName.isin(excluded)]
-        if self.variable == 'AB2.1':
+        if self.variable == 'AB1.3':
             df = df.copy()
             df.loc[df['value'] == '>95', 'value'] = 95
             df.loc[df['value'] == '<5', 'value'] = 5
@@ -170,10 +170,6 @@ class SDG_Preprocessor(Preprocessor):
         if self.variable == 'EW3':
             df = df.copy()
             df.loc[df['value'] == 'N', 'value'] = np.nan
-            return df
-        if self.variable == 'ME3.2':
-            df = df.copy()
-            df['value'] = df['value'].astype(float)
             return df
         else:
             return df
