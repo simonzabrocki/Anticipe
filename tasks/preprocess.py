@@ -35,7 +35,7 @@ def preprocess_MANUAL_data_in_indicator(indicator):
     print(f"PreProcessing {indicator} Manual files", end=': ')
     try:
         df = preprocess_raw_file_from_MANUAL(config)
-        preprocess_path = f'data/indicator/{indicator}/preprocessed/{indicator}_origin.M.csv'
+        preprocess_path = f'data/indicator/{indicator}/preprocessed/{config["Variable"]}_origin.M.csv'
         print(f'Saving at {preprocess_path}')
         df.to_csv(preprocess_path, index=False)
         print('Done')
