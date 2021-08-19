@@ -1,1 +1,10 @@
-{}
+{
+    "SDG": [
+        {
+            "GGI_code": "EW3",
+            "params": {
+                "seriesCode": "EN_SCP_FSHGDP"
+            }
+        }
+    ]
+}
