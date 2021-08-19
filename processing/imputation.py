@@ -38,7 +38,7 @@ def impute_data_using_rule(df, interpolation_rule):
     result = pd.merge(df.reset_index(), imputed_values, on=['ISO', 'Year'])
     result = result.drop(columns=['Value']).rename(columns={'Imputed_Value': 'Value'})
     result['Year'] = result['Year'].dt.year
-    return result
+    return result.dropna(subset=['Value'])
 
 
 def interpolate_linear(df):

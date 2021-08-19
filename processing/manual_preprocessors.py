@@ -2,7 +2,7 @@ from processing.utils import add_ISO
 
 
 from data.indicator import (AB3, CV2, EE3, EQ2, EQ3, GB3,
-                            GJ1, GJ2, GN1, GN2, GT1, ME1,
+                            GJ1, GJ2, GN1, GN2, GT1, GT2, ME1,
                             ME2, ME3, SL1, SL2, SL3, SP2)
 
 
@@ -20,6 +20,7 @@ MANUAL_CONFIGS = {
     'GN1': GN1.config,
     #'GN2': GN2.config,
     'GT1': GT1.config,
+    'GT2': GT2.config,
     'ME1': ME1.config,
     'ME2': ME2.config,
     'ME3': ME3.config,
