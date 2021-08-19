@@ -3,7 +3,7 @@ from processing.utils import add_ISO
 
 from data.indicator import (AB3, CV2, EQ2, EQ3, GB3,
                             GJ1, GN1, GT1, ME1,
-                            ME2, SL1, SL2, SP2, GS2)
+                            ME2, SL1, SL2, SP2)
 
 
 # MANUAL 
@@ -21,9 +21,7 @@ MANUAL_CONFIGS = {
     'ME2': ME2.config,
     'SL1': SL1.config,
     'SL2': SL2.config,
-    'SP2': SP2.config,
-    #'GS2': GS2.config,
-    
+    'SP2': SP2.config,    
 }
 
 exceptions_countries = ['Southern Africa', 'Southern Sub-Saharan Africa',
