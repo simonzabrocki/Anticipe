@@ -171,6 +171,10 @@ class SDG_Preprocessor(Preprocessor):
             df = df.copy()
             df.loc[df['value'] == 'N', 'value'] = np.nan
             return df
+        if self.variable == 'ME3.2':
+            df = df.copy()
+            df['value'] = df['value'].astype(float)
+            return df
         else:
             return df
 
