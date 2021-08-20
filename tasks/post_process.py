@@ -15,13 +15,14 @@ def make_timeseries_excel():
             for var in variables:
                 print(var)
                 df_formatted = df[df.Variable == var]
+                min_year = int(df.Year.min())
                 df_formatted['Year'] = df_formatted['Year'].astype(int)
                 df_formatted = df_formatted.pivot(
                     index=['ISO', 'Country', 'Continent', 'UNregion', 'IncomeLevel', 'Region'], columns='Year', values='Value')
                 df_formatted = ISO_to_Everything(df_formatted)
                 df_formatted = df_formatted[['Country', 'Continent',
                                              'UNregion', 'IncomeLevel',
-                                             'Region'] + list(range(2005, 2021))]
+                                             'Region'] + list(range(min_year, 2021))]
                 df_formatted.to_excel(writer, sheet_name=var)
 
 
@@ -60,7 +61,7 @@ def get_info_from_indictor_df(df):
     n_points = df.shape[0]
     n_imputed = df[df.Imputed].shape[0]
     n_corrected = df[df.Corrected].shape[0]
-    description = df.Description.unique()[0]
+    #description = df.Description.unique()[0]
     
     n_ISO = df.ISO.unique().shape[0]
     
@@ -69,7 +70,7 @@ def get_info_from_indictor_df(df):
     latest_year_with_imputation = df.Year.max()
     
     info = {
-            'Description': description,
+            #'Description': description,
             'n_points': n_points,
             'n_ISO': n_ISO,
             '%_imputed': round(n_imputed / n_points * 100, 2),
