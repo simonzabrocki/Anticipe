@@ -48,7 +48,9 @@ def preprocess_waste():
     cons = add_ISO(cons)
     
     waste = (
-        pd.read_csv('data/indicator/ME3/raw/ME3.1_SDG.csv').groupby(['GeoAreaName', 'TimePeriod'])['Value']
+        pd.read_csv('data/indicator/ME3/raw/ME3.1_SDG.M.csv')
+          .query("GeoAreaName not in ['Southern Africa']")
+          .groupby(['GeoAreaName', 'TimePeriod'])['Value']
           .sum().reset_index()
           .rename(columns={'GeoAreaName': 'Country', 'TimePeriod': 'Year'})
           .drop(columns=['Year'])

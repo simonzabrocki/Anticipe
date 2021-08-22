@@ -34,12 +34,12 @@ Once the files above are specificed, it is possible the run the pipeline in Pipe
 - Produce reports on the index (missing values, imputation etc ...)
 
 
-To check that th e pipeline does not contains obvious mistake (duplicates, empty tables etc), run pytest tests/
+To check that the pipeline does not contains obvious mistake (duplicates, empty tables etc), run pytest tests/
 
 # Roadmap
 
 - Update config.json with metadata about the indicator (Full name, remarks, details about computation and sources)
-- Remove redundant process.py
+- Standardize the preprocessing scripts for API data. (e. GJ2 is now post processed to add missing data)
 - Put the pipeline into a CLI tools rather than a jupyter notebook 
 - Improve the tests
 
