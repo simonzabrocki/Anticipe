@@ -5,13 +5,6 @@ import pandas as pd
 
 indicators = [file for file in os.listdir('data/indicator/') if len(file)==3]
 
-# indicators = ['GV1', 'EE2', 'SE2', 'CV2', 'ME1', 'BE3', 'ME2',
-#               'BE2', 'SP1', 'EW1', 'EQ1', 'CV3', 'SE1', 'CV1',
-#               'GT1', 'SP3', 'SE3', 'GB3', 'GE1', 'GB2', 'GJ1',
-#               'SP2', 'EW2', 'EE1', 'SL1', 'AB3', 'AB2', 'EQ2',
-#               'AB1', 'SL2', 'EQ3', 'GB1', 'BE1', 'GE3', 'GE2', 'GN1']
-
-
 def get_preprocessed_files_from_indicator(indicator):
     files = os.listdir(f'data/indicator/{indicator}/preprocessed')
     return [(file, indicator) for file in files]

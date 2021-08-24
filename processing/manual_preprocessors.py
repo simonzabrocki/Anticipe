@@ -3,7 +3,7 @@ from processing.utils import add_ISO
 
 from data.indicator import (AB3, CV2, EE3, EQ2, EQ3, GB3,
                             GJ1, GN1, GN2, GT1, GT2, ME1,
-                            ME2, ME3, SL1, SL2, SL3, SP2)
+                            ME2, ME3, SL1, SL2, SL3, SP2) # Hard coded variables, not good ! 
 
 
 # MANUAL 
