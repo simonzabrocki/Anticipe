@@ -1,7 +1,12 @@
 # Anticipe
 Anticipe download, process and perform all the step to compute the green growth index.
 
-# Getting started
+
+# Purpose
+
+The repository aims to create a single pipeline covering collection and processing of data and computation of the green growth index. Because the data is every heterogeneous in its source, shape and quality the project must be versatile enough to allow inputs from all kinds of sources (Manual downloads, APIs).
+
+# Installation
 
 ```
 git clone https://github.com/simonzabrocki/Anticipe.git
@@ -42,6 +47,8 @@ To check that the pipeline does not contains obvious mistake (duplicates, empty 
 - Standardize the preprocessing scripts for API data. (e. GJ2 is now post processed to add missing data)
 - Put the pipeline into a CLI tools rather than a jupyter notebook 
 - Improve the tests
+- Improve documentation
+- Clean up notebooks
 
 
 # Contact
