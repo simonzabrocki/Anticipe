@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 
-indicators = [file for file in os.listdir('data/indicator/') if len(file)==3]
+indicators = [file for file in os.listdir('data/indicator/') if len(file)==3 and file != 'TMP'] 
 
 def get_preprocessed_files_from_indicator(indicator):
     files = os.listdir(f'data/indicator/{indicator}/preprocessed')

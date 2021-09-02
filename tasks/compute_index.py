@@ -151,7 +151,7 @@ def compute_index(save=False):
     try:
         path = 'data/full_data/result.csv'
         df = format_df_for_computation(df)
-        data = compute_index_from_df(df, save)
+        data = compute_index_from_df(df, save).query("ISO not in ['ATA', 'BVT']") # To move in a proper post processing module or directly in the coco module
         data.to_csv(path, index=False)
 
         print(f'saving at {path}')

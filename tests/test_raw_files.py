@@ -1,7 +1,7 @@
 import pytest
 import os
 
-indicators = [file for file in os.listdir('data/indicator/') if len(file)==3]
+indicators = [file for file in os.listdir('data/indicator/') if len(file)==3 and file != 'TMP']
 
 
 @pytest.mark.parametrize(('indicator'), indicators)
