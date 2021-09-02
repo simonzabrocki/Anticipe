@@ -1,6 +1,10 @@
 import pandas as pd
 import os
 import glob
+import seaborn as sns
+import matplotlib.pyplot as plt
+import plotly.express as px
+
 
 from tasks import compute_index
 from index.utils import ISO_to_Everything
@@ -120,7 +124,7 @@ def compare_2020_2019_data_report():
 def make_2019_2020_correlation_report():
     
     data_2019 = pd.read_csv('data/2019_archive/result.csv').assign(version='v_2019')
-    data_2020 = pd.read_csv('data/full_data/result.csv').assin(version='v_2020')
+    data_2020 = pd.read_csv('data/full_data/result.csv').assign(version='v_2020')
     data = pd.concat([data_2019, data_2020], axis=0).dropna(subset=['Value'])
     ISO_with_index = data.query("Aggregation == 'Index'").dropna().ISO.unique() # Select only ISOs where the full index is computed to remove some noise
     data = data[data.ISO.isin(ISO_with_index)]
@@ -136,3 +140,46 @@ def make_2019_2020_correlation_report():
 def make_data_report():
     info_df = get_info_dataframe()
     info_df.to_csv('data/results/data_report.csv', index=False)
+
+
+
+def make_indicator_box_plots():
+    data = pd.read_csv('data/full_data/result.csv')
+    IND_CAT_DIM = GreenGrowthStuff().IND_CAT_DIM
+    plot_df = (
+        data.query("Aggregation == 'Indicator' and Year == 2020 ")
+             .merge(IND_CAT_DIM, left_on='Variable', right_on='Indicator')
+    )
+
+    for category in plot_df.Category.unique():
+        fig = px.box(plot_df.query(f'Category == "{category}"'), y='Value', points="all" ,hover_data=['ISO', 'Country'], facet_col='Variable', facet_col_wrap=3).update_yaxes(matches=None, showticklabels=True)
+        fig.write_html(f"plots/{category}_boxplot.html")
+
+    return None
+
+
+def make_indicator_correlation_matrix():
+    data = pd.read_csv('data/full_data/result.csv')
+    IND_CAT_DIM = GreenGrowthStuff().IND_CAT_DIM
+    plot_df = (
+        data.query("Aggregation == 'Indicator' and Year == 2020 ")
+             .merge(IND_CAT_DIM, left_on='Variable', right_on='Indicator')
+    )
+    
+    corr = plot_df.pivot(index=['ISO', 'Year'], columns=['Variable'], values='Value').corr()
+    fig, ax = plt.subplots(figsize=(20, 20))
+    sns.heatmap(corr, annot=False, center=0, linewidths=.01, ax=ax, cmap='coolwarm')
+    plt.savefig('plots/indicator_corrmatrix.png')
+    return None
+
+
+def make_normed_indicator_historgrams():
+    data = (
+        pd.read_csv('data/full_data/result.csv')
+          .query("Aggregation in ['Indicator_normed'] and Year == 2020")
+          .sort_values(by='Variable').dropna()
+    )
+
+    sns.displot(data=data, x="Value", col="Variable", kind="hist", col_wrap=3)
+    
+    plt.savefig('plots/indicator_normed_histogram.png')

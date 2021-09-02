@@ -3,7 +3,6 @@ import pandas as pd
 import os
 
 
-# Test that results.csv is not empty
 def test_file_content():
     path = f'data/full_data/result.csv'
     df = pd.read_csv(path)
@@ -30,6 +29,7 @@ def test_Variables():
     Variables = [file for file in os.listdir('data/indicator/') if (len(file)==3 and file != 'TMP')] + ['ESRU', 'SI', 'GEO', 'NCP', 'Index']
     Variables_in_df = df.Variable.unique()
     assert set(Variables) <= set(Variables_in_df), f'Variables are missing'
+
 
 def test_columns():
     path = f'data/full_data/result.csv'
