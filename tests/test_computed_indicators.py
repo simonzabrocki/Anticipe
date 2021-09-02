@@ -2,7 +2,8 @@ import pytest
 import os
 import pandas as pd
 
-indicators = ['GE3', 'GE2', 'GE1', 'GB2', 'BE1', 'SE2', 'SE1', 'AB3', 'AB2', 'AB1']
+#indicators = ['GE3', 'GE2', 'GE1', 'GB2', 'BE1', 'SE2', 'SE1', 'AB3', 'AB2', 'AB1']
+indicators = ['GE3', 'GE2', 'GE1', 'GB2', 'BE1', 'SE2', 'SE1', 'AB1']
 
 
 def get_computed_files_from_indicator(indicator):

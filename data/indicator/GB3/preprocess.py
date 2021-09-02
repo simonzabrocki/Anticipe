@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def process_GB3():
+def preprocess():
 
     df = (
         pd.ExcelFile('data/indicator/GB3/raw/GB3_WB.M.xlsx')
@@ -18,3 +18,10 @@ def process_GB3():
              'PAY': 'Value'
          })
     return df
+
+
+config = {'Variable': 'GB3',
+          'function': preprocess,
+          'Description': 'Getting paid, laws and regulations for equal gender pay score',
+          'Source': 'World Bank Women, Business and the Law',
+          'URL': 'http://wbl.worldbank.org/en/reports'}

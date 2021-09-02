@@ -1,0 +1,760 @@
+SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,TimeCoverage,UpperBound,LowerBound,BasePeriod,Source,GeoInfoUrl,FootNote,Food Waste Sector,Nature,Observation Status,Reporting Type,Units
+AG_FOOD_WST,Food waste (Tonnes),1,World,2019,235503578,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),1,World,2019,121270234,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),1,World,2019,564738838,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),2,Africa,2019,20532785.30764,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),2,Africa,2019,143906027.44759,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),2,Africa,2019,32773414.55853,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),4,Afghanistan,2019,3109152.67104,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),4,Afghanistan,2019,1051782.52304,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),4,Afghanistan,2019,594982.44816,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),5,South America,2019,28704716.97174,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),5,South America,2019,11530802.35694,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),5,South America,2019,6732779.79787,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),8,Albania,2019,238491.7727,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),8,Albania,2019,79651.33802,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),8,Albania,2019,45057.93456,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),9,Oceania,2019,3935002.80286,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),9,Oceania,2019,999481.45786,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),9,Oceania,2019,443646.91994,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),11,Western Africa,2019,56738923.55744,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),11,Western Africa,2019,10586424.34811,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),11,Western Africa,2019,6231822.56417,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),12,Algeria,2019,3918528.68,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),12,Algeria,2019,1190335.31912,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),12,Algeria,2019,673360.32572,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),13,Central America,2019,16183675.43117,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),13,Central America,2019,4800038.42994,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),13,Central America,2019,2815185.94372,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),14,Eastern Africa,2019,44252249.16512,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),14,Eastern Africa,2019,9147487.98697,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),14,Eastern Africa,2019,6625107.18454,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),15,Northern Africa,2019,3839996.6471,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),15,Northern Africa,2019,6523265.63906,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),15,Northern Africa,2019,22140308.75426,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),16,American Samoa,2019,4186.93549,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),16,American Samoa,2019,1528.93852,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),16,American Samoa,2019,864.90464,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),17,Middle Africa,2019,17664189.09547,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),17,Middle Africa,2019,4714215.76997,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),17,Middle Africa,2019,2775078.27399,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),18,Southern Africa,2019,3110356.87531,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),18,Southern Africa,2019,1802020.81442,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),18,Southern Africa,2019,1060780.63784,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),19,Americas,2019,75979987.67229,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),19,Americas,2019,43419124.65667,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),19,Americas,2019,17007285.05567,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),20,Andorra,2019,6497.40052,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),20,Andorra,2019,1971.47923,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),20,Andorra,2019,987.75196,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),21,Northern America,2019,27787570.54526,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),21,Northern America,2019,25942590.92348,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),21,Northern America,2019,6798975.51741,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),24,Angola,2019,3169522.89453,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),24,Angola,2019,879908.2675,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),24,Angola,2019,497754.9671,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),28,Antigua and Barbuda,2019,7177.70674,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),28,Antigua and Barbuda,2019,2482.88759,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),28,Antigua and Barbuda,2019,1243.97815,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),29,Caribbean,2019,3304024.72412,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),29,Caribbean,2019,1145692.9463,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),29,Caribbean,2019,660343.79667,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),30,Eastern Asia,2019,93298795.83481,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),30,Eastern Asia,2019,25265958.7373,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),30,Eastern Asia,2019,62634283.74638,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),31,Azerbaijan,2019,934872.32903,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),31,Azerbaijan,2019,277799.55882,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),31,Azerbaijan,2019,157148.32485,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),32,Argentina,2019,1238100.13274,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),32,Argentina,2019,700380.38464,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),32,Argentina,2019,3243562.94957,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),34,Southern Asia,2019,108533827.24567,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),34,Southern Asia,2019,48013281.48052,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),34,Southern Asia,2019,30538866.46193,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),35,South-Eastern Asia,2019,53608301.41942,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),35,South-Eastern Asia,2019,19939525.95085,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),35,South-Eastern Asia,2019,12568291.72382,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),36,Australia,2019,2563110.26578,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),36,Australia,2019,546339.63441,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),36,Australia,2019,238247.67049,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),39,Southern Europe,2019,3834966.27881,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),39,Southern Europe,2019,1397740.18133,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),39,Southern Europe,2019,12004091.7022,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),40,Austria,2019,349248.9,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),40,Austria,2019,254190.70717,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),40,Austria,2019,77288.92633,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),44,Bahamas,2019,28792.13979,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),44,Bahamas,2019,9959.67781,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),44,Bahamas,2019,4990.00503,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),48,Bahrain,2019,216161.07344,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),48,Bahrain,2019,41966.17003,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),48,Bahrain,2019,21025.92107,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),50,Bangladesh,2019,10618232.95727,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),50,Bangladesh,2019,544436.36233,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),50,Bangladesh,2019,2550079.83952,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),51,Armenia,2019,46259.10412,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),51,Armenia,2019,81774.71015,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),51,Armenia,2019,275194.51094,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),52,Barbados,2019,21215.2609,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),52,Barbados,2019,7338.70997,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),52,Barbados,2019,3676.84581,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),53,Australia and New Zealand,2019,2854879.36578,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),53,Australia and New Zealand,2019,672510.18273,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),53,Australia and New Zealand,2019,253170.94249,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),54,Melanesia,2019,981665.24202,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),54,Melanesia,2019,295107.44524,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),54,Melanesia,2019,173024.98044,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),56,Belgium,2019,576036.22282,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),56,Belgium,2019,227371.14388,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),56,Belgium,2019,112100.16873,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),57,Micronesia,2019,46058.87981,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),57,Micronesia,2019,14530.17502,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),57,Micronesia,2019,7932.22595,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),60,Bermuda,2019,4605.55498,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),60,Bermuda,2019,1598.15113,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),60,Bermuda,2019,800.70684,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),61,Polynesia,2019,52399.31526,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),61,Polynesia,2019,17333.65487,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),61,Polynesia,2019,9518.77106,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),62,Central and Southern Asia,2019,115024501.72474,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),62,Central and Southern Asia,2019,49993319.39243,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),62,Central and Southern Asia,2019,31704438.94719,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),64,Bhutan,2019,60000.16347,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),64,Bhutan,2019,21098.2457,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),64,Bhutan,2019,11935.05844,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),68,Bolivia (Plurinational State of),2019,922011.56512,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),68,Bolivia (Plurinational State of),2019,180067.51584,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),68,Bolivia (Plurinational State of),2019,318315.04729,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),70,Bosnia and Herzegovina,2019,273269.2359,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),70,Bosnia and Herzegovina,2019,91266.29414,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),70,Bosnia and Herzegovina,2019,51628.39459,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),72,Botswana,2019,211801.64005,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),72,Botswana,2019,63692.86938,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),72,Botswana,2019,36030.39461,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),76,Brazil,2019,12578308.30946,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),76,Brazil,2019,5835112.31321,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),76,Brazil,2019,3300862.42482,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),84,Belize,2019,20563.88619,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),84,Belize,2019,10793.80831,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),84,Belize,2019,6105.94524,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),90,Solomon Islands,2019,60962.63707,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),90,Solomon Islands,2019,18518.68035,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),90,Solomon Islands,2019,10475.82511,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),92,British Virgin Islands,2019,2217.62309,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),92,British Virgin Islands,2019,384.33928,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),92,British Virgin Islands,2019,767.11254,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),96,Brunei Darussalam,2019,5551.14038,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),96,Brunei Darussalam,2019,34739.48235,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),96,Brunei Darussalam,2019,11079.66212,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),100,Bulgaria,2019,478667.29649,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),100,Bulgaria,2019,193539.28677,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),100,Bulgaria,2019,109483.16419,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),104,Myanmar,2019,4666124.54732,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),104,Myanmar,2019,1494251.24917,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),104,Myanmar,2019,845282.4105,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),108,Burundi,2019,1184127.26777,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),108,Burundi,2019,318798.8886,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),108,Burundi,2019,180341.21984,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),112,Belarus,2019,147837.69677,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),112,Belarus,2019,261340.66003,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),112,Belarus,2019,646355.73111,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),116,Cambodia,2019,1423397.03933,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),116,Cambodia,2019,455819.98134,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),116,Cambodia,2019,257852.62873,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),120,Cameroon,2019,2577064.22965,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),120,Cameroon,2019,715432.63671,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),120,Cameroon,2019,404712.81121,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),124,Canada,2019,479283.89781,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),124,Canada,2019,2938320.59533,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),124,Canada,2019,956614.90795,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),132,Cabo Verde,2019,54765.25405,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),132,Cabo Verde,2019,15203.6762,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),132,Cabo Verde,2019,8600.5617,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),136,Cayman Islands,2019,4797.45795,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),136,Cayman Islands,2019,1659.52013,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),136,Cayman Islands,2019,831.45398,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),140,Central African Republic,2019,487305.14553,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),140,Central African Republic,2019,131195.64343,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),140,Central African Republic,2019,74216.01273,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),142,Asia,2019,291427863.903,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),142,Asia,2019,139981330.03054,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),142,Asia,2019,74289561.68073,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),143,Central Asia,2019,6490674.47908,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),143,Central Asia,2019,1980037.91191,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),143,Central Asia,2019,1165572.48525,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),144,Sri Lanka,2019,1617737.68831,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),144,Sri Lanka,2019,589559.24763,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),144,Sri Lanka,2019,333507.54249,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),145,Western Asia,2019,29496264.92403,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),145,Western Asia,2019,7414200.94088,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),145,Western Asia,2019,4750872.27242,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),148,Chad,2019,440901.0803,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),148,Chad,2019,249413.16138,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),148,Chad,2019,1637656.24741,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),150,Europe,2019,49489956.01195,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),150,Europe,2019,18330226.97083,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),150,Europe,2019,8996954.70187,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),151,Eastern Europe,2019,15222299.23778,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),151,Eastern Europe,2019,7880884.99249,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),151,Eastern Europe,2019,4114145.64865,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),152,Chile,2019,1400946.42688,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),152,Chile,2019,484610.56201,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),152,Chile,2019,242799.93669,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),154,Northern Europe,2019,8055607.77788,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),154,Northern Europe,2019,2031761.73948,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),154,Northern Europe,2019,839830.56289,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),155,Western Europe,2019,14207957.29408,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),155,Western Europe,2019,2645238.30899,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),155,Western Europe,2019,4582613.96005,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),156,China,2019,91646212.70629,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),156,China,2019,65377740.84179,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),156,China,2019,22424704.82353,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),170,Colombia,2019,3545498.98279,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),170,Colombia,2019,1391787.48483,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),170,Colombia,2019,787319.72333,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),174,Comoros,2019,84742.23435,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),174,Comoros,2019,23525.74665,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),174,Comoros,2019,13308.27051,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),178,Congo,2019,535850.97184,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),178,Congo,2019,148760.46521,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),178,Congo,2019,84152.24995,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),180,Democratic Republic of the Congo,2019,1357424.82388,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),180,Democratic Republic of the Congo,2019,2399592.98047,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),180,Democratic Republic of the Congo,2019,8912902.71506,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),188,Costa Rica,2019,139556.42118,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),188,Costa Rica,2019,78945.61786,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),188,Costa Rica,2019,365608.5846,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),191,Croatia,2019,348070.21242,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),191,Croatia,2019,105613.49748,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),191,Croatia,2019,52914.55142,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),192,Cuba,2019,177258.53078,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),192,Cuba,2019,820909.9163,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),192,Cuba,2019,313349.4531,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),196,Cyprus,2019,113306.08247,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),196,Cyprus,2019,30648.70302,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),196,Cyprus,2019,15355.63551,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),199,Least Developed Countries (LDCs),2019,16473647.13284,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),199,Least Developed Countries (LDCs),2019,96866487.65569,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),199,Least Developed Countries (LDCs),2019,21349165.25149,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),202,Sub-Saharan Africa,2019,121765718.69333,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),202,Sub-Saharan Africa,2019,26250148.91947,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),202,Sub-Saharan Africa,2019,16692788.66054,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),203,Czechia,2019,746840.21347,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),203,Czechia,2019,273327.31213,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),203,Czechia,2019,136942.64897,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),204,Benin,2019,184573.46569,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),204,Benin,2019,1175296.81049,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),204,Benin,2019,326280.45757,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),208,Denmark,2019,469448.98769,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),208,Denmark,2019,119134.266,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),208,Denmark,2019,172002.62,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),212,Dominica,2019,5200.62928,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),212,Dominica,2019,1985.13175,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),212,Dominica,2019,1122.96841,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),214,Dominican Republic,2019,777848.99556,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),214,Dominican Republic,2019,296912.67277,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),214,Dominican Republic,2019,167960.41488,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),218,Ecuador,2019,1258414.66562,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),218,Ecuador,2019,480349.3531,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),218,Ecuador,2019,271728.63954,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),222,El Salvador,2019,516828.12072,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),222,El Salvador,2019,178429.61402,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),222,El Salvador,2019,100935.77926,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),226,Equatorial Guinea,2019,124670.32335,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),226,Equatorial Guinea,2019,37490.78911,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),226,Equatorial Guinea,2019,21208.14998,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),231,Ethiopia,2019,1752936.48861,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),231,Ethiopia,2019,10327235.51553,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),231,Ethiopia,2019,3098760.25491,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),232,Eritrea,2019,359132.34941,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),232,Eritrea,2019,54695.44342,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),232,Eritrea,2019,96688.08157,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),233,Estonia,2019,102743.4957,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),233,Estonia,2019,22012.57292,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),233,Estonia,2019,6242.79107,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),234,Faroe Islands,2019,3710.23285,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),234,Faroe Islands,2019,1245.27936,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),234,Faroe Islands,2019,623.91077,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),242,Fiji,2019,67384.67604,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),242,Fiji,2019,24606.78636,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),242,Fiji,2019,13919.80345,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),246,Finland,2019,361936.9313,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),246,Finland,2019,128927.40238,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),246,Finland,2019,70874.72614,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),250,France,2019,5522358.45303,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),250,France,2019,1667567.7439,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),250,France,2019,1594579.43675,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),258,French Polynesia,2019,21978.21002,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),258,French Polynesia,2019,7141.81775,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),258,French Polynesia,2019,3578.19873,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),262,Djibouti,2019,96962.08646,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),262,Djibouti,2019,26918.1654,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),262,Djibouti,2019,15227.32656,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),266,Gabon,2019,199748.33667,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),266,Gabon,2019,60068.2068,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),266,Gabon,2019,33979.96065,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),268,Georgia,2019,403572.8832,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),268,Georgia,2019,110503.82443,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),268,Georgia,2019,62510.86565,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),270,Gambia,2019,241095.48389,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),270,Gambia,2019,64909.38466,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),270,Gambia,2019,36718.56467,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),275,State of Palestine,2019,501601.80408,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),275,State of Palestine,2019,137726.11865,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),275,State of Palestine,2019,77910.23472,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),276,Germany,2019,6263775,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),276,Germany,2019,1718432.87891,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),276,Germany,2019,498243.85247,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),288,Ghana,2019,2555331.73425,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),288,Ghana,2019,840996.36735,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),288,Ghana,2019,475742.90937,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),292,Gibraltar,2019,2839.97922,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),292,Gibraltar,2019,861.72309,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),292,Gibraltar,2019,431.74113,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),296,Kiribati,2019,1839.29088,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),296,Kiribati,2019,10703.50272,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),296,Kiribati,2019,3251.41357,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),300,Greece,2019,267811.77297,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),300,Greece,2019,77331.53355,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),300,Greece,2019,1483995.91691,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),304,Greenland,2019,4178.15948,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),304,Greenland,2019,1449.8427,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),304,Greenland,2019,726.40125,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),308,Grenada,2019,8112.40223,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),308,Grenada,2019,3096.58435,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),308,Grenada,2019,1751.7056,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),316,Guam,2019,13164.89272,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),316,Guam,2019,4277.93093,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),316,Guam,2019,2143.33207,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),320,Guatemala,2019,1273466.06904,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),320,Guatemala,2019,486094.62299,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),320,Guatemala,2019,274978.67904,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),324,Guinea,2019,1311529.8564,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),324,Guinea,2019,199744.48743,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),324,Guinea,2019,353099.0899,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),328,Guyana,2019,56699.89699,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),328,Guyana,2019,21642.91277,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),328,Guyana,2019,12243.17094,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),332,Haiti,2019,936940.44204,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),332,Haiti,2019,311403.02865,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),332,Haiti,2019,176157.45869,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),340,Honduras,2019,780503.67971,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),340,Honduras,2019,269460.89953,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),340,Honduras,2019,152431.23191,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),344,"China, Hong Kong Special Administrative Region",2019,530984.95863,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),344,"China, Hong Kong Special Administrative Region",2019,190146.74236,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),344,"China, Hong Kong Special Administrative Region",2019,95267.45933,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),348,Hungary,2019,247641.82724,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),348,Hungary,2019,124073.68862,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),348,Hungary,2019,908669.05874,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),352,Iceland,2019,8668.3717,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),352,Iceland,2019,4343.0339,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),352,Iceland,2019,25826.8775,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),356,India,2019,68760163.39164,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),356,India,2019,37778821.2233,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),356,India,2019,21371086.74803,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),360,Indonesia,2019,20938251.72673,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),360,Indonesia,2019,7482276.76839,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),360,Indonesia,2019,4232646.24761,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),364,Iran (Islamic Republic of),2019,5884842.11424,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),364,Iran (Islamic Republic of),2019,2292409.68979,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),364,Iran (Islamic Republic of),2019,1296792.34969,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),368,Iraq,2019,614814.25802,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),368,Iraq,2019,4734434.37485,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),368,Iraq,2019,1086840.28159,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),372,Ireland,2019,274134.93204,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),372,Ireland,2019,62551.21839,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),372,Ireland,2019,267072.75,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),376,Israel,2019,848395.24324,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),376,Israel,2019,233752.04784,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),376,Israel,2019,437996.93383,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),380,Italy,2019,4059806.13181,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),380,Italy,2019,1548291.36719,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),380,Italy,2019,219551.83218,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),384,Côte d'Ivoire,2019,2561139.58131,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),384,Côte d'Ivoire,2019,711011.70959,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),384,Côte d'Ivoire,2019,402211.93866,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),388,Jamaica,2019,213551.74538,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),388,Jamaica,2019,81514.81824,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),388,Jamaica,2019,46112.08597,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),392,Japan,2019,8159891.21623,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),392,Japan,2019,1095307.55847,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),392,Japan,2019,1870735.46901,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),398,Kazakhstan,2019,512910.49051,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),398,Kazakhstan,2019,290148.13675,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),398,Kazakhstan,2019,1404584.35853,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),400,Jordan,2019,939896.67349,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),400,Jordan,2019,279292.55485,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),400,Jordan,2019,157992.8972,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),404,Kenya,2019,5217366.8438,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),404,Kenya,2019,1637019.64155,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),404,Kenya,2019,576410.50809,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),408,Democratic People's Republic of Korea,2019,2070527.65554,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),408,Democratic People's Republic of Korea,2019,709621.01144,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),408,Democratic People's Republic of Korea,2019,401425.23516,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),410,Republic of Korea,2019,656263.16994,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),410,Republic of Korea,2019,3657763.88497,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),410,Republic of Korea,2019,1309852.33338,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),414,Kuwait,2019,397705.67293,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),414,Kuwait,2019,107577.30559,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),414,Kuwait,2019,53898.45998,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),417,Kyrgyzstan,2019,583950.70641,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),417,Kyrgyzstan,2019,177387.28161,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),417,Kyrgyzstan,2019,100346.14264,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),418,Lao People's Democratic Republic,2019,618994.02987,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),418,Lao People's Democratic Republic,2019,198222.8706,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),418,Lao People's Democratic Republic,2019,112132.61891,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),419,Latin America and the Caribbean,2019,10208309.53826,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),419,Latin America and the Caribbean,2019,48192417.12703,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),419,Latin America and the Caribbean,2019,17476533.73319,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),422,Lebanon,2019,717491.23926,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),422,Lebanon,2019,107224.71518,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),422,Lebanon,2019,189546.90481,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),426,Lesotho,2019,58760.45288,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),426,Lesotho,2019,211661.38285,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),426,Lesotho,2019,33240.17783,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),428,Latvia,2019,145262.85348,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),428,Latvia,2019,48755.11601,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),428,Latvia,2019,24427.32373,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),430,Liberia,2019,507042.99619,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),430,Liberia,2019,136509.60336,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),430,Liberia,2019,77222.06466,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),432,Landlocked developing countries (LLDCs),2019,49205324.76599,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),432,Landlocked developing countries (LLDCs),2019,11319264.37313,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),432,Landlocked developing countries (LLDCs),2019,8294142.10555,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),434,Libya,2019,513145.66501,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),434,Libya,2019,187384.82537,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),434,Libya,2019,106001.6493,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),438,Liechtenstein,2019,2723.65533,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),438,Liechtenstein,2019,971.67588,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),438,Liechtenstein,2019,486.82976,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),440,Lithuania,2019,210241.44883,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),440,Lithuania,2019,70564.12552,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),440,Lithuania,2019,35354.08956,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),442,Luxembourg,2019,12868.13,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),442,Luxembourg,2019,4433.04,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),442,Luxembourg,2019,54951.225,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),446,"China, Macao Special Administrative Region",2019,45728.02877,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),446,"China, Macao Special Administrative Region",2019,16375.29569,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),446,"China, Macao Special Administrative Region",2019,8204.36257,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),450,Madagascar,2019,421806.01704,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),450,Madagascar,2019,2769594.25552,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),450,Madagascar,2019,745649.2174,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),454,Malawi,2019,1913061.90772,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),454,Malawi,2019,515047.68668,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),454,Malawi,2019,291357.12642,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),458,Malaysia,2019,2921576.52581,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),458,Malaysia,2019,2861537.49261,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),458,Malaysia,2019,2518199.20728,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),462,Maldives,2019,37687.90471,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),462,Maldives,2019,14681.1276,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),462,Maldives,2019,8304.96138,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),466,Mali,2019,2018765.18393,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),466,Mali,2019,543505.84983,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),466,Mali,2019,307455.61372,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),470,Malta,2019,5642.10068,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),470,Malta,2019,56811.6,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),470,Malta,2019,11261.21209,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),478,Mauritania,2019,450720.33143,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),478,Mauritania,2019,125126.89107,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),478,Mauritania,2019,70782.98255,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),480,Mauritius,2019,118626.00574,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),480,Mauritius,2019,32466.75974,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),480,Mauritius,2019,16266.51961,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),484,Mexico,2019,11979364.27373,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),484,Mexico,2019,3527216.93685,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),484,Mexico,2019,1995309.9831,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),492,Monaco,2019,2795.33047,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),492,Monaco,2019,997.2463,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),492,Monaco,2019,499.64107,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),496,Mongolia,2019,250173.40959,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),496,Mongolia,2019,89170.57009,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),496,Mongolia,2019,50442.86526,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),498,Republic of Moldova,2019,111789.45989,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),498,Republic of Moldova,2019,307418.5509,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),498,Republic of Moldova,2019,63238.13628,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),499,Montenegro,2019,17362.99083,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),499,Montenegro,2019,51988.20968,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),499,Montenegro,2019,9822.06356,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),504,Morocco,2019,3319523.89749,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),504,Morocco,2019,1008375.04597,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),504,Morocco,2019,570427.28927,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),508,Mozambique,2019,3118416.09397,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),508,Mozambique,2019,839561.43228,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),508,Mozambique,2019,474931.18151,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),512,Oman,2019,470296.81321,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),512,Oman,2019,127212.82957,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),512,Oman,2019,63736.26451,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),513,Europe and Northern America,2019,77277526.55721,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),513,Europe and Northern America,2019,44272817.89432,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),513,Europe and Northern America,2019,15795930.21928,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),516,Namibia,2019,68968.12201,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),516,Namibia,2019,229343.7475,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),516,Namibia,2019,39014.55023,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),520,Nauru,2019,849.8556,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),520,Nauru,2019,276.16051,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),520,Nauru,2019,138.36214,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),524,Nepal,2019,2249412.49711,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),524,Nepal,2019,790975.47085,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),524,Nepal,2019,447446.6078,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),528,Netherlands,2019,854855,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),528,Netherlands,2019,437179.99366,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),528,Netherlands,2019,188068.1,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),531,Curaçao,2019,12078.65377,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),531,Curaçao,2019,4178.2063,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),531,Curaçao,2019,2093.36796,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),533,Aruba,2019,1361.84219,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),533,Aruba,2019,7857.77782,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),533,Aruba,2019,2718.13543,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),534,Sint Maarten (Dutch part),2019,543.19952,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),534,Sint Maarten (Dutch part),2019,1084.18572,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),534,Sint Maarten (Dutch part),2019,3134.24063,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),540,New Caledonia,2019,3623.03831,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),540,New Caledonia,2019,7231.31421,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),540,New Caledonia,2019,22253.62618,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),543,Oceania (exc. Australia and New Zealand),2019,326971.27513,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),543,Oceania (exc. Australia and New Zealand),2019,190475.97745,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),543,Oceania (exc. Australia and New Zealand),2019,1080123.43709,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),548,Vanuatu,2019,8291.65756,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),548,Vanuatu,2019,4690.50456,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),548,Vanuatu,2019,27295.75225,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),554,New Zealand,2019,14923.272,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),554,New Zealand,2019,122305.86636,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),554,New Zealand,2019,291769.1,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),558,Nicaragua,2019,524187.8121,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),558,Nicaragua,2019,180970.47208,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),558,Nicaragua,2019,102373.11627,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),562,Niger,2019,644495.9718,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),562,Niger,2019,2393876.77145,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),562,Niger,2019,364584.67671,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),566,Nigeria,2019,5556256.59794,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),566,Nigeria,2019,37941470.48781,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),566,Nigeria,2019,3143116.64324,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),578,Norway,2019,423857.32,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),578,Norway,2019,74087.70379,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),578,Norway,2019,26685.484,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),580,Northern Mariana Islands,2019,732.8069,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),580,Northern Mariana Islands,2019,1462.62791,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),580,Northern Mariana Islands,2019,4501.08705,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),583,Micronesia (Federated States of),2019,1779.85801,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),583,Micronesia (Federated States of),2019,3146.35089,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),583,Micronesia (Federated States of),2019,10357.64123,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),584,Marshall Islands,2019,4451.93141,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),584,Marshall Islands,2019,919.64544,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),584,Marshall Islands,2019,1625.70679,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),585,Palau,2019,1416.426,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),585,Palau,2019,460.26752,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),585,Palau,2019,230.60357,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),586,Pakistan,2019,5987613.5629,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),586,Pakistan,2019,15947644.68227,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),586,Pakistan,2019,3387130.79771,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),591,Panama,2019,54401.94445,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),591,Panama,2019,108582.22301,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),591,Panama,2019,313897.15635,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),598,Papua New Guinea,2019,137260.21017,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),598,Papua New Guinea,2019,242642.2672,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),598,Papua New Guinea,2019,798767.09339,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),600,Paraguay,2019,194769.62609,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),600,Paraguay,2019,510255.61357,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),600,Paraguay,2019,110179.15436,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),604,Peru,2019,508471.65173,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),604,Peru,2019,898852.72819,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),604,Peru,2019,2354805.82644,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),608,Philippines,2019,1690968.3389,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),608,Philippines,2019,2989215.81867,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),608,Philippines,2019,9334476.59251,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),616,Poland,2019,968806.88325,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),616,Poland,2019,2119454.89834,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),616,Poland,2019,485392.33016,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),620,Portugal,2019,861786.21558,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),620,Portugal,2019,131011.01269,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),620,Portugal,2019,261488.20859,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),624,Guinea-Bissau,2019,53109.18644,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),624,Guinea-Bissau,2019,30043.31511,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),624,Guinea-Bissau,2019,197265.54287,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),626,Timor-Leste,2019,20224.3796,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),626,Timor-Leste,2019,35751.72522,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),626,Timor-Leste,2019,111642.53854,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),630,Puerto Rico,2019,37580.69514,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),630,Puerto Rico,2019,216839.18577,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),630,Puerto Rico,2019,75008.26417,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),634,Qatar,2019,72417.98083,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),634,Qatar,2019,36282.90949,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),634,Qatar,2019,267724.14164,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),642,Romania,2019,248085.88296,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),642,Romania,2019,1352978.89438,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),642,Romania,2019,495160.91648,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),643,Russian Federation,2019,4868563.96031,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),643,Russian Federation,2019,4033088.22758,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),643,Russian Federation,2019,2001062.30572,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),646,Rwanda,2019,349112.23755,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),646,Rwanda,2019,197489.16647,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),646,Rwanda,2019,2075405.2875,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),659,Saint Kitts and Nevis,2019,676.43714,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),659,Saint Kitts and Nevis,2019,1350.11807,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),659,Saint Kitts and Nevis,2019,3903.01664,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),662,Saint Lucia,2019,5054.06803,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),662,Saint Lucia,2019,13240.59935,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),662,Saint Lucia,2019,2859.03379,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),663,Saint Martin (French Part),2019,486.82976,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),663,Saint Martin (French Part),2019,2808.98925,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),663,Saint Martin (French Part),2019,971.67588,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),670,Saint Vincent and the Grenadines,2019,8010.9972,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),670,Saint Vincent and the Grenadines,2019,3057.87705,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),670,Saint Vincent and the Grenadines,2019,1729.80928,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),674,San Marino,2019,2856.83369,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),674,San Marino,2019,866.83717,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),674,San Marino,2019,434.30339,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),678,Sao Tome and Principe,2019,3364.21317,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),678,Sao Tome and Principe,2019,5947.10084,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),678,Sao Tome and Principe,2019,21422.08792,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),682,Saudi Arabia,2019,673501.72683,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),682,Saudi Arabia,2019,3594080.28,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),682,Saudi Arabia,2019,876259.86937,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),686,Senegal,2019,254879.42127,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),686,Senegal,2019,1622979.60737,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),686,Senegal,2019,450564.08236,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),688,Serbia,2019,52633.2,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),688,Serbia,2019,137199.21328,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),688,Serbia,2019,726195.81676,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),690,Seychelles,2019,9127.95208,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),690,Seychelles,2019,1251.66493,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),690,Seychelles,2019,2498.22984,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),694,Sierra Leone,2019,216019.9362,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),694,Sierra Leone,2019,122200.23406,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),694,Sierra Leone,2019,802371.35696,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),702,Singapore,2019,465355.12903,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),702,Singapore,2019,74360.68344,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),702,Singapore,2019,148418.37722,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),703,Slovakia,2019,69911.31567,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),703,Slovakia,2019,139537.77105,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),703,Slovakia,2019,381273.34552,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),704,Viet Nam,2019,2666991.33363,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),704,Viet Nam,2019,7346716.80655,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),704,Viet Nam,2019,1508689.29474,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),705,Slovenia,2019,41740.85416,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),705,Slovenia,2019,13910.17955,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),705,Slovenia,2019,71106.54454,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),706,Somalia,2019,1585898.30395,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),706,Somalia,2019,426966.45072,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),706,Somalia,2019,241530.48617,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),710,South Africa,2019,2329228.13691,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),710,South Africa,2019,915865.19812,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),710,South Africa,2019,1619024.24488,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),716,Zimbabwe,2019,1458564.33567,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),716,Zimbabwe,2019,404919.87606,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),716,Zimbabwe,2019,229058.96789,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),722,Small island developing States (SIDS),2019,1845131.87639,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),722,Small island developing States (SIDS),2019,5589132.32974,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),722,Small island developing States (SIDS),2019,1053341.73026,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),724,Spain,2019,1195079.51217,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),724,Spain,2019,3613954.12725,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),724,Spain,2019,598759.60747,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),728,South Sudan,2019,173013.77274,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),728,South Sudan,2019,305845.76566,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),728,South Sudan,2019,1136014.9731,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),729,Sudan,2019,4162395.66509,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),729,Sudan,2019,669608.23488,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),729,Sudan,2019,1183702.54603,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),740,Suriname,2019,16074.59055,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),740,Suriname,2019,42112.05941,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),740,Suriname,2019,9093.22891,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),747,Northern Africa and Western Asia,2019,8590868.91952,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),747,Northern Africa and Western Asia,2019,13937466.57994,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),747,Northern Africa and Western Asia,2019,51636573.67829,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),748,Eswatini,2019,17956.54645,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),748,Eswatini,2019,31742.75441,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),748,Eswatini,2019,114340.76773,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),752,Sweden,2019,100364,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),752,Sweden,2019,812948.4,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),752,Sweden,2019,205746.2,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),753,Eastern and South-Eastern Asia,2019,37834250.46112,2019,,,,,Food Waste Index Report 2021 / WESR,,,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),753,Eastern and South-Eastern Asia,2019,146907097.25423,2019,,,,,Food Waste Index Report 2021 / WESR,,,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),753,Eastern and South-Eastern Asia,2019,82573809.69723,2019,,,,,Food Waste Index Report 2021 / WESR,,,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),756,Switzerland,2019,615789.79912,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),756,Switzerland,2019,343656,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),756,Switzerland,2019,110067.084,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),760,Syrian Arab Republic,2019,1771841.92577,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),760,Syrian Arab Republic,2019,266980.26614,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),760,Syrian Arab Republic,2019,471955.39766,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),762,Tajikistan,2019,906208.59909,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),762,Tajikistan,2019,257707.70303,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),762,Tajikistan,2019,145782.57073,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),764,Thailand,2019,5478531.86733,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),764,Thailand,2019,1088960.30005,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),764,Thailand,2019,1925013.78053,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),768,Togo,2019,830016.67121,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),768,Togo,2019,223462.79788,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),768,Togo,2019,126410.5836,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),776,Tonga,2019,2889.22379,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),776,Tonga,2019,7912.02095,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),776,Tonga,2019,1634.40389,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),780,Trinidad and Tobago,2019,17871.77668,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),780,Trinidad and Tobago,2019,35670.73312,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),780,Trinidad and Tobago,2019,103119.4737,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),784,United Arab Emirates,2019,249835.76911,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),784,United Arab Emirates,2019,125172.89898,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),784,United Arab Emirates,2019,923625.12833,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),788,Tunisia,2019,182907.78135,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),788,Tunisia,2019,323335.93763,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),788,Tunisia,2019,1064406.91504,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),792,Turkey,2019,7762574.96366,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),792,Turkey,2019,1304858.01558,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),792,Turkey,2019,2306667.80185,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),795,Turkmenistan,2019,92935.80233,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),795,Turkmenistan,2019,449894.92528,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),795,Turkmenistan,2019,164287.62388,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),796,Turks and Caicos Islands,2019,2823.7734,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),796,Turks and Caicos Islands,2019,489.39202,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),796,Turks and Caicos Islands,2019,976.78997,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),798,Tuvalu,2019,878.27218,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),798,Tuvalu,2019,320.71767,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),798,Tuvalu,2019,181.42665,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),800,Uganda,2019,692386.6638,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),800,Uganda,2019,4546237.01224,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),800,Uganda,2019,1223969.20183,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),804,Ukraine,2019,3344903.60866,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),804,Ukraine,2019,1216338.33325,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),804,Ukraine,2019,688069.96071,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),807,North Macedonia,2019,172479.99182,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),807,North Macedonia,2019,57604.76336,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),807,North Macedonia,2019,32586.41628,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),818,Egypt,2019,9136941.33478,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),818,Egypt,2019,2775537.67438,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),818,Egypt,2019,1570092.8322,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),826,United Kingdom of Great Britain and Northern Ireland,2019,283626.84,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),826,United Kingdom of Great Britain and Northern Ireland,2019,5199825.4,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),826,United Kingdom of Great Britain and Northern Ireland,2019,1114248.3,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),833,Isle of Man,2019,2163.25736,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),833,Isle of Man,2019,1083.83678,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),833,Isle of Man,2019,6445.29155,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),834,United Republic of Tanzania,2019,6907649.35361,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),834,United Republic of Tanzania,2019,907219.27976,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),834,United Republic of Tanzania,2019,1603740.38926,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),840,United States of America,2019,20934827.06696,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),840,United States of America,2019,19359951.33877,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),840,United States of America,2019,5151313.18905,2019,,,,,Food Waste Index Report 2021 / WESR,,High Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),850,United States Virgin Islands,2019,7732.11251,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),850,United States Virgin Islands,2019,2674.66572,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),850,United States Virgin Islands,2019,1340.06297,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),854,Burkina Faso,2019,317831.34137,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),854,Burkina Faso,2019,2086892.60397,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),854,Burkina Faso,2019,561847.58249,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),858,Uruguay,2019,255891.52838,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),858,Uruguay,2019,88517.116,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),858,Uruguay,2019,44348.90992,2019,,,,,Food Waste Index Report 2021 / WESR,,Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),860,Uzbekistan,2019,911880.50093,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),860,Uzbekistan,2019,515841.32745,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),860,Uzbekistan,2019,3001868.32923,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),862,Venezuela (Bolivarian Republic of),2019,788406.96472,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),862,Venezuela (Bolivarian Republic of),2019,445993.63056,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),862,Venezuela (Bolivarian Republic of),2019,2065461.06598,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),882,Samoa,2019,3082.68906,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),882,Samoa,2019,5449.4355,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),882,Samoa,2019,14923.05578,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),887,Yemen,2019,456098.78226,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),887,Yemen,2019,3026946.35972,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),887,Yemen,2019,806270.3857,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),894,Zambia,2019,493822.25983,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,OOHC,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),894,Zambia,2019,1391729.12,2019,,,,,Food Waste Index Report 2021 / WESR,,Medium Confidence,HHS,E,A,G,TONNES
+AG_FOOD_WST,Food waste (Tonnes),894,Zambia,2019,279350.12293,2019,,,,,Food Waste Index Report 2021 / WESR,,Very Low Confidence,RTL,E,A,G,TONNES

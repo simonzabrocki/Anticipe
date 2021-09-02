@@ -6,12 +6,53 @@ from index.utils import ISO_to_Everything
 
 indicators = os.listdir('data/indicator')
 indicators = [file for file in indicators if len(file) <= 3]
-ST = pd.read_csv('data/sustainable_targets/ST_2020.csv', index_col=0)
+#ST = pd.read_csv('data/sustainable_targets/ST_2020.csv', index_col=0)
 
+ST = pd.read_csv('data/sustainable_targets/ST_new.csv', index_col=0)
+
+# files = {'AB1': 'AB1_SDG.csv',
+#          'AB2': 'AB2_SDG.csv',
+#          'AB3': 'AB3.csv',
+#          'BE1': 'BE1.csv',
+#          'BE2': 'BE2_WB.csv',
+#          'BE3': 'BE3_SDG.csv',
+#          'CV1': 'CV1_SDG.csv',
+#          'CV2': 'CV2_origin.M.csv',
+#          'CV3': 'CV3_WB.csv',
+#          'EE1': 'EE1_SDG.csv',
+#          'EE2': 'EE2_SDG.csv',
+#          'EQ1': "EQ1_WB.csv",
+#          'EQ2': 'EQ2_origin.M.csv',
+#          'EQ3': 'EQ3_origin.M.csv',
+#          'EW1': 'EW1_SDG.csv',
+#          'EW2': 'EW2_SDG.csv',
+#          'GB1': 'GB1_SDG.csv',
+#          'GB2': 'GB2_SDG.csv',
+#          'GB3': 'GB3_origin.M.csv',
+#          'GE1': 'GE1.csv',
+#          'GE2': 'GE2.csv',
+#          'GE3': 'GE3.csv',
+#          'GJ1': 'GJ1_origin.M.csv',
+#          'GN1': 'GN1_origin.M.csv',
+#          'GT1': 'GT1_origin.M.csv',
+#          'GV1': 'GV1_WB.csv',
+#          'ME1': 'ME1_origin.M.csv',
+#          #'ME1': 'ME1_SDG.csv',
+#          'ME2': 'ME2_origin.M.csv',
+#          'SE1': 'SE1.csv',
+#          'SE2': 'SE2_SDG.csv',
+#          'SE3': 'SE3_SDG.csv',
+#          'SL1': 'SL1_origin.M.csv',
+#          'SL2': 'SL2_origin.M.csv',
+#          'SP1': 'SP1_SDG.csv',
+#          #'SP2': 'SP2_origin.M.csv',
+#          'SP2': 'SP2_SDG.csv',
+#          'SP3': 'SP3_SDG.csv'
+#          }
 
 files = {'AB1': 'AB1_SDG.csv',
          'AB2': 'AB2_SDG.csv',
-         'AB3': 'AB3.csv',
+         'AB3': 'AB3_origin.M.csv',
          'BE1': 'BE1.csv',
          'BE2': 'BE2_WB.csv',
          'BE3': 'BE3_SDG.csv',
@@ -20,11 +61,13 @@ files = {'AB1': 'AB1_SDG.csv',
          'CV3': 'CV3_WB.csv',
          'EE1': 'EE1_SDG.csv',
          'EE2': 'EE2_SDG.csv',
+         'EE3': 'EE3_origin.M.csv',
          'EQ1': "EQ1_WB.csv",
          'EQ2': 'EQ2_origin.M.csv',
          'EQ3': 'EQ3_origin.M.csv',
          'EW1': 'EW1_SDG.csv',
          'EW2': 'EW2_SDG.csv',
+         'EW3': 'EW3_SDG.csv',
          'GB1': 'GB1_SDG.csv',
          'GB2': 'GB2_SDG.csv',
          'GB3': 'GB3_origin.M.csv',
@@ -32,20 +75,25 @@ files = {'AB1': 'AB1_SDG.csv',
          'GE2': 'GE2.csv',
          'GE3': 'GE3.csv',
          'GJ1': 'GJ1_origin.M.csv',
+         #'GJ2': 'GJ2_SDG.csv',
+         'GJ2': 'GJ2_SDGbis.csv',
          'GN1': 'GN1_origin.M.csv',
+         #'GN2': 'GN2_SDG.csv',
+         'GN2': 'GN2_origin.M.csv',
          'GT1': 'GT1_origin.M.csv',
-         'EST': 'EST_origin.M.csv',
+         'GT2': 'GT2_origin.M.csv',
          'GV1': 'GV1_WB.csv',
+         'GV2': 'GV2_SDG.csv',
          'ME1': 'ME1_origin.M.csv',
-         #'ME1': 'ME1_SDG.csv',
          'ME2': 'ME2_origin.M.csv',
+         'ME3': 'ME3_origin.M.csv',
          'SE1': 'SE1.csv',
          'SE2': 'SE2_SDG.csv',
          'SE3': 'SE3_SDG.csv',
          'SL1': 'SL1_origin.M.csv',
          'SL2': 'SL2_origin.M.csv',
+         'SL3': 'SL3_origin.M.csv',
          'SP1': 'SP1_SDG.csv',
-         #'SP2': 'SP2_origin.M.csv',
          'SP2': 'SP2_SDG.csv',
          'SP3': 'SP3_SDG.csv'
          }
@@ -103,7 +151,7 @@ def compute_index(save=False):
     try:
         path = 'data/full_data/result.csv'
         df = format_df_for_computation(df)
-        data = compute_index_from_df(df, save)
+        data = compute_index_from_df(df, save).query("ISO not in ['ATA', 'BVT']") # To move in a proper post processing module or directly in the coco module
         data.to_csv(path, index=False)
 
         print(f'saving at {path}')

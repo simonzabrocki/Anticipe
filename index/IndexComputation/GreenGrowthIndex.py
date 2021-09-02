@@ -1,10 +1,14 @@
+# Preprocessor should include scaling, having two objects make it unconvinent  
+
 import pandas as pd
 import numpy as np
 from index.utils import ISO_to_Everything, geometric_mean
 from index.GreenGrowthStuff import GreenGrowthStuff
+
 CAPPING_PRIOR_NORMALIZATION = ['EE1', 'EW2', 'ME2', 'EQ1', 'EQ2', 'EQ3', 'GE1',
-                               'GE2', 'GE3', 'GV1', 'SE2',
+                               'GE2', 'GE3', 'GV1', 'SE2', 'SL1'
                                ]
+
 
 
 class GreenGrowthIndex(GreenGrowthStuff):
@@ -35,6 +39,8 @@ class GreenGrowthIndex(GreenGrowthStuff):
         """
         Performs the whole pipeline to compute the Green Growth Index
         Saves the intermediate steps into the class attributes
+
+        Need to extract the normalization step to be able to do it oustide of the index
         Parameters
         ----------
         indicators : pd.DataFrame
@@ -70,13 +76,13 @@ class GreenGrowthIndex(GreenGrowthStuff):
         # Aggregating dimensions into the green growth index
         Index = DimensionsAggregation().compute(dimensions)
 
-        self.indicators = indicators.round(2)
+        self.indicators = indicators#.round(2)
         self.statistics = statistics
-        self.indicators_normed = indicators_normed.round(2)
+        self.indicators_normed = indicators_normed#.round(2)
         self.sustainability_targets = sustainability_targets
-        self.categories = categories.round(2)
-        self.dimensions = dimensions.round(2)
-        self.Index = pd.DataFrame(Index, columns=['Index']).round(2)
+        self.categories = categories#.round(2)
+        self.dimensions = dimensions#.round(2)
+        self.Index = pd.DataFrame(Index, columns=['Index'])#.round(2)
 
         return self
 

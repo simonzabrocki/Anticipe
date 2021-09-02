@@ -4,7 +4,7 @@ import json
 from datetime import date
 import wbdata
 from colorama import Fore, init
-
+import pandas as pd
 
 class Downloader(metaclass=abc.ABCMeta):
     '''

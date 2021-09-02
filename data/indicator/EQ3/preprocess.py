@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def process_EQ3():
+def preprocess():
     df = pd.read_csv("data/indicator/EQ3/raw/EQ3_WB.M.csv")
 
     df = df[[
@@ -23,3 +23,10 @@ def process_EQ3():
     })
 
     return df
+
+
+config = {'Variable': 'EQ3',
+              'function': preprocess,
+              'Description': 'Municipal solid waste (MSW) generation per capita tons per capita',
+              'Source': 'World Bank What a Waste database',
+              'URL': 'https://datacatalog.worldbank.org/dataset/what-waste-global-database'}

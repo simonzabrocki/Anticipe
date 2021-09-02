@@ -10,12 +10,12 @@ import pandas as pd
 
 
 
-def process_SL1():
+def preprocess():
     df = pd.read_csv('data/indicator/SL1/raw/SL1_FAO.M.csv').query("Element == 'Cropland nutrient flow per unit area'")
     df = df.drop(columns=['Domain', 'Domain Code', 'Area Code (FAO)', 'Element Code',
                           'Item Code', 'Year Code', 'Flag', 'Flag Description', 'Unit', 'Element'])
     
-    pivoted = df.pivot(index=['Area', 'Year'], columns='Item', values='Value')
+    pivoted = df.pivot(index=['Area', 'Year'], columns='Item', values='Value')#.fillna(0)
 
     NB = pivoted['Synthetic Fertilizers'] \
         + pivoted['Manure applied to Soils'] \
@@ -28,10 +28,15 @@ def process_SL1():
     NB['Value'] = abs(NB['Value'])
 
     
-    NB[NB['Value'] < 0] = 5 - NB[NB['Value'] < 0]  # mirror
+    NB[NB['Value'] < 0] = 5 - NB[NB['Value'] < 0]  # mirror ???
     return NB
 
 
+config = {'Variable': 'SL1',
+             'function': preprocess,
+             'Description': 'Nutrient balance per unit area',
+             'Source': 'FAO',
+             'URL': 'http://fenix.fao.org/faostat/internal/en/#data/ESB'}
 
 # def process_SL1():
 

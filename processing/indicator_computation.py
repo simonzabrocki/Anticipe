@@ -7,9 +7,7 @@ from data.indicator.GB2.process import GB2_WB_computation_config, GB2_SDG_comput
 from data.indicator.BE1.process import BE1_computation_config
 from data.indicator.SE2.process import SE2_WB_computation_config, SE2_SDG_computation_config
 from data.indicator.SE1.process import SE1_computation_config
-from data.indicator.AB3.process import AB3_computation_config
-from data.indicator.AB2.process import AB2_SDG_computation_config, AB2_WB_computation_config
-from data.indicator.AB1.process import AB1_SDG_computation_config, AB1_WB_computation_config
+from data.indicator.AB1.process import AB1_SDG_computation_config
 
 
 indicators_computations = {
@@ -20,9 +18,7 @@ indicators_computations = {
     'BE1': [('BE1.csv', BE1_computation_config)],
     'SE2': [('SE2_WB.csv', SE2_WB_computation_config), ('SE2_SDG.csv', SE2_SDG_computation_config)],
     'SE1': [('SE1.csv', SE1_computation_config)],
-    'AB3': [('AB3.csv', AB3_computation_config)],
-    'AB2': [('AB2_SDG.csv', AB2_SDG_computation_config), ('AB2_WB.csv', AB2_WB_computation_config)],
-    'AB1': [('AB1_SDG.csv', AB1_SDG_computation_config), ('AB1_WB.csv', AB1_WB_computation_config)],
+    'AB1': [('AB1_SDG.csv', AB1_SDG_computation_config)],
 }
 
 

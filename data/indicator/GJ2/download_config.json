@@ -1,0 +1,11 @@
+{
+    "SDG": [
+        {
+            "GGI_code": "GJ2",
+            "params": {
+                "dimensions": "[{name:'Age',values:['15+']}, {name:'Sex',values:['BOTHSEX']}]",
+                "seriesCode": "SI_POV_EMP1"
+            }
+        }
+    ]
+}

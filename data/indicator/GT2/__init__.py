@@ -1,0 +1,1 @@
+from data.indicator.GT2.preprocess import config
