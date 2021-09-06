@@ -173,13 +173,20 @@ def make_indicator_correlation_matrix():
     return None
 
 
-def make_normed_indicator_historgrams():
-    data = (
-        pd.read_csv('data/full_data/result.csv')
-          .query("Aggregation in ['Indicator_normed'] and Year == 2020")
-          .sort_values(by='Variable').dropna()
+def make_indicator_correlation_matrix():
+    data = pd.read_csv('data/full_data/result.csv')
+    IND_CAT_DIM = GreenGrowthStuff().IND_CAT_DIM
+    plot_df = (
+        data.query("Aggregation == 'Indicator' and Year == 2020 ")
+             .merge(IND_CAT_DIM, left_on='Variable', right_on='Indicator')
     )
-
-    sns.displot(data=data, x="Value", col="Variable", kind="hist", col_wrap=3)
     
-    plt.savefig('plots/indicator_normed_histogram.png')
+    
+    for dim in ['ESRU', 'NCP', 'GEO', 'SI']:
+        
+        corr = plot_df.query('Dimension == @dim').pivot(index=['ISO', 'Year'], columns=['Variable'], values='Value').corr()
+        fig, ax = plt.subplots(figsize=(10, 10))
+        sns.heatmap(corr, annot=False, center=0, linewidths=.01, ax=ax, cmap='coolwarm')
+        plt.savefig(f'plots/{dim}_indicator_corrmatrix.png')
+    return None
+
