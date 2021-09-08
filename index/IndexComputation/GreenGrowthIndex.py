@@ -338,7 +338,7 @@ class IndicatorsAggregation(GreenGrowthStuff):
         select_1 = missing_values[n_indicators_per_cat[(n_indicators_per_cat > 2)].index] <= 1
 
         # Categories with 2 indicators (0 missing values)
-        select_2 = missing_values[n_indicators_per_cat[(n_indicators_per_cat == 2)].index] == 0
+        select_2 = missing_values[n_indicators_per_cat[(n_indicators_per_cat == 2)].index] == 0 #<= 1 # == 0 1 test if one missing value is good
 
         # Categories with 1 indicators (do nothing, will be filtered at next stage)
         select_3 = missing_values[n_indicators_per_cat[(n_indicators_per_cat == 1)].index] >= 0
