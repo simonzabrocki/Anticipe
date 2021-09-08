@@ -245,9 +245,9 @@ BRA,2011,ME3,Average of food loss to production and food waste to consumption,FA
 BRA,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.72068394145196,False,Brazil
 BRA,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.72068394145196,False,Brazil
 BRA,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.72068394145196,False,Brazil
-BRA,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.749022606771556,True,Brazil
-BRA,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.749022606771556,True,Brazil
-BRA,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.777361272091152,False,Brazil
+BRA,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.749022606771554,True,Brazil
+BRA,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.749022606771554,True,Brazil
+BRA,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.777361272091149,False,Brazil
 BRA,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.546462886820333,False,Brazil
 BRA,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.546462886820333,False,Brazil
 BRA,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.546462886820333,False,Brazil
@@ -323,18 +323,18 @@ CHL,2017,ME3,Average of food loss to production and food waste to consumption,FA
 CHL,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.183200671691894,False,Chile
 CHL,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.183200671691894,False,Chile
 CHL,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.183200671691894,False,Chile
-CHN,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.006084838626393,False,China
-CHN,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.006084838626393,False,China
-CHN,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.006084838626393,False,China
-CHN,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.006084838626393,False,China
-CHN,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.006084838626393,False,China
-CHN,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.006084838626393,False,China
-CHN,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,9.99003209988558,True,China
-CHN,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,9.973979361144767,False,China
+CHN,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.00608483862639,False,China
+CHN,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.00608483862639,False,China
+CHN,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.00608483862639,False,China
+CHN,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.00608483862639,False,China
+CHN,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.00608483862639,False,China
+CHN,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.00608483862639,False,China
+CHN,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,9.990032099885576,True,China
+CHN,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,9.973979361144764,False,China
 CHN,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,9.90966733944478,False,China
-CHN,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,9.654731561013907,False,China
-CHN,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,9.654731561013907,False,China
-CHN,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,9.654731561013907,False,China
+CHN,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,9.654731561013906,False,China
+CHN,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,9.654731561013906,False,China
+CHN,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,9.654731561013906,False,China
 CIV,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.95838415289331,False,Cote d'Ivoire
 CIV,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.95838415289331,False,Cote d'Ivoire
 CIV,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.95838415289331,False,Cote d'Ivoire
@@ -371,15 +371,15 @@ COG,2017,ME3,Average of food loss to production and food waste to consumption,FA
 COG,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,20.18000309691081,False,Congo Republic
 COG,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,20.18000309691081,False,Congo Republic
 COG,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,20.18000309691081,False,Congo Republic
-COL,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.468088284173318,False,Colombia
-COL,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.468088284173318,False,Colombia
-COL,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.468088284173318,False,Colombia
-COL,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.468088284173318,False,Colombia
-COL,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.468088284173318,False,Colombia
-COL,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.468088284173318,False,Colombia
+COL,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.46808828417332,False,Colombia
+COL,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.46808828417332,False,Colombia
+COL,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.46808828417332,False,Colombia
+COL,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.46808828417332,False,Colombia
+COL,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.46808828417332,False,Colombia
+COL,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.46808828417332,False,Colombia
 COL,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.06746624841045,False,Colombia
 COL,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.925203595685351,False,Colombia
-COL,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.740577045953144,False,Colombia
+COL,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.740577045953149,False,Colombia
 COL,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.681988097424844,False,Colombia
 COL,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.681988097424844,False,Colombia
 COL,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.681988097424844,False,Colombia
@@ -402,11 +402,11 @@ CPV,2012,ME3,Average of food loss to production and food waste to consumption,FA
 CPV,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.34792408325989,False,Cabo Verde
 CPV,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.34792408325989,False,Cabo Verde
 CPV,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.376220051501235,True,Cabo Verde
-CPV,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.404516019742577,False,Cabo Verde
+CPV,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.40451601974258,False,Cabo Verde
 CPV,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.55276189831768,False,Cabo Verde
-CPV,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.495626040657204,False,Cabo Verde
-CPV,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.495626040657204,False,Cabo Verde
-CPV,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.495626040657204,False,Cabo Verde
+CPV,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.495626040657207,False,Cabo Verde
+CPV,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.495626040657207,False,Cabo Verde
+CPV,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.495626040657207,False,Cabo Verde
 CRI,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.029882695013615,False,Costa Rica
 CRI,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.029882695013615,False,Costa Rica
 CRI,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.029882695013615,False,Costa Rica
@@ -431,18 +431,18 @@ CUB,2017,ME3,Average of food loss to production and food waste to consumption,FA
 CUB,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.337329448348086,False,Cuba
 CUB,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.337329448348086,False,Cuba
 CUB,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.337329448348086,False,Cuba
-CYP,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207878,False,Cyprus
-CYP,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207878,False,Cyprus
-CYP,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207878,False,Cyprus
-CYP,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207878,False,Cyprus
-CYP,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207878,False,Cyprus
-CYP,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.478097341207878,False,Cyprus
-CYP,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.478097341207878,True,Cyprus
-CYP,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.478097341207878,True,Cyprus
-CYP,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.568568114068862,False,Cyprus
-CYP,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.558213457710629,False,Cyprus
-CYP,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.558213457710629,False,Cyprus
-CYP,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.558213457710629,False,Cyprus
+CYP,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207874,False,Cyprus
+CYP,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207874,False,Cyprus
+CYP,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207874,False,Cyprus
+CYP,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207874,False,Cyprus
+CYP,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.478097341207874,False,Cyprus
+CYP,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.478097341207874,False,Cyprus
+CYP,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.478097341207874,True,Cyprus
+CYP,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.478097341207874,True,Cyprus
+CYP,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.56856811406886,False,Cyprus
+CYP,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.558213457710623,False,Cyprus
+CYP,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.558213457710623,False,Cyprus
+CYP,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.558213457710623,False,Cyprus
 CZE,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,9.14715403088064,False,Czech Republic
 CZE,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,9.14715403088064,False,Czech Republic
 CZE,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,9.14715403088064,False,Czech Republic
@@ -455,18 +455,18 @@ CZE,2017,ME3,Average of food loss to production and food waste to consumption,FA
 CZE,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,8.752503163572122,False,Czech Republic
 CZE,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,8.752503163572122,False,Czech Republic
 CZE,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,8.752503163572122,False,Czech Republic
-DEU,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.799295858889421,False,Germany
-DEU,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.799295858889421,False,Germany
-DEU,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.799295858889421,False,Germany
-DEU,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.799295858889421,False,Germany
-DEU,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.799295858889421,False,Germany
-DEU,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.799295858889421,False,Germany
-DEU,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.819509942807301,False,Germany
-DEU,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.809402900848361,True,Germany
-DEU,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.9308530324187325,False,Germany
-DEU,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.70357754632405,False,Germany
-DEU,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.70357754632405,False,Germany
-DEU,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.70357754632405,False,Germany
+DEU,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.79929585888942,False,Germany
+DEU,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.79929585888942,False,Germany
+DEU,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.79929585888942,False,Germany
+DEU,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.79929585888942,False,Germany
+DEU,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.79929585888942,False,Germany
+DEU,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.79929585888942,False,Germany
+DEU,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.819509942807299,False,Germany
+DEU,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.80940290084836,True,Germany
+DEU,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.930853032418731,False,Germany
+DEU,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.703577546324048,False,Germany
+DEU,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.703577546324048,False,Germany
+DEU,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.703577546324048,False,Germany
 DJI,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.640399937809136,False,Djibouti
 DJI,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.640399937809136,False,Djibouti
 DJI,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.640399937809136,False,Djibouti
@@ -499,18 +499,18 @@ DNK,2013,ME3,Average of food loss to production and food waste to consumption,FA
 DNK,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.168135817956411,False,Denmark
 DNK,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.112963975116784,False,Denmark
 DNK,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.115448234595071,True,Denmark
-DNK,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.117932494073358,False,Denmark
-DNK,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.928865441842005,False,Denmark
-DNK,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.928865441842005,False,Denmark
-DNK,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.928865441842005,False,Denmark
+DNK,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.117932494073356,False,Denmark
+DNK,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.928865441842,False,Denmark
+DNK,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.928865441842,False,Denmark
+DNK,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.928865441842,False,Denmark
 DOM,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.517643387110391,False,Dominican Republic
 DOM,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.517643387110391,False,Dominican Republic
 DOM,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.517643387110391,False,Dominican Republic
 DOM,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.517643387110391,False,Dominican Republic
 DOM,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.517643387110391,False,Dominican Republic
 DOM,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.517643387110391,False,Dominican Republic
-DOM,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.226220034353778,False,Dominican Republic
-DOM,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.840912811251416,False,Dominican Republic
+DOM,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.22622003435378,False,Dominican Republic
+DOM,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.84091281125142,False,Dominican Republic
 DOM,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.522165417517218,False,Dominican Republic
 DOM,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.126404087340276,False,Dominican Republic
 DOM,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.126404087340276,False,Dominican Republic
@@ -527,15 +527,15 @@ DZA,2017,ME3,Average of food loss to production and food waste to consumption,FA
 DZA,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.425046414518327,False,Algeria
 DZA,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.425046414518327,False,Algeria
 DZA,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.425046414518327,False,Algeria
-ECU,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.16372338353214,False,Ecuador
-ECU,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.16372338353214,False,Ecuador
-ECU,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.16372338353214,False,Ecuador
-ECU,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.16372338353214,False,Ecuador
-ECU,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.16372338353214,False,Ecuador
-ECU,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.16372338353214,False,Ecuador
+ECU,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.163723383532137,False,Ecuador
+ECU,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.163723383532137,False,Ecuador
+ECU,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.163723383532137,False,Ecuador
+ECU,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.163723383532137,False,Ecuador
+ECU,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.163723383532137,False,Ecuador
+ECU,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.163723383532137,False,Ecuador
 ECU,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.235273781636113,True,Ecuador
-ECU,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.388116341624706,True,Ecuador
-ECU,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.488812897130206,True,Ecuador
+ECU,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.388116341624704,True,Ecuador
+ECU,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.488812897130202,True,Ecuador
 ECU,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,14.508217290751087,False,Ecuador
 ECU,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.508217290751087,False,Ecuador
 ECU,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.508217290751087,False,Ecuador
@@ -570,11 +570,11 @@ EST,2012,ME3,Average of food loss to production and food waste to consumption,FA
 EST,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,6.861782862412904,False,Estonia
 EST,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,6.861782862412904,False,Estonia
 EST,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,6.861782862412904,True,Estonia
-EST,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.200814144690605,False,Estonia
-EST,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.205055580812433,False,Estonia
-EST,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.3911971387380895,False,Estonia
-EST,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.3911971387380895,False,Estonia
-EST,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.3911971387380895,False,Estonia
+EST,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.2008141446906055,False,Estonia
+EST,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.205055580812434,False,Estonia
+EST,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.391197138738091,False,Estonia
+EST,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.391197138738091,False,Estonia
+EST,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.391197138738091,False,Estonia
 ETH,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,24.433218862863963,False,Ethiopia
 ETH,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,24.433218862863963,False,Ethiopia
 ETH,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,24.433218862863963,False,Ethiopia
@@ -740,9 +740,9 @@ GTM,2014,ME3,Average of food loss to production and food waste to consumption,FA
 GTM,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.47184217224939,False,Guatemala
 GTM,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.176289789165363,False,Guatemala
 GTM,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.68582822318344,False,Guatemala
-GTM,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.622119097993366,False,Guatemala
-GTM,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.622119097993366,False,Guatemala
-GTM,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.622119097993366,False,Guatemala
+GTM,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.62211909799337,False,Guatemala
+GTM,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.62211909799337,False,Guatemala
+GTM,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.62211909799337,False,Guatemala
 GUY,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.965533267310084,False,Guyana
 GUY,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.965533267310084,False,Guyana
 GUY,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.965533267310084,False,Guyana
@@ -773,36 +773,36 @@ HND,2011,ME3,Average of food loss to production and food waste to consumption,FA
 HND,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.481952583869614,False,Honduras
 HND,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.481952583869614,False,Honduras
 HND,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.481952583869614,False,Honduras
-HND,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.66739371899545,False,Honduras
-HND,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.745465075355146,False,Honduras
+HND,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.667393718995452,False,Honduras
+HND,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.74546507535515,False,Honduras
 HND,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.567280179343133,False,Honduras
 HND,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.36823252505122,False,Honduras
 HND,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.36823252505122,False,Honduras
 HND,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.36823252505122,False,Honduras
-HRV,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.87987329451684,False,Croatia
-HRV,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.87987329451684,False,Croatia
-HRV,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.87987329451684,False,Croatia
-HRV,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.87987329451684,False,Croatia
-HRV,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.87987329451684,False,Croatia
-HRV,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.87987329451684,False,Croatia
-HRV,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.549893433964794,False,Croatia
-HRV,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.439065653074366,False,Croatia
-HRV,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.407172988100092,False,Croatia
-HRV,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.030795800798328,False,Croatia
-HRV,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.030795800798328,False,Croatia
-HRV,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.030795800798328,False,Croatia
-HTI,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271987,False,Haiti
-HTI,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271987,False,Haiti
-HTI,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271987,False,Haiti
-HTI,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271987,False,Haiti
-HTI,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271987,False,Haiti
-HTI,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,22.500161938271987,False,Haiti
-HTI,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,22.260788580445094,False,Haiti
+HRV,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.879873294516845,False,Croatia
+HRV,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.879873294516845,False,Croatia
+HRV,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.879873294516845,False,Croatia
+HRV,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.879873294516845,False,Croatia
+HRV,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.879873294516845,False,Croatia
+HRV,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.879873294516845,False,Croatia
+HRV,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.549893433964796,False,Croatia
+HRV,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.439065653074367,False,Croatia
+HRV,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.407172988100095,False,Croatia
+HRV,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.03079580079833,False,Croatia
+HRV,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.03079580079833,False,Croatia
+HRV,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,10.03079580079833,False,Croatia
+HTI,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271983,False,Haiti
+HTI,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271983,False,Haiti
+HTI,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271983,False,Haiti
+HTI,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271983,False,Haiti
+HTI,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,22.500161938271983,False,Haiti
+HTI,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,22.500161938271983,False,Haiti
+HTI,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,22.26078858044509,False,Haiti
 HTI,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,22.15581597826044,False,Haiti
-HTI,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.95169212745662,False,Haiti
-HTI,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.96650782092244,False,Haiti
-HTI,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.96650782092244,False,Haiti
-HTI,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.96650782092244,False,Haiti
+HTI,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.951692127456617,False,Haiti
+HTI,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.966507820922438,False,Haiti
+HTI,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.966507820922438,False,Haiti
+HTI,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.966507820922438,False,Haiti
 HUN,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.471979313157256,False,Hungary
 HUN,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.471979313157256,False,Hungary
 HUN,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.471979313157256,False,Hungary
@@ -917,9 +917,9 @@ JAM,2011,ME3,Average of food loss to production and food waste to consumption,FA
 JAM,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,13.194340640187786,False,Jamaica
 JAM,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,13.194340640187786,False,Jamaica
 JAM,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.194340640187786,False,Jamaica
-JAM,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.222143767057986,False,Jamaica
+JAM,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.22214376705799,False,Jamaica
 JAM,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.24041699546699,False,Jamaica
-JAM,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.259135680681812,False,Jamaica
+JAM,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.259135680681814,False,Jamaica
 JAM,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.041021377772656,False,Jamaica
 JAM,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,13.041021377772656,False,Jamaica
 JAM,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,13.041021377772656,False,Jamaica
@@ -967,10 +967,10 @@ KEN,2013,ME3,Average of food loss to production and food waste to consumption,FA
 KEN,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,19.75529440838923,False,Kenya
 KEN,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,19.656269182734377,True,Kenya
 KEN,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,19.345348831698985,True,Kenya
-KEN,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.74238895037159,True,Kenya
-KEN,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.351324194424738,False,Kenya
-KEN,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.351324194424738,False,Kenya
-KEN,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.351324194424738,False,Kenya
+KEN,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.742388950371588,True,Kenya
+KEN,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.35132419442473,False,Kenya
+KEN,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.35132419442473,False,Kenya
+KEN,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.35132419442473,False,Kenya
 KGZ,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.923072876349469,False,Kyrgyz Republic
 KGZ,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.923072876349469,False,Kyrgyz Republic
 KGZ,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.923072876349469,False,Kyrgyz Republic
@@ -1151,18 +1151,18 @@ LVA,2017,ME3,Average of food loss to production and food waste to consumption,FA
 LVA,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,8.584345969666181,False,Latvia
 LVA,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,8.584345969666181,False,Latvia
 LVA,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,8.584345969666181,False,Latvia
-MAC,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macao
-MAC,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macao
-MAC,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macao
-MAC,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macao
-MAC,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macao
-MAC,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.295785648008083,False,Macao
-MAC,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.295785648008083,True,Macao
-MAC,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.312213174591705,True,Macao
-MAC,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.163382267505057,False,Macao
-MAC,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.11147275280764,False,Macao
-MAC,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,13.11147275280764,False,Macao
-MAC,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,13.11147275280764,False,Macao
+MAC,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macau
+MAC,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macau
+MAC,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macau
+MAC,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macau
+MAC,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.295785648008083,False,Macau
+MAC,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.295785648008083,False,Macau
+MAC,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.295785648008083,True,Macau
+MAC,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.312213174591705,True,Macau
+MAC,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.163382267505057,False,Macau
+MAC,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,13.11147275280764,False,Macau
+MAC,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,13.11147275280764,False,Macau
+MAC,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,13.11147275280764,False,Macau
 MAR,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.848749292254343,False,Morocco
 MAR,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.848749292254343,False,Morocco
 MAR,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,14.848749292254343,False,Morocco
@@ -1475,18 +1475,18 @@ OMN,2017,ME3,Average of food loss to production and food waste to consumption,FA
 OMN,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.876963325693076,False,Oman
 OMN,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.876963325693076,False,Oman
 OMN,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.876963325693076,False,Oman
-PAK,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.53159703468554,False,Pakistan
-PAK,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.53159703468554,False,Pakistan
-PAK,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.53159703468554,False,Pakistan
-PAK,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.53159703468554,False,Pakistan
-PAK,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.53159703468554,False,Pakistan
-PAK,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.53159703468554,False,Pakistan
-PAK,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.025130024545174,False,Pakistan
-PAK,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,15.642146841395034,False,Pakistan
-PAK,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,15.006647946329396,False,Pakistan
-PAK,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,15.282514741321902,False,Pakistan
-PAK,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,15.282514741321902,False,Pakistan
-PAK,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,15.282514741321902,False,Pakistan
+PAK,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.531597034685543,False,Pakistan
+PAK,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.531597034685543,False,Pakistan
+PAK,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.531597034685543,False,Pakistan
+PAK,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.531597034685543,False,Pakistan
+PAK,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.531597034685543,False,Pakistan
+PAK,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.531597034685543,False,Pakistan
+PAK,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.025130024545177,False,Pakistan
+PAK,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,15.642146841395036,False,Pakistan
+PAK,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,15.006647946329398,False,Pakistan
+PAK,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,15.282514741321904,False,Pakistan
+PAK,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,15.282514741321904,False,Pakistan
+PAK,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,15.282514741321904,False,Pakistan
 PAN,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.907806898165983,False,Panama
 PAN,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.907806898165983,False,Panama
 PAN,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.907806898165983,False,Panama
@@ -1547,15 +1547,15 @@ POL,2017,ME3,Average of food loss to production and food waste to consumption,FA
 POL,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,7.345899065797195,False,Poland
 POL,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.345899065797195,False,Poland
 POL,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,7.345899065797195,False,Poland
-PRK,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971134,False,North Korea
-PRK,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971134,False,North Korea
-PRK,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971134,False,North Korea
-PRK,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971134,False,North Korea
-PRK,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971134,False,North Korea
-PRK,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.435376532971134,False,North Korea
-PRK,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.435376532971134,True,North Korea
-PRK,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.533110559214315,False,North Korea
-PRK,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.52380717654018,False,North Korea
+PRK,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971137,False,North Korea
+PRK,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971137,False,North Korea
+PRK,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971137,False,North Korea
+PRK,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971137,False,North Korea
+PRK,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.435376532971137,False,North Korea
+PRK,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.435376532971137,False,North Korea
+PRK,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.435376532971137,True,North Korea
+PRK,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.533110559214318,False,North Korea
+PRK,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.523807176540185,False,North Korea
 PRK,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.52872209132571,False,North Korea
 PRK,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.52872209132571,False,North Korea
 PRK,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,17.52872209132571,False,North Korea
@@ -1589,9 +1589,9 @@ PYF,2011,ME3,Average of food loss to production and food waste to consumption,FA
 PYF,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.851116420948117,False,French Polynesia
 PYF,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.851116420948117,False,French Polynesia
 PYF,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.851116420948117,False,French Polynesia
-PYF,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.306346764708078,False,French Polynesia
+PYF,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.30634676470808,False,French Polynesia
 PYF,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.195192323329982,False,French Polynesia
-PYF,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.004025452485356,False,French Polynesia
+PYF,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.004025452485358,False,French Polynesia
 PYF,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,12.035679634111975,False,French Polynesia
 PYF,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.035679634111975,False,French Polynesia
 PYF,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,12.035679634111975,False,French Polynesia
@@ -1651,7 +1651,7 @@ SDN,2013,ME3,Average of food loss to production and food waste to consumption,FA
 SDN,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.81139736669005,False,Sudan
 SDN,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.81139736669005,True,Sudan
 SDN,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.72925145360921,True,Sudan
-SDN,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.586980525810436,True,Sudan
+SDN,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.586980525810432,True,Sudan
 SDN,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.526855511092503,False,Sudan
 SDN,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.526855511092503,False,Sudan
 SDN,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.526855511092503,False,Sudan
@@ -1841,9 +1841,9 @@ TJK,2011,ME3,Average of food loss to production and food waste to consumption,FA
 TJK,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.760688034754565,False,Tajikistan
 TJK,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.760688034754565,False,Tajikistan
 TJK,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.760688034754565,False,Tajikistan
-TJK,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.04170744347054,False,Tajikistan
-TJK,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.405041444559927,False,Tajikistan
-TJK,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.641260016147708,False,Tajikistan
+TJK,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,18.041707443470543,False,Tajikistan
+TJK,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,17.40504144455993,False,Tajikistan
+TJK,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.64126001614771,False,Tajikistan
 TJK,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,16.158031657100416,False,Tajikistan
 TJK,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.158031657100416,False,Tajikistan
 TJK,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,16.158031657100416,False,Tajikistan
@@ -1895,30 +1895,30 @@ TUN,2017,ME3,Average of food loss to production and food waste to consumption,FA
 TUN,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.977072264062125,False,Tunisia
 TUN,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.977072264062125,False,Tunisia
 TUN,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.977072264062125,False,Tunisia
-TUR,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.89196189642818,False,Turkey
-TUR,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.89196189642818,False,Turkey
-TUR,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.89196189642818,False,Turkey
-TUR,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.89196189642818,False,Turkey
-TUR,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.89196189642818,False,Turkey
-TUR,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.89196189642818,False,Turkey
-TUR,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.703289328288465,False,Turkey
+TUR,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.891961896428182,False,Turkey
+TUR,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.891961896428182,False,Turkey
+TUR,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.891961896428182,False,Turkey
+TUR,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.891961896428182,False,Turkey
+TUR,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.891961896428182,False,Turkey
+TUR,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.891961896428182,False,Turkey
+TUR,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.703289328288466,False,Turkey
 TUR,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.39050893567286,False,Turkey
 TUR,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,10.969336681313749,False,Turkey
 TUR,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,11.02692433597572,False,Turkey
 TUR,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.02692433597572,False,Turkey
 TUR,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,11.02692433597572,False,Turkey
-TZA,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.30412447829198,False,Tanzania
-TZA,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.30412447829198,False,Tanzania
-TZA,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.30412447829198,False,Tanzania
-TZA,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.30412447829198,False,Tanzania
-TZA,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.30412447829198,False,Tanzania
-TZA,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.30412447829198,False,Tanzania
-TZA,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.30412447829198,True,Tanzania
-TZA,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.13710732879588,True,Tanzania
-TZA,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,20.746922707002902,True,Tanzania
-TZA,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,20.080791879759964,False,Tanzania
-TZA,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,20.080791879759964,False,Tanzania
-TZA,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,20.080791879759964,False,Tanzania
+TZA,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.304124478291985,False,Tanzania
+TZA,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.304124478291985,False,Tanzania
+TZA,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.304124478291985,False,Tanzania
+TZA,2012,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.304124478291985,False,Tanzania
+TZA,2013,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,21.304124478291985,False,Tanzania
+TZA,2014,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.304124478291985,False,Tanzania
+TZA,2015,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.304124478291985,True,Tanzania
+TZA,2016,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,21.137107328795885,True,Tanzania
+TZA,2017,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,20.746922707002906,True,Tanzania
+TZA,2018,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,False,20.080791879759968,False,Tanzania
+TZA,2019,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,20.080791879759968,False,Tanzania
+TZA,2020,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,20.080791879759968,False,Tanzania
 UGA,2009,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.251606006518312,False,Uganda
 UGA,2010,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.251606006518312,False,Uganda
 UGA,2011,ME3,Average of food loss to production and food waste to consumption,FAO,http://www.fao.org/faostat/en/#data/SCL,MANUAL,True,18.251606006518312,False,Uganda
