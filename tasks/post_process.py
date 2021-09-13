@@ -158,19 +158,19 @@ def make_indicator_box_plots():
     return None
 
 
-def make_indicator_correlation_matrix():
-    data = pd.read_csv('data/full_data/result.csv')
-    IND_CAT_DIM = GreenGrowthStuff().IND_CAT_DIM
-    plot_df = (
-        data.query("Aggregation == 'Indicator' and Year == 2020 ")
-             .merge(IND_CAT_DIM, left_on='Variable', right_on='Indicator')
-    )
+# def make_indicator_correlation_matrix():
+#     data = pd.read_csv('data/full_data/result.csv')
+#     IND_CAT_DIM = GreenGrowthStuff().IND_CAT_DIM
+#     plot_df = (
+#         data.query("Aggregation == 'Indicator' and Year == 2020 ")
+#              .merge(IND_CAT_DIM, left_on='Variable', right_on='Indicator')
+#     )
     
-    corr = plot_df.pivot(index=['ISO', 'Year'], columns=['Variable'], values='Value').corr()
-    fig, ax = plt.subplots(figsize=(20, 20))
-    sns.heatmap(corr, annot=False, center=0, linewidths=.01, ax=ax, cmap='coolwarm')
-    plt.savefig('plots/indicator_corrmatrix.png')
-    return None
+#     corr = plot_df.pivot(index=['ISO', 'Year'], columns=['Variable'], values='Value').corr()
+#     fig, ax = plt.subplots(figsize=(20, 20))
+#     sns.heatmap(corr, annot=False, center=0, linewidths=.01, ax=ax, cmap='coolwarm')
+#     plt.savefig('plots/indicator_corrmatrix.png')
+#     return None
 
 
 def make_indicator_correlation_matrix():
