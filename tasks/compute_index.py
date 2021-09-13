@@ -136,7 +136,7 @@ def compute_index_from_df(df, save):
     return data
 
 
-def compute_index(save=False):
+def compute_index(save=True):
     print('Computing Index:')
 
     print('Collecting data:', end='')
