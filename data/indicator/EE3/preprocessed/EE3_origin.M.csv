@@ -1,166 +1,791 @@
-ISO,Value,Year,Variable,Description,Source,URL,From
-AFG,50.5,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ALB,66.12810834813499,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-DZA,61.46825044404973,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-AGO,52.63210479573711,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ARG,71.11767317939609,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ARM,64.9851243339254,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-AUS,90.10879218472468,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-AUT,96.15341918294848,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-AZE,11.96825044404973,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BHS,63.1607460035524,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BHR,72.17273534635879,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BGD,64.30373001776198,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BLR,64.25976909413855,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BEL,96.43916518650087,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BEN,68.10634991119005,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BTN,55.33570159857904,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BOL,59.49000888099467,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BIH,69.40319715808171,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BWA,49.84058614564831,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BRA,73.29373889875666,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BRN,67.16119005328596,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BGR,74.34880106571936,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BFA,65.27087033747779,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-BDI,53.027753108348136,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-KHM,64.34769094138544,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CMR,64.72135879218473,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CAN,89.58126110124334,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CAF,54.87411190053286,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-TCD,60.78685612788632,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CHL,80.56927175843694,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CHN,86.89964476021314,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-COL,72.32659857904085,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-COM,63.864120781527525,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-COD,61.02864120781527,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-COG,62.303507992895206,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CRI,69.02952930728242,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CIV,75.40386323268206,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-HRV,75.88743339253998,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CUB,55.95115452930728,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CYP,76.92051509769092,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CZE,88.54817939609237,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-DNK,95.40608348134992,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-DJI,65.57859680284191,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-DOM,66.17206927175843,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ECU,71.00777087033748,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-EGY,69.75488454706928,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SLV,64.28174955595026,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GNQ,58.61079040852575,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ERI,53.533303730017764,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-EST,80.45936944937833,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ETH,35.1576376554174,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-FJI,59.35812611012433,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-FIN,94.90053285968028,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-FRA,92.15297513321491,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GAB,55.18183836589698,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GMB,60.43516873889875,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GEO,61.35834813499112,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-DEU,100.0,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GHA,64.03996447602131,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GRC,78.10746003552399,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GTM,60.74289520426288,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GIN,56.03907637655417,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GNB,60.12744227353463,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GUY,59.49000888099467,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-HTI,54.082815275310836,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-HND,64.89720248667851,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-HUN,82.81127886323267,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ISL,78.54706927175843,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-IND,77.49200710479573,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-IDN,76.89853463587923,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-IRN,70.37033747779752,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-IRQ,55.489564831261106,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-IRL,84.81150088809946,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ISR,80.37144760213144,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ITA,89.84502664298401,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-JAM,63.02886323268206,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-JPN,96.15341918294848,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-JOR,66.74356127886324,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-KAZ,69.42517761989342,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-KEN,69.53507992895204,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-KOR,87.05350799289522,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-KWT,70.5461811722913,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-KGZ,63.62233570159857,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LAO,67.00732682060391,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LVA,69.42517761989342,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LBN,67.3809946714032,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LSO,57.709591474245116,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LBR,56.65452930728242,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LBY,53.950932504440495,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LTU,73.9971136767318,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LUX,87.44915630550622,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MDG,60.17140319715808,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MWI,64.5015541740675,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MYS,78.45914742451154,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MDV,66.2380106571936,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MLI,64.58947602131438,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MLT,69.51309946714032,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MRT,58.89653641207815,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MUS,67.73268206039077,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MEX,74.72246891651866,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MDA,61.644094138543515,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MNG,59.81971580817052,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MNE,68.01842806394316,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MAR,63.49045293072824,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MOZ,41.90563943161634,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MMR,58.1711811722913,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-NAM,43.24644760213144,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-NPL,62.89698046181172,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-NLD,95.99955595026643,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-NZL,92.85634991119005,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-NIC,38.54262877442274,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-NER,53.15963587921846,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-NGA,63.31460923623446,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-MKD,67.11722912966252,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-NOR,88.92184724689164,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-OMN,77.9316163410302,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-PAK,60.83081705150977,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-PAN,79.6680728241563,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-PNG,55.445603907637654,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-PRY,68.8097246891652,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-PER,66.85346358792185,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-PHL,71.49134103019537,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-POL,85.47091474245116,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-PRT,87.73490230905861,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-QAT,84.02020426287746,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ROU,76.21714031971581,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-RUS,68.26021314387211,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-RWA,73.05195381882771,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-STP,65.97424511545293,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SAU,73.84325044404974,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SEN,57.16007992895204,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SRB,70.10657193605684,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SLE,53.33547957371225,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SGP,95.49400532859681,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SVK,74.1949378330373,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SVN,80.5253108348135,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SLB,64.17184724689164,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SOM,56.214920071047956,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ZAF,81.86611900532858,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ESP,91.86722912966252,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-LKA,64.76531971580818,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SDN,61.02864120781527,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SWE,96.74689165186501,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-CHE,93.40586145648311,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-SYR,58.12722024866785,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-TJK,59.09436056838366,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-TZA,48.631660746003554,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-THA,82.6354351687389,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-TGO,61.44626998223801,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-TTO,60.764875666074595,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-TUN,64.14986678507992,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-TUR,76.81061278863231,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-TKM,60.63299289520426,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-UGA,64.25976909413855,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-UKR,69.86478685612789,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ARE,94.61478685612789,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-GBR,95.29618117229131,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-USA,93.05417406749555,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-URY,66.67761989342807,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-UZB,64.30373001776198,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-VEN,56.65452930728242,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-VNM,79.62411190053285,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-YEM,57.44582593250444,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ZMB,63.18272646536411,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
-ZWE,54.25865896980462,2020,EE3,Efficiency in sustainable transport,sum4all,https://www.sum4all.org/gra-tool/country-performance/global,MANUAL
+ISO,Year,Value,Variable,Description,Source,URL,From
+DEU,2018,4.201444,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SWE,2018,4.052905,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEL,2018,4.039084,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUT,2018,4.026005,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JPN,2018,4.02565,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NLD,2018,4.019269,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SGP,2018,3.996119,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DNK,2018,3.991859,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GBR,2018,3.987057,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FIN,2018,3.969148,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARE,2018,3.956437,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HKG,2018,3.920067,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHE,2018,3.901372,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+USA,2018,3.885129,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NZL,2018,3.875644,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FRA,2018,3.844475,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ESP,2018,3.831336,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUS,2018,3.751431,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ITA,2018,3.739152,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CAN,2018,3.726715,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NOR,2018,3.696623,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CZE,2018,3.68033,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRT,2018,3.643184,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LUX,2018,3.629998,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KOR,2018,3.612164,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHN,2018,3.605147,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TWN,2018,3.599722,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+POL,2018,3.539533,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRL,2018,3.510413,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+QAT,2018,3.474205,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HUN,2018,3.418764,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+THA,2018,3.411058,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAF,2018,3.37611,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHL,2018,3.317145,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVN,2018,3.31478,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EST,2018,3.311613,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISR,2018,3.307796,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAN,2018,3.275982,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VNM,2018,3.27398,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISL,2018,3.225014,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MYS,2018,3.220886,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GRC,2018,3.204561,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+OMN,2018,3.196838,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IND,2018,3.176569,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CYP,2018,3.150837,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IDN,2018,3.150061,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUR,2018,3.145809,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ROM,2018,3.118601,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HRV,2018,3.10409,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CIV,2018,3.082253,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MEX,2018,3.051375,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGR,2018,3.033965,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVK,2018,3.02713,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LTU,2018,3.017524,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SAU,2018,3.011041,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BRA,2018,2.98579,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RWA,2018,2.974757,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COL,2018,2.9416,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHR,2018,2.934817,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PHL,2018,2.903657,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARG,2018,2.886984,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ECU,2018,2.881649,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KWT,2018,2.861212,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRN,2018,2.852721,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SRB,2018,2.840953,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UKR,2018,2.830178,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EGY,2018,2.824902,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KEN,2018,2.814935,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLT,2018,2.813784,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LVA,2018,2.809949,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KAZ,2018,2.809936,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BIH,2018,2.808565,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CRI,2018,2.791664,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRY,2018,2.782299,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RUS,2018,2.756889,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEN,2018,2.749889,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNE,2018,2.745632,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MUS,2018,2.732952,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBN,2018,2.716853,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BRN,2018,2.706557,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MKD,2018,2.704895,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LAO,2018,2.70029,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PER,2018,2.693249,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JOR,2018,2.687973,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+URY,2018,2.685087,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDV,2018,2.665471,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DOM,2018,2.661765,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ALB,2018,2.659603,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+STP,2018,2.653207,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DJI,2018,2.634621,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BFA,2018,2.621464,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARM,2018,2.607607,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HND,2018,2.603918,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LKA,2018,2.597928,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CMR,2018,2.595547,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLI,2018,2.590265,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MWI,2018,2.585645,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KHM,2018,2.578608,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UZB,2018,2.577256,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGD,2018,2.576581,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLV,2018,2.575521,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UGA,2018,2.575405,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BLR,2018,2.574633,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLB,2018,2.57124,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUN,2018,2.569547,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GHA,2018,2.565348,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COM,2018,2.557098,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KGZ,2018,2.54609,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MAR,2018,2.539661,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NGA,2018,2.532085,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZMB,2018,2.526313,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHS,2018,2.525412,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JAM,2018,2.518664,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NPL,2018,2.513022,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COG,2018,2.485858,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDA,2018,2.455908,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DZA,2018,2.448071,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TGO,2018,2.447461,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GEO,2018,2.442824,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAR,2018,2.428379,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SDN,2018,2.427574,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAK,2018,2.419197,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TCD,2018,2.417437,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TTO,2018,2.415642,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GTM,2018,2.414617,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TKM,2018,2.409804,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GMB,2018,2.401189,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDG,2018,2.389411,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GNB,2018,2.387105,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNG,2018,2.373274,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BOL,2018,2.358376,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GUY,2018,2.358312,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FJI,2018,2.351727,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TJK,2018,2.339558,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MRT,2018,2.331071,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GNQ,2018,2.317643,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MMR,2018,2.297734,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SYR,2018,2.295541,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LSO,2018,2.277266,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+YEM,2018,2.265255,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SEN,2018,2.252378,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VEN,2018,2.229216,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBR,2018,2.229198,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SOM,2018,2.208677,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GIN,2018,2.200858,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CUB,2018,2.197159,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRQ,2018,2.176271,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PNG,2018,2.174101,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BTN,2018,2.16898,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GAB,2018,2.161902,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CAF,2018,2.148357,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZWE,2018,2.120121,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HTI,2018,2.112341,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBY,2018,2.106462,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ERI,2018,2.087142,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLE,2018,2.078033,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NER,2018,2.06995,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BDI,2018,2.063609,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AGO,2018,2.046158,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AFG,2018,1.948565,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DEU,2016,4.225967,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LUX,2016,4.219409,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SWE,2016,4.204593,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NLD,2016,4.18753,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SGP,2016,4.143632,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEL,2016,4.108538,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUT,2016,4.097985,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GBR,2016,4.069669,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HKG,2016,4.069103,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+USA,2016,3.992172,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHE,2016,3.987158,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JPN,2016,3.970464,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARE,2016,3.941767,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CAN,2016,3.930707,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FIN,2016,3.920745,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FRA,2016,3.900953,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DNK,2016,3.815794,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRL,2016,3.794886,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUS,2016,3.793385,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAF,2016,3.775321,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ITA,2016,3.755414,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NOR,2016,3.732163,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ESP,2016,3.727412,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KOR,2016,3.717126,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TWN,2016,3.697594,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CZE,2016,3.674309,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHN,2016,3.661104,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISR,2016,3.66033,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LTU,2016,3.631688,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+QAT,2016,3.599232,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HUN,2016,3.428968,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MYS,2016,3.426307,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+POL,2016,3.425877,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUR,2016,3.423693,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IND,2016,3.420043,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRT,2016,3.409367,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NZL,2016,3.388,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EST,2016,3.363489,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISL,2016,3.345605,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAN,2016,3.337843,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVK,2016,3.336895,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KEN,2016,3.331295,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LVA,2016,3.327107,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHR,2016,3.314021,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+THA,2016,3.2551,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHL,2016,3.248442,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GRC,2016,3.239516,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+OMN,2016,3.234308,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EGY,2016,3.184964,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVN,2016,3.184508,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HRV,2016,3.160829,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SAU,2016,3.156376,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KWT,2016,3.151619,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MEX,2016,3.114031,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BRA,2016,3.087984,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLT,2016,3.069256,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BWA,2016,3.045458,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UGA,2016,3.043284,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CYP,2016,2.999061,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ROM,2016,2.99312,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TZA,2016,2.990185,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RWA,2016,2.986229,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IDN,2016,2.984537,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VNM,2016,2.976629,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+URY,2016,2.974545,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARG,2016,2.962629,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JOR,2016,2.956611,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAK,2016,2.923219,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PER,2016,2.893389,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BRN,2016,2.870492,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PHL,2016,2.856259,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGR,2016,2.807685,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KHM,2016,2.80059,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ECU,2016,2.779081,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DZA,2016,2.769683,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SRB,2016,2.762577,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KAZ,2016,2.751998,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHS,2016,2.749937,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NAM,2016,2.744745,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UKR,2016,2.736683,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BFA,2016,2.73081,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBN,2016,2.717255,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLV,2016,2.705726,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MOZ,2016,2.684105,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GUY,2016,2.667018,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MAR,2016,2.665994,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGD,2016,2.663902,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GHA,2016,2.660931,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CRI,2016,2.64897,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NGA,2016,2.62809,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DOM,2016,2.62728,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TGO,2016,2.617778,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDA,2016,2.614269,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COL,2016,2.612351,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CIV,2016,2.602573,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRN,2016,2.601254,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BIH,2016,2.596254,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COM,2016,2.57914,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RUS,2016,2.570864,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NER,2016,2.561951,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRY,2016,2.561337,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NIC,2016,2.531062,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SDN,2016,2.530408,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDV,2016,2.513077,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PNG,2016,2.510624,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MKD,2016,2.510262,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BDI,2016,2.509776,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNG,2016,2.506056,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLI,2016,2.503073,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUN,2016,2.496688,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GTM,2016,2.476327,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HND,2016,2.462812,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MMR,2016,2.458571,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZMB,2016,2.429813,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEN,2016,2.428125,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLB,2016,2.417321,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ALB,2016,2.412498,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UZB,2016,2.404525,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JAM,2016,2.400214,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BLR,2016,2.399232,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TTO,2016,2.398418,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VEN,2016,2.39078,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNE,2016,2.380016,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NPL,2016,2.376783,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COG,2016,2.376768,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ETH,2016,2.376767,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAR,2016,2.375762,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GNB,2016,2.370681,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GIN,2016,2.35896,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GEO,2016,2.353013,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CUB,2016,2.346459,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SEN,2016,2.327711,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+STP,2016,2.325633,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DJI,2016,2.32254,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BTN,2016,2.321436,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FJI,2016,2.316186,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBY,2016,2.264495,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BOL,2016,2.251462,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AGO,2016,2.241183,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TKM,2016,2.211396,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARM,2016,2.205513,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBR,2016,2.203914,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GAB,2016,2.19165,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ERI,2016,2.171842,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TCD,2016,2.164453,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KGZ,2016,2.15593,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDG,2016,2.154639,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CMR,2016,2.151499,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRQ,2016,2.149902,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AFG,2016,2.141282,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZWE,2016,2.082408,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LAO,2016,2.067254,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TJK,2016,2.062743,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LSO,2016,2.025983,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLE,2016,2.025402,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GNQ,2016,1.87919,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MRT,2016,1.866001,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SOM,2016,1.747098,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HTI,2016,1.716096,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SYR,2016,1.598322,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DEU,2014,4.121983,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NLD,2014,4.047782,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEL,2014,4.04466,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GBR,2014,4.014649,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SGP,2014,4.004448,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SWE,2014,3.961349,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NOR,2014,3.958243,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LUX,2014,3.946726,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+USA,2014,3.917825,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JPN,2014,3.914618,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRL,2014,3.868014,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CAN,2014,3.855498,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FRA,2014,3.847305,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHE,2014,3.843969,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HKG,2014,3.826763,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUS,2014,3.810776,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DNK,2014,3.78252,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ESP,2014,3.718636,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TWN,2014,3.717205,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ITA,2014,3.691076,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KOR,2014,3.666238,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUT,2014,3.648587,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NZL,2014,3.643892,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FIN,2014,3.623035,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MYS,2014,3.590425,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRT,2014,3.560284,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARE,2014,3.539098,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHN,2014,3.531463,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+QAT,2014,3.516657,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUR,2014,3.500225,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+POL,2014,3.493829,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CZE,2014,3.492416,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HUN,2014,3.464438,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAF,2014,3.431244,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+THA,2014,3.42958,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LVA,2014,3.402789,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISL,2014,3.391863,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVN,2014,3.383272,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EST,2014,3.34592,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ROM,2014,3.261155,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISR,2014,3.260446,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHL,2014,3.255786,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVK,2014,3.254533,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GRC,2014,3.201602,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAN,2014,3.193734,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LTU,2014,3.178416,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGR,2014,3.157151,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VNM,2014,3.154763,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SAU,2014,3.148437,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MEX,2014,3.128319,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLT,2014,3.106275,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHR,2014,3.083116,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IDN,2014,3.081806,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IND,2014,3.080137,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HRV,2014,3.052949,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KWT,2014,3.0113,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PHL,2014,3.003844,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CYP,2014,3.000577,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+OMN,2014,2.995026,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARG,2014,2.986475,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UKR,2014,2.976444,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EGY,2014,2.965911,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SRB,2014,2.962556,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLV,2014,2.960467,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BRA,2014,2.943951,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHS,2014,2.910966,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNE,2014,2.87552,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JOR,2014,2.873924,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DOM,2014,2.860551,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JAM,2014,2.842494,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PER,2014,2.840685,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAK,2014,2.825426,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MWI,2014,2.813029,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KEN,2014,2.812079,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NGA,2014,2.808778,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VEN,2014,2.808111,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GTM,2014,2.797453,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRY,2014,2.779734,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CIV,2014,2.761981,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RWA,2014,2.759116,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BIH,2014,2.747618,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDV,2014,2.747544,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KHM,2014,2.741407,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+STP,2014,2.733896,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBN,2014,2.725805,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ECU,2014,2.710986,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CRI,2014,2.700719,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KAZ,2014,2.69942,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LKA,2014,2.695239,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RUS,2014,2.694479,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+URY,2014,2.678649,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARM,2014,2.672723,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NAM,2014,2.657883,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDA,2014,2.653311,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NIC,2014,2.653283,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DZA,2014,2.649451,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COL,2014,2.639637,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BFA,2014,2.6383,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BLR,2014,2.638168,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GHA,2014,2.626934,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SEN,2014,2.62217,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBR,2014,2.62,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HND,2014,2.607427,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ETH,2014,2.593625,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NPL,2014,2.587906,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLB,2014,2.587528,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BDI,2014,2.565735,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGD,2014,2.56334,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEN,2014,2.560822,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUN,2014,2.550996,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FJI,2014,2.545003,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AGO,2014,2.54298,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TCD,2014,2.52968,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TJK,2014,2.527419,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MUS,2014,2.514919,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GEO,2014,2.507491,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MKD,2014,2.499137,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBY,2014,2.496979,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLI,2014,2.495227,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BWA,2014,2.492775,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BOL,2014,2.480758,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GIN,2014,2.464191,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZMB,2014,2.462674,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GUY,2014,2.459132,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AZE,2014,2.448376,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PNG,2014,2.430098,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GNB,2014,2.426464,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COM,2014,2.402136,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UZB,2014,2.39477,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NER,2014,2.393399,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LAO,2014,2.389703,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDG,2014,2.382349,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LSO,2014,2.372849,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CAF,2014,2.360932,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNG,2014,2.355608,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GNQ,2014,2.354636,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZWE,2014,2.33928,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TZA,2014,2.330834,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TGO,2014,2.31846,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TKM,2014,2.30495,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRQ,2014,2.29784,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CMR,2014,2.296616,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BTN,2014,2.29013,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HTI,2014,2.269601,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MMR,2014,2.249909,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GMB,2014,2.249081,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MOZ,2014,2.228925,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MRT,2014,2.228909,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KGZ,2014,2.209336,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GAB,2014,2.202899,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+YEM,2014,2.18395,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CUB,2014,2.179734,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SDN,2014,2.160954,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DJI,2014,2.149867,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SYR,2014,2.090922,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ERI,2014,2.084755,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COG,2014,2.077149,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AFG,2014,2.069573,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAR,2014,1.878857,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SOM,2014,1.773126,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SGP,2012,4.125813,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HKG,2012,4.121364,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FIN,2012,4.049717,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DEU,2012,4.03272,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NLD,2012,4.021571,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DNK,2012,4.018193,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEL,2012,3.980262,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JPN,2012,3.93286,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+USA,2012,3.930063,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GBR,2012,3.898316,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUT,2012,3.890392,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FRA,2012,3.851483,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SWE,2012,3.85006,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CAN,2012,3.846479,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LUX,2012,3.822217,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHE,2012,3.803137,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARE,2012,3.77844,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUS,2012,3.7265,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TWN,2012,3.70712,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ESP,2012,3.699725,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KOR,2012,3.695429,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NOR,2012,3.684443,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAF,2012,3.671317,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ITA,2012,3.670711,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRL,2012,3.520077,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHN,2012,3.517017,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUR,2012,3.509463,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRT,2012,3.502831,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MYS,2012,3.494042,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+POL,2012,3.431324,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NZL,2012,3.42034,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISL,2012,3.394894,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+QAT,2012,3.321408,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVN,2012,3.285889,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CYP,2012,3.243102,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGR,2012,3.209452,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SAU,2012,3.177839,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+THA,2012,3.176152,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHL,2012,3.173874,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HUN,2012,3.171371,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUN,2012,3.168596,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HRV,2012,3.162318,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLT,2012,3.157735,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CZE,2012,3.141498,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BRA,2012,3.13114,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IND,2012,3.075887,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MEX,2012,3.062717,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHR,2012,3.053371,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARG,2012,3.046716,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MAR,2012,3.031835,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVK,2012,3.029374,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PHL,2012,3.024864,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VNM,2012,3.004475,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ROM,2012,2.995036,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BIH,2012,2.985346,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+URY,2012,2.983534,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EGY,2012,2.978947,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LTU,2012,2.948307,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IDN,2012,2.94478,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PER,2012,2.935029,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAN,2012,2.926617,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+OMN,2012,2.887491,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+YEM,2012,2.885715,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COL,2012,2.869333,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EST,2012,2.860271,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UKR,2012,2.854411,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEN,2012,2.852637,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BWA,2012,2.841809,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GRC,2012,2.83265,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KWT,2012,2.829627,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAK,2012,2.825614,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MUS,2012,2.81887,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MWI,2012,2.807967,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GTM,2012,2.804983,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SRB,2012,2.799765,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LVA,2012,2.777878,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GEO,2012,2.774072,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ALB,2012,2.773218,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ECU,2012,2.757479,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHS,2012,2.752828,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LKA,2012,2.750421,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CRI,2012,2.746444,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CIV,2012,2.731518,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDG,2012,2.723699,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DOM,2012,2.700172,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KAZ,2012,2.694806,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NER,2012,2.692196,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TZA,2012,2.653681,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NAM,2012,2.653033,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BOL,2012,2.61324,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BLR,2012,2.611583,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SYR,2012,2.603861,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLV,2012,2.601434,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GNB,2012,2.595838,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RUS,2012,2.584962,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBN,2012,2.580148,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TGO,2012,2.579166,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CAF,2012,2.573243,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MKD,2012,2.564755,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARM,2012,2.564369,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KHM,2012,2.562333,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JOR,2012,2.556634,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZWE,2012,2.549114,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDV,2012,2.545227,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HND,2012,2.533225,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CMR,2012,2.527709,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BTN,2012,2.520324,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GHA,2012,2.507655,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LAO,2012,2.499604,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SEN,2012,2.491924,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VEN,2012,2.489532,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRN,2012,2.489397,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRY,2012,2.48255,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+STP,2012,2.481508,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GIN,2012,2.481321,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AZE,2012,2.481118,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UZB,2012,2.46486,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GMB,2012,2.463075,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBR,2012,2.448261,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNE,2012,2.448077,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NGA,2012,2.446722,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KEN,2012,2.433501,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FJI,2012,2.419238,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JAM,2012,2.416717,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DZA,2012,2.414844,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLB,2012,2.413215,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MRT,2012,2.396732,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PNG,2012,2.375238,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MMR,2012,2.36822,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KGZ,2012,2.353238,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GAB,2012,2.344965,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDA,2012,2.330267,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GUY,2012,2.327527,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BFA,2012,2.32259,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AFG,2012,2.297272,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TJK,2012,2.283679,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBY,2012,2.282752,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AGO,2012,2.27602,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RWA,2012,2.267065,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNG,2012,2.25026,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ETH,2012,2.236854,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LSO,2012,2.235958,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAR,2012,2.205073,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CUB,2012,2.196115,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRQ,2012,2.159177,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COM,2012,2.140745,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ERI,2012,2.110199,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SDN,2012,2.103464,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COG,2012,2.084591,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLE,2012,2.079115,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NPL,2012,2.035439,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TCD,2012,2.029731,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HTI,2012,2.026325,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DJI,2012,1.797835,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BDI,2012,1.60996,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DEU,2010,4.11445,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SGP,2010,4.090085,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SWE,2010,4.075576,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NLD,2010,4.068615,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LUX,2010,3.980073,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHE,2010,3.974814,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JPN,2010,3.965889,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GBR,2010,3.954449,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEL,2010,3.942263,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NOR,2010,3.932997,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRL,2010,3.893212,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FIN,2010,3.885315,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HKG,2010,3.876525,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CAN,2010,3.874453,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+USA,2010,3.855811,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DNK,2010,3.846941,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FRA,2010,3.843022,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUS,2010,3.840615,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AUT,2010,3.762671,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TWN,2010,3.705621,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NZL,2010,3.648133,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ITA,2010,3.644385,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KOR,2010,3.637197,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARE,2010,3.63034,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ESP,2010,3.625576,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CZE,2010,3.506553,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHN,2010,3.489039,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAF,2010,3.456708,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MYS,2010,3.440977,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+POL,2010,3.435271,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISR,2010,3.412264,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHR,2010,3.372838,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBN,2010,3.338473,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRT,2010,3.33504,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+THA,2010,3.292271,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KWT,2010,3.281263,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LVA,2010,3.24835,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVK,2010,3.240829,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUR,2010,3.223389,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SAU,2010,3.22077,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BRA,2010,3.198242,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ISL,2010,3.197069,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EST,2010,3.157967,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PHL,2010,3.141933,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LTU,2010,3.134939,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CYP,2010,3.129378,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IND,2010,3.115075,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARG,2010,3.099664,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CHL,2010,3.094723,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MEX,2010,3.047349,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAN,2010,3.024052,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HUN,2010,2.987147,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VNM,2010,2.964607,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GRC,2010,2.955919,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+QAT,2010,2.95016,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CRI,2010,2.908459,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SVN,2010,2.874055,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SEN,2010,2.863148,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ROM,2010,2.841229,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+OMN,2010,2.839455,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TUN,2010,2.835479,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KAZ,2010,2.83319,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGR,2010,2.830857,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLT,2010,2.82433,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DOM,2010,2.82075,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UGA,2010,2.817505,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PER,2010,2.801997,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UZB,2010,2.791121,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BEN,2010,2.787464,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HND,2010,2.779117,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ECU,2010,2.774533,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COL,2010,2.774487,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MKD,2010,2.773526,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HRV,2010,2.769976,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IDN,2010,2.76039,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PRY,2010,2.753469,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+URY,2010,2.752718,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BHS,2010,2.746246,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BGD,2010,2.742782,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SYR,2010,2.740144,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JOR,2010,2.737719,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MUS,2010,2.721068,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SRB,2010,2.685822,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+VEN,2010,2.677583,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZAR,2010,2.675772,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLV,2010,2.673786,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BIH,2010,2.661682,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDG,2010,2.657541,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AZE,2010,2.639554,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GTM,2010,2.631329,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KGZ,2010,2.619121,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+EGY,2010,2.614613,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GEO,2010,2.612827,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RUS,2010,2.608572,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TZA,2010,2.599514,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TGO,2010,2.599417,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GIN,2010,2.596005,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+HTI,2010,2.591604,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KEN,2010,2.589852,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NGA,2010,2.58757,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+YEM,2010,2.58332,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+UKR,2010,2.574824,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRN,2010,2.573985,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDA,2010,2.573285,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CMR,2010,2.548282,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NER,2010,2.539425,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NIC,2010,2.536625,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+JAM,2010,2.533717,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CIV,2010,2.533473,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PAK,2010,2.530255,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ARM,2010,2.524127,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BOL,2010,2.510731,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GMB,2010,2.493386,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TKM,2010,2.491292,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TCD,2010,2.490989,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COG,2010,2.475881,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GHA,2010,2.472855,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LAO,2010,2.46261,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ALB,2010,2.459047,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+COM,2010,2.447585,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNE,2010,2.430895,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GAB,2010,2.413772,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ETH,2010,2.412761,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+PNG,2010,2.410616,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MDV,2010,2.403898,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DJI,2010,2.394566,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBR,2010,2.38198,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BTN,2010,2.380236,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+KHM,2010,2.369976,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+DZA,2010,2.360373,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+TJK,2010,2.346626,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LBY,2010,2.332419,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MMR,2010,2.328603,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BWA,2010,2.318434,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLB,2010,2.30959,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MOZ,2010,2.292945,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+LKA,2010,2.288414,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ZMB,2010,2.28431,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MLI,2010,2.268102,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GUY,2010,2.268051,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+MNG,2010,2.250476,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AGO,2010,2.247351,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+AFG,2010,2.24316,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+FJI,2010,2.235183,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+BFA,2010,2.22564,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SDN,2010,2.20598,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NPL,2010,2.203265,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+IRQ,2010,2.105455,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+GNB,2010,2.101429,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+CUB,2010,2.067025,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+RWA,2010,2.038687,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+NAM,2010,2.020395,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SLE,2010,1.970413,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+ERI,2010,1.696436,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL
+SOM,2010,1.338373,EE3,logistics performance index (LPI) of the World Bank,Wolrd Bank,https://lpi.worldbank.org/ ,MANUAL

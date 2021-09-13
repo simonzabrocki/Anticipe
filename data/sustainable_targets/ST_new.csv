@@ -1,7 +1,7 @@
 ,Number of targets,Relation,Target 1,Target 2
 EE1,1,negative,0.928,
 EE2,1,positive,,51.4
-EE3,1,positive,,100
+EE3,1,positive,,5
 EW1,1,positive,,265.7579346
 EW2,2,negative,25,75
 EW3,1,positive,,10.42671
