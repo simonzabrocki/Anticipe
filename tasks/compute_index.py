@@ -102,7 +102,8 @@ files = {'AB1': 'AB1_SDG.csv',
 def get_df_from_processed_files(files):
     dfs = []
     for indicator, file in files.items():
-        dfs.append(pd.read_csv(f'data/indicator/{indicator}/processed/{file}'))
+        df_indic = pd.read_csv(f'data/indicator/{indicator}/processed/{file}')
+        dfs.append(df_indic)
     df = pd.concat(dfs)
     df = df.dropna(subset=['Year'])
     return df

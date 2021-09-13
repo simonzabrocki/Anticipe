@@ -37,7 +37,7 @@ def test_prepocessed_df_columns(preprocessed_file):
     file, indicator = preprocessed_file
     path = f'data/indicator/{indicator}/processed/{file}'
     df = pd.read_csv(path)
-    assert set(['ISO', 'Year', 'Value', 'Indicator', 'Source', 'URL', 'From']) <= set(df.columns), f"Columns are missing in {path}"
+    assert set(['ISO', 'Year', 'Value', 'Indicator', 'Source', 'URL', 'From', 'Description']) <= set(df.columns), f"Columns are missing in {path}"
 
 
 @pytest.mark.parametrize(('preprocessed_file'), processed_files)
