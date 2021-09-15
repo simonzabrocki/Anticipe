@@ -334,6 +334,7 @@ class IndicatorsAggregation(GreenGrowthStuff):
         missing_values = transposed_indicators.set_index('index').isnull().groupby(level=0).sum().T
         n_indicators_per_cat = self.IND_CAT_DIM.groupby('Category')['Indicator'].count()
 
+
         # Categories with more than 2 indicators (1 missing value allowed)
         select_1 = missing_values[n_indicators_per_cat[(n_indicators_per_cat > 2)].index] <= 1
 
