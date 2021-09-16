@@ -30,8 +30,10 @@ class GreenGrowthIndex(GreenGrowthStuff):
         Green growth index
     """
 
-    def __init__(self, indicators, sustainability_targets):
+    def __init__(self, indicators, sustainability_targets, indicator_aggregation='arithmetic'):
         super(GreenGrowthIndex, self).__init__()
+        self.indicator_aggregation = indicator_aggregation
+
         self.compute(indicators, sustainability_targets)
         return None
 
@@ -68,7 +70,7 @@ class GreenGrowthIndex(GreenGrowthStuff):
         indicators_normed = GreenGrowthScaler().normalize(indicators_fenced, sustainability_targets)
 
         # Aggregating indicators into categories
-        categories = IndicatorsAggregation().compute(indicators_normed)
+        categories = IndicatorsAggregation().compute(indicators_normed, average_method=self.indicator_aggregation)
 
         # Aggregating categories into dimensions
         dimensions = CategoriesAggregation().compute(categories)
@@ -289,7 +291,7 @@ class IndicatorsAggregation(GreenGrowthStuff):
     def __init__(self):
         super(IndicatorsAggregation, self).__init__()
 
-    def compute(self, indicators):
+    def compute(self, indicators, average_method='arithmetic'):
         """ TO IMPROVE
         Aggregates the indicators into 16 categories, using arithmetic mean. Remove the categories not fit for aggregation
         Parameters
@@ -308,7 +310,14 @@ class IndicatorsAggregation(GreenGrowthStuff):
 
         # Aggregate the categories
         categories = transposed.copy()
-        categories = categories.groupby('index').mean().T
+        
+        if average_method == 'arithmetic':
+            categories = categories.groupby('index').mean().T # Arthimetic average ! 
+            
+        if average_method == 'geometric':
+            # categories = geometric average 
+            raise NotImplementedError
+        
         categories.columns.name = None
 
         # Select the complete categories
@@ -334,12 +343,15 @@ class IndicatorsAggregation(GreenGrowthStuff):
         missing_values = transposed_indicators.set_index('index').isnull().groupby(level=0).sum().T
         n_indicators_per_cat = self.IND_CAT_DIM.groupby('Category')['Indicator'].count()
 
+        missing_cat_3 = 1
+        missing_cat_2 = 0
+    
 
         # Categories with more than 2 indicators (1 missing value allowed)
-        select_1 = missing_values[n_indicators_per_cat[(n_indicators_per_cat > 2)].index] <= 1
+        select_1 = missing_values[n_indicators_per_cat[(n_indicators_per_cat > 2)].index] <= missing_cat_3
 
         # Categories with 2 indicators (0 missing values)
-        select_2 = missing_values[n_indicators_per_cat[(n_indicators_per_cat == 2)].index] == 0 #<= 1 # == 0 1 test if one missing value is good
+        select_2 = missing_values[n_indicators_per_cat[(n_indicators_per_cat == 2)].index] <= missing_cat_2
 
         # Categories with 1 indicators (do nothing, will be filtered at next stage)
         select_3 = missing_values[n_indicators_per_cat[(n_indicators_per_cat == 1)].index] >= 0
